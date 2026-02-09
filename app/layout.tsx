@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Navbar from "@/components/Navbar";
 
 export const metadata: Metadata = {
   title: "TrovaIntegratori.it - Confronta Prezzi Integratori e Vitamine",
@@ -21,6 +22,7 @@ export default function RootLayout({
   return (
     <html lang="it">
       <body className="antialiased">
+        <Navbar />
         {children}
       </body>
     </html>
