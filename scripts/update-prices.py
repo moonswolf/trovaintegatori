@@ -16,7 +16,7 @@ PROJECT_DIR = os.path.dirname(SCRIPT_DIR)
 PRODUCTS_FILE = os.path.join(PROJECT_DIR, "data", "products.json")
 HISTORY_FILE = os.path.join(PROJECT_DIR, "data", "price-history.json")
 
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8348433860:AAHnOARPZmqPs51jQFlF3z_FHjTCipBbOj8")
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHANNEL = os.environ.get("TELEGRAM_CHANNEL", "@trovaintegratori")
 AFFILIATE_TAG = "trovaintegrat-21"
 DROP_THRESHOLD = 0.05  # 5% price drop triggers alert
