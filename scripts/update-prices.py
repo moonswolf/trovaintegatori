@@ -69,16 +69,25 @@ def fetch_product_data(asin):
         return {"error": str(e)}
 
 
-def send_telegram(text):
-    """Send message to Telegram channel"""
+def send_telegram(text, photo_url=None):
+    """Send message to Telegram channel, with photo if available"""
     try:
-        url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-        payload = json.dumps({
-            "chat_id": TELEGRAM_CHANNEL,
-            "text": text,
-            "parse_mode": "HTML",
-            "disable_web_page_preview": False
-        }).encode("utf-8")
+        if photo_url and photo_url.startswith("http"):
+            url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
+            payload = json.dumps({
+                "chat_id": TELEGRAM_CHANNEL,
+                "photo": photo_url,
+                "caption": text,
+                "parse_mode": "HTML"
+            }).encode("utf-8")
+        else:
+            url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+            payload = json.dumps({
+                "chat_id": TELEGRAM_CHANNEL,
+                "text": text,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": False
+            }).encode("utf-8")
         req = Request(url, data=payload, headers={"Content-Type": "application/json"})
         urlopen(req, timeout=10)
         return True
@@ -143,7 +152,8 @@ def main():
                         "old_price": old_price,
                         "new_price": new_price,
                         "drop_pct": drop_pct,
-                        "url": p["amazonUrl"]
+                        "url": p["amazonUrl"],
+                        "imageUrl": p.get("imageUrl", "")
                     })
                     print(f"  🔻 PRICE DROP: €{old_price:.2f} → €{new_price:.2f} (-{drop_pct*100:.0f}%)")
 
@@ -175,7 +185,7 @@ def main():
                 f"(-{a['drop_pct']*100:.0f}%)\n\n"
                 f"🛒 <a href=\"{a['url']}\">Acquista su Amazon</a>"
             )
-            send_telegram(text)
+            send_telegram(text, a.get("imageUrl"))
             time.sleep(0.5)
     else:
         print("\nNessun calo di prezzo significativo rilevato.")
