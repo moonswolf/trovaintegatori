@@ -1,0 +1,70 @@
+[
+  {
+    "slug": "vitamine",
+    "name": "Vitamine",
+    "description": "Integratori vitaminici per il benessere quotidiano: vitamina D, C, B12, multivitaminici e complessi B",
+    "icon": "💊",
+    "subcategories": [
+      {"slug": "vitamina-d", "name": "Vitamina D"},
+      {"slug": "vitamina-c", "name": "Vitamina C"},
+      {"slug": "vitamina-b", "name": "Vitamine del gruppo B"},
+      {"slug": "multivitaminici", "name": "Multivitaminici"}
+    ]
+  },
+  {
+    "slug": "minerali",
+    "name": "Minerali",
+    "description": "Integratori minerali essenziali: magnesio, zinco, ferro e altri minerali per la salute",
+    "icon": "⚡",
+    "subcategories": [
+      {"slug": "magnesio", "name": "Magnesio"},
+      {"slug": "zinco", "name": "Zinco"},
+      {"slug": "ferro", "name": "Ferro"},
+      {"slug": "calcio", "name": "Calcio"}
+    ]
+  },
+  {
+    "slug": "omega-3",
+    "name": "Omega-3",
+    "description": "Acidi grassi essenziali omega-3 da pesce e fonti vegetali per cuore e cervello",
+    "icon": "🐟",
+    "subcategories": [
+      {"slug": "olio-pesce", "name": "Olio di pesce"},
+      {"slug": "omega-vegano", "name": "Omega-3 vegano"},
+      {"slug": "krill", "name": "Olio di krill"}
+    ]
+  },
+  {
+    "slug": "collagene",
+    "name": "Collagene",
+    "description": "Integratori di collagene per pelle, articolazioni e tessuto connettivo",
+    "icon": "✨",
+    "subcategories": [
+      {"slug": "collagene-marino", "name": "Collagene marino"},
+      {"slug": "collagene-bovino", "name": "Collagene bovino"},
+      {"slug": "collagene-vegetale", "name": "Collagene vegetale"}
+    ]
+  },
+  {
+    "slug": "probiotici",
+    "name": "Probiotici",
+    "description": "Fermenti lattici e probiotici per l'equilibrio della flora intestinale",
+    "icon": "🦠",
+    "subcategories": [
+      {"slug": "fermenti-lattici", "name": "Fermenti lattici"},
+      {"slug": "probiotici-specifici", "name": "Probiotici specifici"},
+      {"slug": "prebiotici", "name": "Prebiotici"}
+    ]
+  },
+  {
+    "slug": "proteine",
+    "name": "Proteine & Aminoacidi",
+    "description": "Proteine in polvere, aminoacidi e integratori per il supporto muscolare",
+    "icon": "💪",
+    "subcategories": [
+      {"slug": "proteine-whey", "name": "Proteine Whey"},
+      {"slug": "proteine-vegetali", "name": "Proteine vegetali"},
+      {"slug": "aminoacidi", "name": "Aminoacidi"}
+    ]
+  }
+]

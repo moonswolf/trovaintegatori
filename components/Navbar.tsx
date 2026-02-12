@@ -1,10 +1,18 @@
 'use client';
 
 import Link from 'next/link';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+import { getCategories } from '@/lib/data';
+import { Category } from '@/types/product';
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isCategoriesOpen, setIsCategoriesOpen] = useState(false);
+  const [categories, setCategories] = useState<Category[]>([]);
+
+  useEffect(() => {
+    setCategories(getCategories());
+  }, []);
 
   return (
     <nav className="bg-white shadow-md sticky top-0 z-50">
@@ -21,8 +29,49 @@ export default function Navbar() {
             <Link href="/" className="text-gray-700 hover:text-emerald-600 transition">
               Home
             </Link>
+            
+            {/* Categories Dropdown */}
+            <div className="relative">
+              <button
+                onMouseEnter={() => setIsCategoriesOpen(true)}
+                onMouseLeave={() => setIsCategoriesOpen(false)}
+                className="text-gray-700 hover:text-emerald-600 transition flex items-center gap-1"
+              >
+                Categorie
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+              
+              {isCategoriesOpen && (
+                <div 
+                  className="absolute top-full left-0 mt-1 bg-white border border-gray-200 rounded-lg shadow-lg py-2 w-64 z-50"
+                  onMouseEnter={() => setIsCategoriesOpen(true)}
+                  onMouseLeave={() => setIsCategoriesOpen(false)}
+                >
+                  {categories.map((category) => (
+                    <Link
+                      key={category.slug}
+                      href={`/categoria/${category.slug}`}
+                      className="block px-4 py-2 hover:bg-gray-50 text-gray-700 hover:text-emerald-600 transition"
+                    >
+                      <div className="flex items-center gap-3">
+                        <span className="text-lg">{category.icon}</span>
+                        <div>
+                          <div className="font-medium">{category.name}</div>
+                          <div className="text-xs text-gray-500 line-clamp-1">
+                            {category.description.slice(0, 50)}...
+                          </div>
+                        </div>
+                      </div>
+                    </Link>
+                  ))}
+                </div>
+              )}
+            </div>
+
             <Link href="/confronta" className="text-gray-700 hover:text-emerald-600 transition font-medium">
-              Confronta Prezzi
+              🤖 Confronta Prezzi
             </Link>
             <Link href="/come-funziona" className="text-gray-700 hover:text-emerald-600 transition">
               Come Funziona
@@ -52,7 +101,7 @@ export default function Navbar() {
 
         {/* Mobile Menu */}
         {isMenuOpen && (
-          <div className="md:hidden pb-4 space-y-2">
+          <div className="md:hidden pb-4 space-y-2 border-t border-gray-200 mt-2 pt-4">
             <Link 
               href="/" 
               className="block px-4 py-2 text-gray-700 hover:bg-gray-100 rounded"
@@ -60,12 +109,30 @@ export default function Navbar() {
             >
               Home
             </Link>
+            
+            {/* Mobile Categories */}
+            <div className="px-4 py-2">
+              <div className="text-gray-700 font-medium mb-2">Categorie</div>
+              <div className="pl-4 space-y-1">
+                {categories.map((category) => (
+                  <Link
+                    key={category.slug}
+                    href={`/categoria/${category.slug}`}
+                    className="block py-1 text-gray-600 hover:text-emerald-600 transition text-sm"
+                    onClick={() => setIsMenuOpen(false)}
+                  >
+                    {category.icon} {category.name}
+                  </Link>
+                ))}
+              </div>
+            </div>
+            
             <Link 
               href="/confronta" 
               className="block px-4 py-2 text-gray-700 hover:bg-gray-100 rounded font-medium"
               onClick={() => setIsMenuOpen(false)}
             >
-              Confronta Prezzi
+              🤖 Confronta Prezzi
             </Link>
             <Link 
               href="/come-funziona" 
