@@ -64,24 +64,6 @@ export default function ProductCard({
           <p className="text-sm text-gray-600 mb-4 line-clamp-2">{product.description}</p>
         )}
 
-        {/* Review Snippet */}
-        {product.reviews && product.reviews.length > 0 && (
-          <div className="bg-gray-50 rounded-lg p-3 mb-3 text-xs">
-            <div className="flex items-center gap-1 mb-1">
-              <RatingStars rating={product.reviews[0].rating} size="sm" />
-              {product.reviews[0].verified && (
-                <span className="text-green-600 font-medium">✓</span>
-              )}
-            </div>
-            <p className="text-gray-700 italic">
-              "{product.reviews[0].text.length > 60 
-                ? product.reviews[0].text.substring(0, 60) + "..." 
-                : product.reviews[0].text}"
-            </p>
-            <p className="text-gray-500 mt-1">- {product.reviews[0].author}</p>
-          </div>
-        )}
-
         {/* Key Details */}
         <div className="space-y-1 text-xs text-gray-600 mb-4">
           <div><strong>Formato:</strong> {product.form}</div>

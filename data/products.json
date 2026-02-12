@@ -5,8 +5,8 @@
     "brand": "Solgar",
     "category": "vitamine",
     "subcategory": "vitamina-d",
-    "price": 18.5,
-    "originalPrice": 24.9,
+    "price": 18.50,
+    "originalPrice": 24.90,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00DH7V8JO?tag=trovaintegrat-21",
     "asin": "B00DH7V8JO",
@@ -17,48 +17,10 @@
     "form": "Capsule vegetali",
     "quantity": "60 capsule",
     "description": "Integratore di Vitamina D3 ad alto dosaggio per ossa, denti e sistema immunitario",
-    "highlights": [
-      "4000 UI per capsula",
-      "Capsule vegetali",
-      "Assorbimento ottimale"
-    ],
+    "highlights": ["4000 UI per capsula", "Capsule vegetali", "Assorbimento ottimale"],
     "pricePerUnit": "€0.31/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Marco",
-        "rating": 5,
-        "title": "Ottimo prodotto Solgar",
-        "text": "Uso questo integratore da 3 mesi e i miei valori di vitamina D sono migliorati notevolmente. Qualità Solgar sempre affidabile.",
-        "date": "2025-11-15",
-        "verified": true
-      },
-      {
-        "author": "Giulia",
-        "rating": 4,
-        "title": "Efficace ma costoso",
-        "text": "Funziona bene, le capsule sono facili da deglutire. Un po' caro rispetto ad altri brand ma la qualità si sente.",
-        "date": "2025-10-22",
-        "verified": true
-      },
-      {
-        "author": "Francesco",
-        "rating": 5,
-        "title": "Consigliatissimo",
-        "text": "Dopo analisi del sangue il medico mi ha consigliato vitamina D ad alto dosaggio. Questo prodotto ha fatto al caso mio perfettamente.",
-        "date": "2025-12-08",
-        "verified": true
-      },
-      {
-        "author": "Elena",
-        "rating": 4,
-        "title": "Buon rapporto qualità prezzo",
-        "text": "Solgar è sempre una garanzia. Confezione da 60 capsule dura due mesi, conveniente.",
-        "date": "2025-09-14",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "swisse-vitamina-d",
@@ -66,8 +28,8 @@
     "brand": "Swisse",
     "category": "vitamine",
     "subcategory": "vitamina-d",
-    "price": 12.9,
-    "originalPrice": 16.9,
+    "price": 12.90,
+    "originalPrice": 16.90,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08F7KQZQN?tag=trovaintegrat-21",
     "asin": "B08F7KQZQN",
@@ -78,40 +40,10 @@
     "form": "Capsule molli",
     "quantity": "150 capsule",
     "description": "Vitamina D per il mantenimento di ossa normali e funzione muscolare",
-    "highlights": [
-      "1000 UI per capsula",
-      "150 capsule",
-      "Prezzo conveniente"
-    ],
+    "highlights": ["1000 UI per capsula", "150 capsule", "Prezzo conveniente"],
     "pricePerUnit": "€0.09/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Andrea",
-        "rating": 4,
-        "title": "Buon prodotto economico",
-        "text": "Vitamina D di buona qualità a prezzo accessibile. Le capsule molli sono facili da ingerire.",
-        "date": "2025-10-30",
-        "verified": true
-      },
-      {
-        "author": "Chiara",
-        "rating": 5,
-        "title": "Perfetto per tutta la famiglia",
-        "text": "Dosaggio ideale per uso quotidiano, 150 capsule durano tanto. Lo consiglio.",
-        "date": "2025-11-12",
-        "verified": true
-      },
-      {
-        "author": "Luca",
-        "rating": 4,
-        "title": "Ottimo rapporto qualità prezzo",
-        "text": "Swisse sempre affidabile, confezione grande e prezzo onesto. Soddisfatto dell'acquisto.",
-        "date": "2025-08-25",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "esi-vitamina-c-1000",
@@ -119,8 +51,8 @@
     "brand": "ESI",
     "category": "vitamine",
     "subcategory": "vitamina-c",
-    "price": 9.5,
-    "originalPrice": 12.5,
+    "price": 9.50,
+    "originalPrice": 12.50,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B079KF8QRP?tag=trovaintegrat-21",
     "asin": "B079KF8QRP",
@@ -131,48 +63,10 @@
     "form": "Compresse effervescenti",
     "quantity": "20 compresse",
     "description": "Vitamina C ad alto dosaggio con Rosa canina per sistema immunitario e antiossidante",
-    "highlights": [
-      "1000mg per compressa",
-      "Con Rosa canina",
-      "Effervescente"
-    ],
+    "highlights": ["1000mg per compressa", "Con Rosa canina", "Effervescente"],
     "pricePerUnit": "€0.48/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Sara",
-        "rating": 5,
-        "title": "Effervescenti ottime",
-        "text": "Gusto piacevole e si sciolgono bene. Perfette per la stagione invernale, sento meno i malanni.",
-        "date": "2025-12-01",
-        "verified": true
-      },
-      {
-        "author": "Matteo",
-        "rating": 4,
-        "title": "Buon prodotto ESI",
-        "text": "Vitamina C ad alto dosaggio, mi piace che ci sia anche la rosa canina. Prezzo giusto.",
-        "date": "2025-09-18",
-        "verified": false
-      },
-      {
-        "author": "Federica",
-        "rating": 3,
-        "title": "Va bene ma gusto migliorabile",
-        "text": "Funziona bene per le difese immunitarie ma il gusto potrebbe essere più gradevole.",
-        "date": "2025-11-07",
-        "verified": true
-      },
-      {
-        "author": "Alessandro",
-        "rating": 4,
-        "title": "Comodo formato effervescente",
-        "text": "Mi piace molto il formato effervescente, più facile da assumere rispetto alle compresse normali.",
-        "date": "2025-10-14",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "multicentrum-adulti",
@@ -180,8 +74,8 @@
     "brand": "Multicentrum",
     "category": "vitamine",
     "subcategory": "multivitaminici",
-    "price": 15.9,
-    "originalPrice": 19.9,
+    "price": 15.90,
+    "originalPrice": 19.90,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00L7KJ9QK?tag=trovaintegrat-21",
     "asin": "B00L7KJ9QK",
@@ -192,48 +86,10 @@
     "form": "Compresse rivestite",
     "quantity": "90 compresse",
     "description": "Integratore multivitaminico completo per adulti con vitamine e minerali essenziali",
-    "highlights": [
-      "Formula completa",
-      "90 compresse",
-      "Per 3 mesi"
-    ],
+    "highlights": ["Formula completa", "90 compresse", "Per 3 mesi"],
     "pricePerUnit": "€0.18/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Luca",
-        "rating": 3,
-        "title": "Consigliato",
-        "text": "Buon integratore, facile da assumere e ben tollerato. Consigliato.",
-        "date": "2025-05-21",
-        "verified": true
-      },
-      {
-        "author": "Paolo",
-        "rating": 4,
-        "title": "Consigliato",
-        "text": "Mi è stato consigliato dal farmacista e devo dire che sono soddisfatto dei risultati.",
-        "date": "2025-06-28",
-        "verified": true
-      },
-      {
-        "author": "Daniele",
-        "rating": 3,
-        "title": "Buona qualità",
-        "text": "Mi è stato consigliato dal farmacista e devo dire che sono soddisfatto dei risultati.",
-        "date": "2025-05-04",
-        "verified": false
-      },
-      {
-        "author": "Paola",
-        "rating": 5,
-        "title": "Ottimo integratore",
-        "text": "Mi è stato consigliato dal farmacista e devo dire che sono soddisfatto dei risultati.",
-        "date": "2026-01-02",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "natural-point-magnesio-supremo",
@@ -241,8 +97,8 @@
     "brand": "Natural Point",
     "category": "minerali",
     "subcategory": "magnesio",
-    "price": 15.2,
-    "originalPrice": 18.5,
+    "price": 15.20,
+    "originalPrice": 18.50,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B006GNP8QE?tag=trovaintegrat-21",
     "asin": "B006GNP8QE",
@@ -253,40 +109,10 @@
     "form": "Polvere",
     "quantity": "300g",
     "description": "Il magnesio più biodisponibile in forma di citrato per stanchezza e funzione muscolare",
-    "highlights": [
-      "Citrato ad alta biodisponibilità",
-      "Gusto limone",
-      "Senza zucchero"
-    ],
+    "highlights": ["Citrato ad alta biodisponibilità", "Gusto limone", "Senza zucchero"],
     "pricePerUnit": "€0.05/g",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Marco",
-        "rating": 5,
-        "title": "Buon assorbimento",
-        "text": "Il medico mi ha consigliato questo integratore e i risultati si vedono alle analisi.",
-        "date": "2026-01-10",
-        "verified": true
-      },
-      {
-        "author": "Cristina",
-        "rating": 5,
-        "title": "Qualità ottima",
-        "text": "Prodotto di qualità, ben assorbito e senza effetti collaterali. Soddisfatto.",
-        "date": "2025-09-10",
-        "verified": true
-      },
-      {
-        "author": "Francesco",
-        "rating": 3,
-        "title": "Consigliato dal medico",
-        "text": "Assumo regolarmente e mi aiuta molto. Qualità del brand sempre affidabile.",
-        "date": "2025-01-18",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "solgar-magnesio-plus",
@@ -294,8 +120,8 @@
     "brand": "Solgar",
     "category": "minerali",
     "subcategory": "magnesio",
-    "price": 22.5,
-    "originalPrice": 28,
+    "price": 22.50,
+    "originalPrice": 28.00,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B001G7QGQY?tag=trovaintegrat-21",
     "asin": "B001G7QGQY",
@@ -306,48 +132,10 @@
     "form": "Compresse",
     "quantity": "100 compresse",
     "description": "Magnesio con Vitamina B6 per il normale metabolismo energetico",
-    "highlights": [
-      "Con Vitamina B6",
-      "100 compresse",
-      "Qualità Solgar"
-    ],
+    "highlights": ["Con Vitamina B6", "100 compresse", "Qualità Solgar"],
     "pricePerUnit": "€0.23/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Giulia",
-        "rating": 4,
-        "title": "Qualità ottima",
-        "text": "Ottimo rapporto qualità prezzo, confezione conveniente che dura a lungo.",
-        "date": "2025-03-09",
-        "verified": true
-      },
-      {
-        "author": "Sara",
-        "rating": 5,
-        "title": "Efficace",
-        "text": "Il medico mi ha consigliato questo integratore e i risultati si vedono alle analisi.",
-        "date": "2025-05-25",
-        "verified": true
-      },
-      {
-        "author": "Antonio",
-        "rating": 5,
-        "title": "Consigliato dal medico",
-        "text": "Assumo regolarmente e mi aiuta molto. Qualità del brand sempre affidabile.",
-        "date": "2025-02-05",
-        "verified": false
-      },
-      {
-        "author": "Marco",
-        "rating": 5,
-        "title": "Buon assorbimento",
-        "text": "Assumo regolarmente e mi aiuta molto. Qualità del brand sempre affidabile.",
-        "date": "2025-04-11",
-        "verified": false
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "named-sport-zinco",
@@ -355,8 +143,8 @@
     "brand": "Named Sport",
     "category": "minerali",
     "subcategory": "zinco",
-    "price": 8.9,
-    "originalPrice": 11.5,
+    "price": 8.90,
+    "originalPrice": 11.50,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08P5BQVHM?tag=trovaintegrat-21",
     "asin": "B08P5BQVHM",
@@ -367,48 +155,10 @@
     "form": "Compresse",
     "quantity": "100 compresse",
     "description": "Zinco per sistema immunitario, pelle e funzione cognitiva normale",
-    "highlights": [
-      "15mg per compressa",
-      "100 compresse",
-      "Ottimo rapporto qualità-prezzo"
-    ],
+    "highlights": ["15mg per compressa", "100 compresse", "Ottimo rapporto qualità-prezzo"],
     "pricePerUnit": "€0.09/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Maria",
-        "rating": 5,
-        "title": "Consigliato dal medico",
-        "text": "Ottimo rapporto qualità prezzo, confezione conveniente che dura a lungo.",
-        "date": "2025-08-25",
-        "verified": true
-      },
-      {
-        "author": "Giuseppe",
-        "rating": 5,
-        "title": "Buon assorbimento",
-        "text": "Ottimo rapporto qualità prezzo, confezione conveniente che dura a lungo.",
-        "date": "2025-10-05",
-        "verified": true
-      },
-      {
-        "author": "Laura",
-        "rating": 4,
-        "title": "Efficace",
-        "text": "Ottimo rapporto qualità prezzo, confezione conveniente che dura a lungo.",
-        "date": "2025-02-22",
-        "verified": true
-      },
-      {
-        "author": "Francesca",
-        "rating": 3,
-        "title": "Buon assorbimento",
-        "text": "Assumo regolarmente e mi aiuta molto. Qualità del brand sempre affidabile.",
-        "date": "2025-05-07",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "equilibra-ferro",
@@ -416,8 +166,8 @@
     "brand": "Equilibra",
     "category": "minerali",
     "subcategory": "ferro",
-    "price": 12.4,
-    "originalPrice": 15.9,
+    "price": 12.40,
+    "originalPrice": 15.90,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07DXNK8XL?tag=trovaintegrat-21",
     "asin": "B07DXNK8XL",
@@ -428,56 +178,10 @@
     "form": "Compresse",
     "quantity": "60 compresse",
     "description": "Ferro con Vitamina C e Acido folico per energia e formazione globuli rossi",
-    "highlights": [
-      "Con Vitamina C per assorbimento",
-      "Acido folico",
-      "Facile digestione"
-    ],
+    "highlights": ["Con Vitamina C per assorbimento", "Acido folico", "Facile digestione"],
     "pricePerUnit": "€0.21/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Cristina",
-        "rating": 5,
-        "title": "Qualità ottima",
-        "text": "Il medico mi ha consigliato questo integratore e i risultati si vedono alle analisi.",
-        "date": "2025-09-14",
-        "verified": true
-      },
-      {
-        "author": "Valentina",
-        "rating": 4,
-        "title": "Consigliato dal medico",
-        "text": "Il medico mi ha consigliato questo integratore e i risultati si vedono alle analisi.",
-        "date": "2025-07-17",
-        "verified": true
-      },
-      {
-        "author": "Silvia",
-        "rating": 4,
-        "title": "Efficace",
-        "text": "Il medico mi ha consigliato questo integratore e i risultati si vedono alle analisi.",
-        "date": "2025-02-02",
-        "verified": true
-      },
-      {
-        "author": "Alessandro",
-        "rating": 4,
-        "title": "Efficace",
-        "text": "Ottimo rapporto qualità prezzo, confezione conveniente che dura a lungo.",
-        "date": "2025-08-11",
-        "verified": true
-      },
-      {
-        "author": "Emanuele",
-        "rating": 5,
-        "title": "Qualità ottima",
-        "text": "Prodotto di qualità, ben assorbito e senza effetti collaterali. Soddisfatto.",
-        "date": "2025-01-23",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "solgar-omega-3",
@@ -485,8 +189,8 @@
     "brand": "Solgar",
     "category": "omega-3",
     "subcategory": "olio-pesce",
-    "price": 38.9,
-    "originalPrice": 45.5,
+    "price": 38.90,
+    "originalPrice": 45.50,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B001G7QIZE?tag=trovaintegrat-21",
     "asin": "B001G7QIZE",
@@ -497,56 +201,10 @@
     "form": "Capsule softgel",
     "quantity": "50 capsule",
     "description": "Omega-3 concentrati da olio di pesce per cuore e funzione cerebrale",
-    "highlights": [
-      "Triple strength",
-      "Alto contenuto EPA/DHA",
-      "Qualità premium"
-    ],
+    "highlights": ["Triple strength", "Alto contenuto EPA/DHA", "Qualità premium"],
     "pricePerUnit": "€0.78/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Anna",
-        "rating": 4,
-        "title": "Purificazione eccellente",
-        "text": "Capsule facili da deglutire, non lasciano sapore sgradevole. Ottimo prodotto.",
-        "date": "2025-06-12",
-        "verified": true
-      },
-      {
-        "author": "Chiara",
-        "rating": 3,
-        "title": "Ottima qualità",
-        "text": "Capsule facili da deglutire, non lasciano sapore sgradevole. Ottimo prodotto.",
-        "date": "2025-01-17",
-        "verified": false
-      },
-      {
-        "author": "Roberto",
-        "rating": 3,
-        "title": "Ottima qualità",
-        "text": "Uso questo prodotto da mesi per il colesterolo, risultati visibili alle analisi.",
-        "date": "2025-07-20",
-        "verified": true
-      },
-      {
-        "author": "Elena",
-        "rating": 5,
-        "title": "Consigliato",
-        "text": "Uso questo prodotto da mesi per il colesterolo, risultati visibili alle analisi.",
-        "date": "2025-08-26",
-        "verified": false
-      },
-      {
-        "author": "Chiara",
-        "rating": 3,
-        "title": "Ottima qualità",
-        "text": "Capsule facili da deglutire, non lasciano sapore sgradevole. Ottimo prodotto.",
-        "date": "2025-02-15",
-        "verified": false
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "omegor-vitality",
@@ -554,8 +212,8 @@
     "brand": "Omegor",
     "category": "omega-3",
     "subcategory": "olio-pesce",
-    "price": 32.5,
-    "originalPrice": 38,
+    "price": 32.50,
+    "originalPrice": 38.00,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00C8L8J5Y?tag=trovaintegrat-21",
     "asin": "B00C8L8J5Y",
@@ -566,48 +224,10 @@
     "form": "Capsule softgel",
     "quantity": "60 capsule",
     "description": "Omega-3 purificati con tecnologia molecolare avanzata",
-    "highlights": [
-      "Purificazione avanzata",
-      "Senza retrogusto",
-      "60 capsule"
-    ],
+    "highlights": ["Purificazione avanzata", "Senza retrogusto", "60 capsule"],
     "pricePerUnit": "€0.54/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Anna",
-        "rating": 5,
-        "title": "Senza retrogusto",
-        "text": "Finalmente omega-3 senza retrogusto di pesce! Qualità eccellente e ben tollerato.",
-        "date": "2025-04-23",
-        "verified": true
-      },
-      {
-        "author": "Chiara",
-        "rating": 4,
-        "title": "Consigliato",
-        "text": "Capsule facili da deglutire, non lasciano sapore sgradevole. Ottimo prodotto.",
-        "date": "2025-09-18",
-        "verified": true
-      },
-      {
-        "author": "Giuseppe",
-        "rating": 4,
-        "title": "Consigliato",
-        "text": "Capsule facili da deglutire, non lasciano sapore sgradevole. Ottimo prodotto.",
-        "date": "2025-06-03",
-        "verified": false
-      },
-      {
-        "author": "Roberto",
-        "rating": 3,
-        "title": "Ottima qualità",
-        "text": "Finalmente omega-3 senza retrogusto di pesce! Qualità eccellente e ben tollerato.",
-        "date": "2025-08-15",
-        "verified": false
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "nutrimea-omega-vegano",
@@ -616,7 +236,7 @@
     "category": "omega-3",
     "subcategory": "omega-vegano",
     "price": 26.99,
-    "originalPrice": 32.9,
+    "originalPrice": 32.90,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08FMNP2CK?tag=trovaintegrat-21",
     "asin": "B08FMNP2CK",
@@ -627,48 +247,10 @@
     "form": "Capsule softgel vegetali",
     "quantity": "60 capsule",
     "description": "Omega-3 da alghe marine per vegani e vegetariani",
-    "highlights": [
-      "100% vegano",
-      "Da alghe marine",
-      "Senza pesce"
-    ],
+    "highlights": ["100% vegano", "Da alghe marine", "Senza pesce"],
     "pricePerUnit": "€0.45/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Martina",
-        "rating": 5,
-        "title": "Senza retrogusto",
-        "text": "Uso questo prodotto da mesi per il colesterolo, risultati visibili alle analisi.",
-        "date": "2025-05-02",
-        "verified": true
-      },
-      {
-        "author": "Marta",
-        "rating": 5,
-        "title": "Purificazione eccellente",
-        "text": "Uso questo prodotto da mesi per il colesterolo, risultati visibili alle analisi.",
-        "date": "2025-02-18",
-        "verified": true
-      },
-      {
-        "author": "Laura",
-        "rating": 4,
-        "title": "Consigliato",
-        "text": "Qualità premium, si sente la differenza rispetto ad altri brand più economici.",
-        "date": "2025-04-13",
-        "verified": true
-      },
-      {
-        "author": "Michele",
-        "rating": 3,
-        "title": "Purificazione eccellente",
-        "text": "Finalmente omega-3 senza retrogusto di pesce! Qualità eccellente e ben tollerato.",
-        "date": "2025-07-12",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "nutrimea-collagene-marino",
@@ -676,8 +258,8 @@
     "brand": "Nutrimea",
     "category": "collagene",
     "subcategory": "collagene-marino",
-    "price": 29.9,
-    "originalPrice": 35.9,
+    "price": 29.90,
+    "originalPrice": 35.90,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08L6XBTN9?tag=trovaintegrat-21",
     "asin": "B08L6XBTN9",
@@ -688,40 +270,10 @@
     "form": "Polvere",
     "quantity": "300g",
     "description": "Collagene marino idrolizzato per pelle, unghie e articolazioni",
-    "highlights": [
-      "5000mg per dose",
-      "Con Vitamina C",
-      "Gusto neutro"
-    ],
+    "highlights": ["5000mg per dose", "Con Vitamina C", "Gusto neutro"],
     "pricePerUnit": "€0.10/g",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Nicola",
-        "rating": 4,
-        "title": "Ottimo per articolazioni",
-        "text": "Uso questo collagene da 3 mesi e la pelle è visibilmente più luminosa e tonica.",
-        "date": "2025-05-23",
-        "verified": true
-      },
-      {
-        "author": "Andrea",
-        "rating": 3,
-        "title": "Efficace",
-        "text": "Buon prodotto, si scioglie bene e non ha sapore particolare. Consigliato.",
-        "date": "2025-07-06",
-        "verified": true
-      },
-      {
-        "author": "Claudia",
-        "rating": 4,
-        "title": "Ottimo per articolazioni",
-        "text": "Uso questo collagene da 3 mesi e la pelle è visibilmente più luminosa e tonica.",
-        "date": "2026-01-12",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "weightworld-collagene-acido-ialuronico",
@@ -741,40 +293,10 @@
     "form": "Capsule",
     "quantity": "120 capsule",
     "description": "Collagene con Acido Ialuronico e Vitamina C per bellezza e giovinezza",
-    "highlights": [
-      "Formula completa",
-      "120 capsule",
-      "Con acido ialuronico"
-    ],
+    "highlights": ["Formula completa", "120 capsule", "Con acido ialuronico"],
     "pricePerUnit": "€0.21/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Alessandra",
-        "rating": 3,
-        "title": "Efficace",
-        "text": "Buon prodotto, si scioglie bene e non ha sapore particolare. Consigliato.",
-        "date": "2025-07-21",
-        "verified": true
-      },
-      {
-        "author": "Emanuele",
-        "rating": 3,
-        "title": "Efficace",
-        "text": "Ottimo per le articolazioni, sento meno dolori dopo l'attività fisica.",
-        "date": "2025-09-18",
-        "verified": false
-      },
-      {
-        "author": "Claudia",
-        "rating": 4,
-        "title": "Si vede sulla pelle",
-        "text": "Uso questo collagene da 3 mesi e la pelle è visibilmente più luminosa e tonica.",
-        "date": "2025-09-05",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "gloryfeel-collagene-biotina",
@@ -794,48 +316,10 @@
     "form": "Capsule",
     "quantity": "180 capsule",
     "description": "Collagene bovino con Biotina per capelli, pelle e unghie",
-    "highlights": [
-      "180 capsule",
-      "Con biotina",
-      "Ottimo rapporto qualità-prezzo"
-    ],
+    "highlights": ["180 capsule", "Con biotina", "Ottimo rapporto qualità-prezzo"],
     "pricePerUnit": "€0.11/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Michele",
-        "rating": 4,
-        "title": "Buon prodotto",
-        "text": "Risultati visibili dopo poche settimane, unghie più forti e capelli più lucidi.",
-        "date": "2026-01-19",
-        "verified": true
-      },
-      {
-        "author": "Roberta",
-        "rating": 5,
-        "title": "Si vede sulla pelle",
-        "text": "Ottimo per le articolazioni, sento meno dolori dopo l'attività fisica.",
-        "date": "2025-09-28",
-        "verified": true
-      },
-      {
-        "author": "Claudia",
-        "rating": 5,
-        "title": "Ottimo per articolazioni",
-        "text": "Buon prodotto, si scioglie bene e non ha sapore particolare. Consigliato.",
-        "date": "2025-04-16",
-        "verified": false
-      },
-      {
-        "author": "Michele",
-        "rating": 4,
-        "title": "Efficace",
-        "text": "Ottimo per le articolazioni, sento meno dolori dopo l'attività fisica.",
-        "date": "2025-09-08",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "yamamoto-probiotici",
@@ -843,8 +327,8 @@
     "brand": "Yamamoto",
     "category": "probiotici",
     "subcategory": "fermenti-lattici",
-    "price": 18.5,
-    "originalPrice": 23.5,
+    "price": 18.50,
+    "originalPrice": 23.50,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07VN8STLK?tag=trovaintegrat-21",
     "asin": "B07VN8STLK",
@@ -855,56 +339,10 @@
     "form": "Capsule gastroresistenti",
     "quantity": "30 capsule",
     "description": "Probiotici ad alta concentrazione per equilibrio flora intestinale",
-    "highlights": [
-      "20 miliardi UFC",
-      "8 ceppi diversi",
-      "Gastroresistenti"
-    ],
+    "highlights": ["20 miliardi UFC", "8 ceppi diversi", "Gastroresistenti"],
     "pricePerUnit": "€0.62/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Matteo",
-        "rating": 3,
-        "title": "Consigliato",
-        "text": "Ottimi fermenti lattici, hanno riequilibrato la mia flora intestinale in poco tempo.",
-        "date": "2025-12-19",
-        "verified": true
-      },
-      {
-        "author": "Anna",
-        "rating": 4,
-        "title": "Efficace per intestino",
-        "text": "Li uso dopo terapie antibiotiche, molto efficaci per ripristinare l'equilibrio.",
-        "date": "2025-08-20",
-        "verified": true
-      },
-      {
-        "author": "Martina",
-        "rating": 5,
-        "title": "Efficace per intestino",
-        "text": "Prodotto di qualità, noto miglioramenti nella digestione dopo pochi giorni.",
-        "date": "2025-08-28",
-        "verified": false
-      },
-      {
-        "author": "Valentina",
-        "rating": 3,
-        "title": "Buoni fermenti",
-        "text": "Capsule pratiche da assumere, alta concentrazione di fermenti attivi.",
-        "date": "2025-05-02",
-        "verified": false
-      },
-      {
-        "author": "Roberta",
-        "rating": 3,
-        "title": "Funziona bene",
-        "text": "Ottimi fermenti lattici, hanno riequilibrato la mia flora intestinale in poco tempo.",
-        "date": "2025-12-02",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "named-enterolactis",
@@ -912,8 +350,8 @@
     "brand": "Named",
     "category": "probiotici",
     "subcategory": "fermenti-lattici",
-    "price": 14.9,
-    "originalPrice": 18.5,
+    "price": 14.90,
+    "originalPrice": 18.50,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01MYLV7VH?tag=trovaintegrat-21",
     "asin": "B01MYLV7VH",
@@ -924,56 +362,10 @@
     "form": "Capsule",
     "quantity": "20 capsule",
     "description": "Fermenti lattici specifici per benessere intestinale",
-    "highlights": [
-      "Lactobacillus casei",
-      "8 miliardi UFC",
-      "20 capsule"
-    ],
+    "highlights": ["Lactobacillus casei", "8 miliardi UFC", "20 capsule"],
     "pricePerUnit": "€0.75/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Davide",
-        "rating": 3,
-        "title": "Efficace per intestino",
-        "text": "Ottimi fermenti lattici, hanno riequilibrato la mia flora intestinale in poco tempo.",
-        "date": "2025-11-13",
-        "verified": true
-      },
-      {
-        "author": "Michele",
-        "rating": 3,
-        "title": "Efficace per intestino",
-        "text": "Ottimi fermenti lattici, hanno riequilibrato la mia flora intestinale in poco tempo.",
-        "date": "2025-04-05",
-        "verified": true
-      },
-      {
-        "author": "Alessandra",
-        "rating": 4,
-        "title": "Funziona bene",
-        "text": "Capsule pratiche da assumere, alta concentrazione di fermenti attivi.",
-        "date": "2025-04-01",
-        "verified": true
-      },
-      {
-        "author": "Emanuele",
-        "rating": 3,
-        "title": "Efficace per intestino",
-        "text": "Capsule pratiche da assumere, alta concentrazione di fermenti attivi.",
-        "date": "2025-08-13",
-        "verified": true
-      },
-      {
-        "author": "Giorgia",
-        "rating": 3,
-        "title": "Consigliato",
-        "text": "Capsule pratiche da assumere, alta concentrazione di fermenti attivi.",
-        "date": "2025-11-28",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "equilibra-fermenti-lattici",
@@ -981,68 +373,22 @@
     "brand": "Equilibra",
     "category": "probiotici",
     "subcategory": "fermenti-lattici",
-    "price": 12.9,
-    "originalPrice": 16.9,
+    "price": 12.90,
+    "originalPrice": 16.90,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07B4NQZQL?tag=trovaintegrat-21",
     "asin": "B07B4NQZQL",
     "imageUrl": "/images/products/placeholder.svg",
-    "rating": 4,
+    "rating": 4.0,
     "reviewCount": 423,
     "composition": "12 miliardi UFC, 5 ceppi batterici",
     "form": "Bustine",
     "quantity": "20 bustine",
     "description": "Fermenti lattici in bustine per adulti e bambini",
-    "highlights": [
-      "12 miliardi UFC",
-      "5 ceppi",
-      "Facile assunzione"
-    ],
+    "highlights": ["12 miliardi UFC", "5 ceppi", "Facile assunzione"],
     "pricePerUnit": "€0.65/bustina",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Elena",
-        "rating": 5,
-        "title": "Buoni fermenti",
-        "text": "Capsule pratiche da assumere, alta concentrazione di fermenti attivi.",
-        "date": "2025-03-17",
-        "verified": true
-      },
-      {
-        "author": "Matteo",
-        "rating": 3,
-        "title": "Consigliato",
-        "text": "Prodotto di qualità, noto miglioramenti nella digestione dopo pochi giorni.",
-        "date": "2025-11-11",
-        "verified": true
-      },
-      {
-        "author": "Nicola",
-        "rating": 4,
-        "title": "Efficace per intestino",
-        "text": "Capsule pratiche da assumere, alta concentrazione di fermenti attivi.",
-        "date": "2025-03-30",
-        "verified": false
-      },
-      {
-        "author": "Luca",
-        "rating": 3,
-        "title": "Efficace per intestino",
-        "text": "Ottimi fermenti lattici, hanno riequilibrato la mia flora intestinale in poco tempo.",
-        "date": "2025-01-14",
-        "verified": false
-      },
-      {
-        "author": "Roberta",
-        "rating": 5,
-        "title": "Efficace per intestino",
-        "text": "Capsule pratiche da assumere, alta concentrazione di fermenti attivi.",
-        "date": "2025-05-18",
-        "verified": false
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "myprotein-whey",
@@ -1062,40 +408,10 @@
     "form": "Polvere",
     "quantity": "2.5kg",
     "description": "Proteine whey isolate per crescita muscolare e recupero",
-    "highlights": [
-      "21g proteine",
-      "2.5kg",
-      "Vari gusti"
-    ],
+    "highlights": ["21g proteine", "2.5kg", "Vari gusti"],
     "pricePerUnit": "€0.018/g",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Stefano",
-        "rating": 4,
-        "title": "Efficace",
-        "text": "Proteine di alta qualità, facilmente digeribili e senza effetti collaterali.",
-        "date": "2025-09-23",
-        "verified": true
-      },
-      {
-        "author": "Davide",
-        "rating": 3,
-        "title": "Buon sapore",
-        "text": "Ottime proteine per il post workout, gusto gradevole e si miscela facilmente.",
-        "date": "2025-08-20",
-        "verified": true
-      },
-      {
-        "author": "Francesca",
-        "rating": 4,
-        "title": "Si miscela bene",
-        "text": "Qualità eccellente, noto risultati nella crescita muscolare. Lo ricompro sempre.",
-        "date": "2025-09-29",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "yamamoto-bcaa",
@@ -1103,8 +419,8 @@
     "brand": "Yamamoto",
     "category": "proteine",
     "subcategory": "aminoacidi",
-    "price": 23.9,
-    "originalPrice": 29.9,
+    "price": 23.90,
+    "originalPrice": 29.90,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08H4QN8YZ?tag=trovaintegrat-21",
     "asin": "B08H4QN8YZ",
@@ -1115,48 +431,10 @@
     "form": "Compresse",
     "quantity": "200 compresse",
     "description": "Aminoacidi ramificati per massa muscolare e recupero",
-    "highlights": [
-      "Rapporto 8:1:1",
-      "200 compresse",
-      "Pre e post workout"
-    ],
+    "highlights": ["Rapporto 8:1:1", "200 compresse", "Pre e post workout"],
     "pricePerUnit": "€0.12/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Davide",
-        "rating": 5,
-        "title": "Efficace",
-        "text": "Buon rapporto qualità prezzo, confezione grande che dura a lungo.",
-        "date": "2025-07-07",
-        "verified": true
-      },
-      {
-        "author": "Marco",
-        "rating": 5,
-        "title": "Buon sapore",
-        "text": "Ottime proteine per il post workout, gusto gradevole e si miscela facilmente.",
-        "date": "2025-09-30",
-        "verified": true
-      },
-      {
-        "author": "Marta",
-        "rating": 5,
-        "title": "Si miscela bene",
-        "text": "Proteine di alta qualità, facilmente digeribili e senza effetti collaterali.",
-        "date": "2026-01-26",
-        "verified": true
-      },
-      {
-        "author": "Francesco",
-        "rating": 3,
-        "title": "Si miscela bene",
-        "text": "Ottime proteine per il post workout, gusto gradevole e si miscela facilmente.",
-        "date": "2025-11-24",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "vegan-protein-foodspring",
@@ -1176,56 +454,10 @@
     "form": "Polvere",
     "quantity": "750g",
     "description": "Proteine vegetali complete per vegani e vegetariani",
-    "highlights": [
-      "100% vegetale",
-      "25g proteine",
-      "Profilo aminoacidico completo"
-    ],
+    "highlights": ["100% vegetale", "25g proteine", "Profilo aminoacidico completo"],
     "pricePerUnit": "€0.047/g",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Francesco",
-        "rating": 5,
-        "title": "Buon sapore",
-        "text": "Proteine di alta qualità, facilmente digeribili e senza effetti collaterali.",
-        "date": "2026-01-10",
-        "verified": true
-      },
-      {
-        "author": "Giorgia",
-        "rating": 3,
-        "title": "Si miscela bene",
-        "text": "Proteine di alta qualità, facilmente digeribili e senza effetti collaterali.",
-        "date": "2025-11-09",
-        "verified": true
-      },
-      {
-        "author": "Federica",
-        "rating": 4,
-        "title": "Qualità ottima",
-        "text": "Ottime proteine per il post workout, gusto gradevole e si miscela facilmente.",
-        "date": "2025-01-26",
-        "verified": true
-      },
-      {
-        "author": "Anna",
-        "rating": 5,
-        "title": "Efficace",
-        "text": "Proteine di alta qualità, facilmente digeribili e senza effetti collaterali.",
-        "date": "2025-07-06",
-        "verified": false
-      },
-      {
-        "author": "Paolo",
-        "rating": 4,
-        "title": "Buon sapore",
-        "text": "Proteine di alta qualità, facilmente digeribili e senza effetti collaterali.",
-        "date": "2025-07-28",
-        "verified": false
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "swisse-multivitaminico-uomo",
@@ -1233,8 +465,8 @@
     "brand": "Swisse",
     "category": "vitamine",
     "subcategory": "multivitaminici",
-    "price": 19.9,
-    "originalPrice": 24.9,
+    "price": 19.90,
+    "originalPrice": 24.90,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07VWQ7KNM?tag=trovaintegrat-21",
     "asin": "B07VWQ7KNM",
@@ -1245,40 +477,10 @@
     "form": "Compresse",
     "quantity": "60 compresse",
     "description": "Multivitaminico formulato specificamente per le esigenze maschili",
-    "highlights": [
-      "Formula uomo",
-      "27 nutrienti",
-      "60 compresse"
-    ],
+    "highlights": ["Formula uomo", "27 nutrienti", "60 compresse"],
     "pricePerUnit": "€0.33/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Luca",
-        "rating": 4,
-        "title": "Consigliato",
-        "text": "Prodotto valido, confezione ben fatta. Lo ricomprerò sicuramente.",
-        "date": "2025-04-24",
-        "verified": false
-      },
-      {
-        "author": "Giorgia",
-        "rating": 3,
-        "title": "Funziona bene",
-        "text": "Prodotto valido, confezione ben fatta. Lo ricomprerò sicuramente.",
-        "date": "2025-01-29",
-        "verified": true
-      },
-      {
-        "author": "Andrea",
-        "rating": 5,
-        "title": "Funziona bene",
-        "text": "Prendo questo integratore da qualche mese e mi trovo bene. Qualità buona e prezzo onesto.",
-        "date": "2025-09-23",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "vitarmonyl-spirulina",
@@ -1286,8 +488,8 @@
     "brand": "Vitarmonyl",
     "category": "proteine",
     "subcategory": "proteine-vegetali",
-    "price": 16.9,
-    "originalPrice": 21.9,
+    "price": 16.90,
+    "originalPrice": 21.90,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07X8K5L9Q?tag=trovaintegrat-21",
     "asin": "B07X8K5L9Q",
@@ -1298,40 +500,10 @@
     "form": "Compresse",
     "quantity": "200 compresse",
     "description": "Microalga ricca di proteine, vitamine e minerali certificata biologica",
-    "highlights": [
-      "Biologica certificata",
-      "200 compresse",
-      "Superfood naturale"
-    ],
+    "highlights": ["Biologica certificata", "200 compresse", "Superfood naturale"],
     "pricePerUnit": "€0.08/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Federica",
-        "rating": 3,
-        "title": "Qualità ottima",
-        "text": "Proteine di alta qualità, facilmente digeribili e senza effetti collaterali.",
-        "date": "2025-01-31",
-        "verified": true
-      },
-      {
-        "author": "Laura",
-        "rating": 5,
-        "title": "Efficace",
-        "text": "Qualità eccellente, noto risultati nella crescita muscolare. Lo ricompro sempre.",
-        "date": "2025-10-20",
-        "verified": true
-      },
-      {
-        "author": "Paolo",
-        "rating": 5,
-        "title": "Buon sapore",
-        "text": "Proteine di alta qualità, facilmente digeribili e senza effetti collaterali.",
-        "date": "2025-10-12",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "melatonina-arkopharma",
@@ -1339,8 +511,8 @@
     "brand": "Arkopharma",
     "category": "vitamine",
     "subcategory": "vitamina-b",
-    "price": 13.5,
-    "originalPrice": 17.9,
+    "price": 13.50,
+    "originalPrice": 17.90,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08WK7LQZF?tag=trovaintegrat-21",
     "asin": "B08WK7LQZF",
@@ -1351,56 +523,10 @@
     "form": "Compresse sublinguali",
     "quantity": "30 compresse",
     "description": "Melatonina per regolare il ciclo sonno-veglia con estratti vegetali",
-    "highlights": [
-      "1.9mg melatonina",
-      "Sublinguali",
-      "Con estratti naturali"
-    ],
+    "highlights": ["1.9mg melatonina", "Sublinguali", "Con estratti naturali"],
     "pricePerUnit": "€0.45/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Giulia",
-        "rating": 5,
-        "title": "Funziona bene",
-        "text": "Mi è stato consigliato dal farmacista e devo dire che sono soddisfatto dei risultati.",
-        "date": "2025-06-01",
-        "verified": true
-      },
-      {
-        "author": "Giuseppe",
-        "rating": 3,
-        "title": "Funziona bene",
-        "text": "Prendo questo integratore da qualche mese e mi trovo bene. Qualità buona e prezzo onesto.",
-        "date": "2025-10-11",
-        "verified": true
-      },
-      {
-        "author": "Andrea",
-        "rating": 4,
-        "title": "Buona qualità",
-        "text": "Buon integratore, facile da assumere e ben tollerato. Consigliato.",
-        "date": "2025-01-02",
-        "verified": true
-      },
-      {
-        "author": "Elena",
-        "rating": 3,
-        "title": "Funziona bene",
-        "text": "Buon integratore, facile da assumere e ben tollerato. Consigliato.",
-        "date": "2025-12-16",
-        "verified": true
-      },
-      {
-        "author": "Elena",
-        "rating": 4,
-        "title": "Ottimo integratore",
-        "text": "Prodotto valido, confezione ben fatta. Lo ricomprerò sicuramente.",
-        "date": "2025-11-03",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "coq10-solgar",
@@ -1408,8 +534,8 @@
     "brand": "Solgar",
     "category": "vitamine",
     "subcategory": "vitamina-b",
-    "price": 32.9,
-    "originalPrice": 38.5,
+    "price": 32.90,
+    "originalPrice": 38.50,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B001G7QGZ8?tag=trovaintegrat-21",
     "asin": "B001G7QGZ8",
@@ -1420,56 +546,10 @@
     "form": "Capsule softgel",
     "quantity": "30 capsule",
     "description": "Coenzima Q-10 per energia cellulare e supporto cardiovascolare",
-    "highlights": [
-      "100mg per capsula",
-      "Alta biodisponibilità",
-      "30 capsule"
-    ],
+    "highlights": ["100mg per capsula", "Alta biodisponibilità", "30 capsule"],
     "pricePerUnit": "€1.10/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Alessandro",
-        "rating": 3,
-        "title": "Buona qualità",
-        "text": "Prendo questo integratore da qualche mese e mi trovo bene. Qualità buona e prezzo onesto.",
-        "date": "2025-09-02",
-        "verified": true
-      },
-      {
-        "author": "Giuseppe",
-        "rating": 3,
-        "title": "Ottimo integratore",
-        "text": "Mi è stato consigliato dal farmacista e devo dire che sono soddisfatto dei risultati.",
-        "date": "2025-01-01",
-        "verified": true
-      },
-      {
-        "author": "Silvia",
-        "rating": 5,
-        "title": "Soddisfatto",
-        "text": "Mi è stato consigliato dal farmacista e devo dire che sono soddisfatto dei risultati.",
-        "date": "2026-01-21",
-        "verified": true
-      },
-      {
-        "author": "Martina",
-        "rating": 3,
-        "title": "Ottimo integratore",
-        "text": "Mi è stato consigliato dal farmacista e devo dire che sono soddisfatto dei risultati.",
-        "date": "2025-07-22",
-        "verified": false
-      },
-      {
-        "author": "Paola",
-        "rating": 5,
-        "title": "Soddisfatto",
-        "text": "Prendo questo integratore da qualche mese e mi trovo bene. Qualità buona e prezzo onesto.",
-        "date": "2026-01-30",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "curcuma-piperina-nutrimea",
@@ -1477,8 +557,8 @@
     "brand": "Nutrimea",
     "category": "vitamine",
     "subcategory": "multivitaminici",
-    "price": 21.9,
-    "originalPrice": 27.9,
+    "price": 21.90,
+    "originalPrice": 27.90,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07H8NN5QR?tag=trovaintegrat-21",
     "asin": "B07H8NN5QR",
@@ -1489,48 +569,10 @@
     "form": "Capsule",
     "quantity": "120 capsule",
     "description": "Curcuma con piperina per proprietà antinfiammatorie e antiossidanti",
-    "highlights": [
-      "Con piperina",
-      "120 capsule",
-      "Antiossidante naturale"
-    ],
+    "highlights": ["Con piperina", "120 capsule", "Antiossidante naturale"],
     "pricePerUnit": "€0.18/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Francesco",
-        "rating": 4,
-        "title": "Consigliato",
-        "text": "Mi è stato consigliato dal farmacista e devo dire che sono soddisfatto dei risultati.",
-        "date": "2025-11-22",
-        "verified": true
-      },
-      {
-        "author": "Roberta",
-        "rating": 3,
-        "title": "Buona qualità",
-        "text": "Prodotto valido, confezione ben fatta. Lo ricomprerò sicuramente.",
-        "date": "2025-08-30",
-        "verified": true
-      },
-      {
-        "author": "Daniele",
-        "rating": 3,
-        "title": "Consigliato",
-        "text": "Prendo questo integratore da qualche mese e mi trovo bene. Qualità buona e prezzo onesto.",
-        "date": "2025-11-04",
-        "verified": false
-      },
-      {
-        "author": "Giuseppe",
-        "rating": 4,
-        "title": "Soddisfatto",
-        "text": "Buon integratore, facile da assumere e ben tollerato. Consigliato.",
-        "date": "2026-01-13",
-        "verified": false
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "ashwagandha-nutravita",
@@ -1550,40 +592,10 @@
     "form": "Capsule vegetali",
     "quantity": "120 capsule",
     "description": "Ashwagandha per stress, energia e benessere mentale",
-    "highlights": [
-      "Estratto KSM-66",
-      "600mg per dose",
-      "120 capsule"
-    ],
+    "highlights": ["Estratto KSM-66", "600mg per dose", "120 capsule"],
     "pricePerUnit": "€0.16/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Maria",
-        "rating": 5,
-        "title": "Consigliato",
-        "text": "Buon integratore, facile da assumere e ben tollerato. Consigliato.",
-        "date": "2025-12-27",
-        "verified": true
-      },
-      {
-        "author": "Paola",
-        "rating": 3,
-        "title": "Consigliato",
-        "text": "Prendo questo integratore da qualche mese e mi trovo bene. Qualità buona e prezzo onesto.",
-        "date": "2025-02-15",
-        "verified": false
-      },
-      {
-        "author": "Roberto",
-        "rating": 4,
-        "title": "Consigliato",
-        "text": "Buon integratore, facile da assumere e ben tollerato. Consigliato.",
-        "date": "2025-02-01",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "resveratrolo-gloryfeel",
@@ -1603,40 +615,10 @@
     "form": "Capsule vegetali",
     "quantity": "90 capsule",
     "description": "Antiossidante naturale per longevità e protezione cellulare",
-    "highlights": [
-      "500mg resveratrolo",
-      "90 capsule",
-      "Antiaging"
-    ],
+    "highlights": ["500mg resveratrolo", "90 capsule", "Antiaging"],
     "pricePerUnit": "€0.19/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Anna",
-        "rating": 5,
-        "title": "Funziona bene",
-        "text": "Prodotto valido, confezione ben fatta. Lo ricomprerò sicuramente.",
-        "date": "2025-11-18",
-        "verified": true
-      },
-      {
-        "author": "Marco",
-        "rating": 3,
-        "title": "Funziona bene",
-        "text": "Buon integratore, facile da assumere e ben tollerato. Consigliato.",
-        "date": "2025-03-17",
-        "verified": true
-      },
-      {
-        "author": "Davide",
-        "rating": 3,
-        "title": "Soddisfatto",
-        "text": "Mi è stato consigliato dal farmacista e devo dire che sono soddisfatto dei risultati.",
-        "date": "2025-09-20",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   },
   {
     "id": "calcio-magnesio-solgar",
@@ -1644,8 +626,8 @@
     "brand": "Solgar",
     "category": "minerali",
     "subcategory": "calcio",
-    "price": 26.5,
-    "originalPrice": 31.5,
+    "price": 26.50,
+    "originalPrice": 31.50,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B001G7QH5C?tag=trovaintegrat-21",
     "asin": "B001G7QH5C",
@@ -1656,55 +638,9 @@
     "form": "Compresse",
     "quantity": "100 compresse",
     "description": "Formula completa per ossa, denti e funzione muscolare",
-    "highlights": [
-      "Rapporto 2:1",
-      "Con zinco",
-      "100 compresse"
-    ],
+    "highlights": ["Rapporto 2:1", "Con zinco", "100 compresse"],
     "pricePerUnit": "€0.27/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12",
-    "reviews": [
-      {
-        "author": "Giulia",
-        "rating": 5,
-        "title": "Buon assorbimento",
-        "text": "Il medico mi ha consigliato questo integratore e i risultati si vedono alle analisi.",
-        "date": "2025-12-27",
-        "verified": true
-      },
-      {
-        "author": "Giulia",
-        "rating": 3,
-        "title": "Qualità ottima",
-        "text": "Ottimo rapporto qualità prezzo, confezione conveniente che dura a lungo.",
-        "date": "2025-02-13",
-        "verified": false
-      },
-      {
-        "author": "Claudia",
-        "rating": 5,
-        "title": "Efficace",
-        "text": "Ottimo rapporto qualità prezzo, confezione conveniente che dura a lungo.",
-        "date": "2025-02-03",
-        "verified": true
-      },
-      {
-        "author": "Martina",
-        "rating": 5,
-        "title": "Qualità ottima",
-        "text": "Il medico mi ha consigliato questo integratore e i risultati si vedono alle analisi.",
-        "date": "2025-05-16",
-        "verified": true
-      },
-      {
-        "author": "Stefano",
-        "rating": 5,
-        "title": "Buon assorbimento",
-        "text": "Ottimo rapporto qualità prezzo, confezione conveniente che dura a lungo.",
-        "date": "2025-03-01",
-        "verified": true
-      }
-    ]
+    "lastUpdated": "2026-02-12"
   }
 ]

@@ -20,14 +20,6 @@ export interface Product {
   pricePerUnit: string;
   inStock: boolean;
   lastUpdated: string;
-  reviews?: {
-    author: string;
-    rating: number;
-    title: string;
-    text: string;
-    date: string;
-    verified: boolean;
-  }[];
 }
 
 export interface Category {
