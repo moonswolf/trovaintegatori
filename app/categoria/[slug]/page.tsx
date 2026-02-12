@@ -75,59 +75,57 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
 
       {/* Category Header */}
       <div className="bg-white">
-        <div className="max-w-7xl mx-auto px-4 py-8">
-          <div className="flex items-start gap-6">
-            {/* Icon */}
-            <div className="w-20 h-20 bg-gradient-to-br from-emerald-100 to-emerald-200 rounded-lg flex items-center justify-center flex-shrink-0">
-              <span className="text-4xl">{category.icon}</span>
-            </div>
-
-            {/* Content */}
-            <div className="flex-1">
-              <h1 className="text-4xl font-bold text-gray-900 mb-4">
+        <div className="max-w-7xl mx-auto px-4 py-12">
+          <div className="text-center">
+            {/* Title with inline icon */}
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <span className="text-2xl">{category.icon}</span>
+              <h1 className="text-4xl md:text-5xl font-bold text-gray-900">
                 Integratori di {category.name}
               </h1>
-              <p className="text-lg text-gray-600 mb-6 max-w-3xl">
-                {category.description}
-              </p>
+            </div>
+            
+            {/* Description */}
+            <p className="text-lg md:text-xl text-gray-600 mb-8 max-w-4xl mx-auto">
+              {category.description}
+            </p>
 
-              {/* Stats */}
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-                <div className="bg-gray-50 rounded-lg p-4 text-center">
-                  <div className="text-2xl font-bold text-emerald-600">{products.length}</div>
-                  <div className="text-sm text-gray-600">Prodotti totali</div>
-                </div>
-                <div className="bg-gray-50 rounded-lg p-4 text-center">
-                  <div className="text-2xl font-bold text-emerald-600">{inStockProducts.length}</div>
-                  <div className="text-sm text-gray-600">Disponibili ora</div>
-                </div>
-                <div className="bg-gray-50 rounded-lg p-4 text-center">
-                  <div className="text-2xl font-bold text-emerald-600">€{averagePrice}</div>
-                  <div className="text-sm text-gray-600">Prezzo medio</div>
-                </div>
-                <div className="bg-gray-50 rounded-lg p-4 text-center">
-                  <div className="text-2xl font-bold text-emerald-600">€{priceRange.min}-{priceRange.max}</div>
-                  <div className="text-sm text-gray-600">Range prezzi</div>
-                </div>
+            {/* Stats */}
+            <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8 max-w-4xl mx-auto">
+              <div className="bg-gray-50 rounded-lg p-4 text-center">
+                <div className="text-2xl font-bold text-emerald-600">{products.length}</div>
+                <div className="text-sm text-gray-600">Prodotti totali</div>
               </div>
+              <div className="bg-gray-50 rounded-lg p-4 text-center">
+                <div className="text-2xl font-bold text-emerald-600">{inStockProducts.length}</div>
+                <div className="text-sm text-gray-600">Disponibili ora</div>
+              </div>
+              <div className="bg-gray-50 rounded-lg p-4 text-center">
+                <div className="text-2xl font-bold text-emerald-600">€{averagePrice}</div>
+                <div className="text-sm text-gray-600">Prezzo medio</div>
+              </div>
+              <div className="bg-gray-50 rounded-lg p-4 text-center">
+                <div className="text-2xl font-bold text-emerald-600">€{priceRange.min}-{priceRange.max}</div>
+                <div className="text-sm text-gray-600">Range prezzi</div>
+              </div>
+            </div>
 
-              {/* Subcategories */}
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-3">Sottocategorie:</h3>
-                <div className="flex flex-wrap gap-2">
-                  {category.subcategories.map((subcategory) => {
-                    const subcatProducts = products.filter(p => p.subcategory === subcategory.slug);
-                    return (
-                      <span
-                        key={subcategory.slug}
-                        className="inline-flex items-center bg-emerald-100 text-emerald-800 px-3 py-1 rounded-full text-sm"
-                      >
-                        {subcategory.name}
-                        <span className="ml-1 text-xs">({subcatProducts.length})</span>
-                      </span>
-                    );
-                  })}
-                </div>
+            {/* Subcategories */}
+            <div>
+              <h3 className="font-semibold text-gray-900 mb-4">Sottocategorie</h3>
+              <div className="flex flex-wrap justify-center gap-2 max-w-4xl mx-auto">
+                {category.subcategories.map((subcategory) => {
+                  const subcatProducts = products.filter(p => p.subcategory === subcategory.slug);
+                  return (
+                    <span
+                      key={subcategory.slug}
+                      className="inline-flex items-center bg-emerald-100 text-emerald-800 px-3 py-1 rounded-full text-sm"
+                    >
+                      {subcategory.name}
+                      <span className="ml-1 text-xs">({subcatProducts.length})</span>
+                    </span>
+                  );
+                })}
               </div>
             </div>
           </div>
