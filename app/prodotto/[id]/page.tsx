@@ -4,6 +4,7 @@ import RatingStars from '@/components/RatingStars';
 import ProductCard from '@/components/ProductCard';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import AmazonButton from '@/components/AmazonButton';
+import ReviewsSection from '@/components/ReviewsSection';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
@@ -257,6 +258,13 @@ export default async function ProductPage({ params }: ProductPageProps) {
           </div>
         </div>
       </div>
+
+      {/* Reviews Section */}
+      {product.reviews && product.reviews.length > 0 && (
+        <div className="max-w-7xl mx-auto px-4 py-8">
+          <ReviewsSection reviews={product.reviews} />
+        </div>
+      )}
 
       {/* Similar Products */}
       {similarProducts.length > 0 && (
