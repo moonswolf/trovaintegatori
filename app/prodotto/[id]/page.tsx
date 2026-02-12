@@ -71,11 +71,11 @@ export default async function ProductPage({ params }: ProductPageProps) {
             <Link href="/" className="text-emerald-600 hover:text-emerald-700">
               Home
             </Link>
-            <span className="mx-2 text-gray-500">/</span>
+            <span className="mx-2 text-gray-600">/</span>
             <Link href={`/categoria/${product.category}`} className="text-emerald-600 hover:text-emerald-700">
               {category?.name}
             </Link>
-            <span className="mx-2 text-gray-500">/</span>
+            <span className="mx-2 text-gray-600">/</span>
             <span className="text-gray-900 font-medium">{product.name}</span>
           </nav>
         </div>
@@ -149,7 +149,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
                     €{product.price.toFixed(2)}
                   </span>
                   {product.originalPrice && product.originalPrice > product.price && (
-                    <span className="text-xl text-gray-500 line-through">
+                    <span className="text-xl text-gray-600 line-through">
                       €{product.originalPrice.toFixed(2)}
                     </span>
                   )}

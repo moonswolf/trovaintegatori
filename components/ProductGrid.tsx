@@ -118,7 +118,7 @@ export default function ProductGrid({
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           placeholder="Cerca prodotti..."
-          className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 outline-none"
+          className="w-full px-4 py-2 text-gray-900 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 outline-none"
         />
       </div>
 
@@ -135,7 +135,7 @@ export default function ProductGrid({
                 <select
                   value={filters.brand || ''}
                   onChange={(e) => handleFilterChange('brand', e.target.value || undefined)}
-                  className="w-full px-3 py-2 text-sm border border-gray-300 rounded-md focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
+                  className="w-full px-3 py-2 text-sm text-gray-900 border border-gray-300 rounded-md focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
                 >
                   <option value="">Tutte le marche</option>
                   {brands.map(brand => (
@@ -160,7 +160,7 @@ export default function ProductGrid({
                     min={priceRange.min}
                     max={priceRange.max}
                     step="0.5"
-                    className="w-full px-3 py-2 text-sm border border-gray-300 rounded-md focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
+                    className="w-full px-3 py-2 text-sm text-gray-900 border border-gray-300 rounded-md focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
                   />
                 </div>
                 <div>
@@ -175,7 +175,7 @@ export default function ProductGrid({
                     min={priceRange.min}
                     max={priceRange.max}
                     step="0.5"
-                    className="w-full px-3 py-2 text-sm border border-gray-300 rounded-md focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
+                    className="w-full px-3 py-2 text-sm text-gray-900 border border-gray-300 rounded-md focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500"
                   />
                 </div>
               </>
@@ -269,7 +269,7 @@ export default function ProductGrid({
 
       {/* No Results */}
       {filteredAndSortedProducts.length === 0 && (
-        <div className="text-center py-12 text-gray-500">
+        <div className="text-center py-12 text-gray-600">
           <div className="text-6xl mb-4">🔍</div>
           <h3 className="text-lg font-medium mb-2">Nessun prodotto trovato</h3>
           <p>Prova a modificare i filtri di ricerca o il termine di ricerca.</p>

@@ -59,7 +59,7 @@ export default function Navbar() {
                         <span className="text-lg">{category.icon}</span>
                         <div>
                           <div className="font-medium">{category.name}</div>
-                          <div className="text-xs text-gray-500 line-clamp-1">
+                          <div className="text-xs text-gray-600 line-clamp-1">
                             {category.description.slice(0, 50)}...
                           </div>
                         </div>

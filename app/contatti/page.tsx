@@ -53,8 +53,8 @@ export default function Contatti() {
                   required
                   value={formData.nome}
                   onChange={(e) => setFormData({...formData, nome: e.target.value})}
-                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 outline-none transition"
-                  placeholder="Il tuo nome"
+                  className="w-full px-4 py-2 text-gray-900 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 outline-none transition"
+                  placeholder-gray-600 placeholder="Il tuo nome"
                 />
               </div>
 
@@ -68,8 +68,8 @@ export default function Contatti() {
                   required
                   value={formData.email}
                   onChange={(e) => setFormData({...formData, email: e.target.value})}
-                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 outline-none transition"
-                  placeholder="tua@email.it"
+                  className="w-full px-4 py-2 text-gray-900 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 outline-none transition"
+                  placeholder-gray-600 placeholder="tua@email.it"
                 />
               </div>
 
@@ -83,8 +83,8 @@ export default function Contatti() {
                   value={formData.messaggio}
                   onChange={(e) => setFormData({...formData, messaggio: e.target.value})}
                   rows={6}
-                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 outline-none transition resize-none"
-                  placeholder="Scrivi qui il tuo messaggio..."
+                  className="w-full px-4 py-2 text-gray-900 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 outline-none transition resize-none"
+                  placeholder-gray-600 placeholder="Scrivi qui il tuo messaggio..."
                 />
               </div>
 

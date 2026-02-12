@@ -67,7 +67,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
             <Link href="/" className="text-emerald-600 hover:text-emerald-700">
               Home
             </Link>
-            <span className="mx-2 text-gray-500">/</span>
+            <span className="mx-2 text-gray-600">/</span>
             <span className="text-gray-900 font-medium">{category.name}</span>
           </nav>
         </div>

@@ -81,7 +81,7 @@ export default function EmailForm() {
               {status === "loading" ? "Invio in corso..." : "Avvisami al Lancio 🚀"}
             </button>
             
-            <p className="mt-4 text-sm text-gray-500">
+            <p className="mt-4 text-sm text-gray-600">
               Niente spam. Solo una email quando saremo pronti.
             </p>
           </form>

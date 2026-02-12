@@ -35,7 +35,7 @@ export default function CategoryCard({ category, productCount }: CategoryCardPro
 
           {/* Subcategories */}
           <div className="space-y-1">
-            <div className="text-xs text-gray-500 font-medium">Sottocategorie:</div>
+            <div className="text-xs text-gray-600 font-medium">Sottocategorie:</div>
             <div className="flex flex-wrap gap-1">
               {category.subcategories.slice(0, 4).map((sub, index) => (
                 <span
@@ -46,7 +46,7 @@ export default function CategoryCard({ category, productCount }: CategoryCardPro
                 </span>
               ))}
               {category.subcategories.length > 4 && (
-                <span className="text-xs text-gray-500">
+                <span className="text-xs text-gray-600">
                   +{category.subcategories.length - 4} altre
                 </span>
               )}

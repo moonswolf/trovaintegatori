@@ -95,7 +95,7 @@ export default function ProductCard({
                 €{product.price.toFixed(2)}
               </span>
               {product.originalPrice && product.originalPrice > product.price && (
-                <span className="text-sm text-gray-500 line-through">
+                <span className="text-sm text-gray-600 line-through">
                   €{product.originalPrice.toFixed(2)}
                 </span>
               )}
