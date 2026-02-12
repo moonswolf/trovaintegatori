@@ -87,8 +87,12 @@ export default async function ProductPage({ params }: ProductPageProps) {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
             {/* Product Image */}
             <div className="space-y-4">
-              <div className="w-full h-96 bg-gradient-to-br from-emerald-100 to-emerald-200 rounded-lg flex items-center justify-center relative">
-                <span className="text-8xl">💊</span>
+              <div className="w-full h-96 bg-white rounded-lg flex items-center justify-center relative overflow-hidden">
+                {product.imageUrl && product.imageUrl.startsWith('http') ? (
+                  <img src={product.imageUrl} alt={product.name} className="h-full w-auto object-contain" loading="lazy" />
+                ) : (
+                  <span className="text-8xl">💊</span>
+                )}
                 
                 {/* Discount Badge */}
                 {discount > 0 && (

@@ -27,9 +27,13 @@ export default function ProductCard({
       onClick={onClick}
     >
       <div className="p-6">
-        {/* Product Image Placeholder */}
-        <div className="w-full h-32 bg-gradient-to-br from-emerald-100 to-emerald-200 rounded-lg mb-4 flex items-center justify-center">
-          <div className="text-4xl">💊</div>
+        {/* Product Image */}
+        <div className="w-full h-32 bg-white rounded-lg mb-4 flex items-center justify-center overflow-hidden">
+          {product.imageUrl && product.imageUrl.startsWith('http') ? (
+            <img src={product.imageUrl} alt={product.name} className="h-full w-auto object-contain" loading="lazy" />
+          ) : (
+            <div className="text-4xl">💊</div>
+          )}
         </div>
 
         {/* Discount Badge */}
