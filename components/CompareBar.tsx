@@ -2,12 +2,13 @@
 
 import { useCompare } from './CompareContext';
 import { getProductById } from '@/lib/data';
-import { useRouter } from 'next/navigation';
+import { useRouter, usePathname } from 'next/navigation';
 import { useState } from 'react';
 
 export default function CompareBar() {
   const { compareIds, removeFromCompare, clearCompare } = useCompare();
   const router = useRouter();
+  const pathname = usePathname();
   const [minimized, setMinimized] = useState(false);
 
   if (compareIds.length === 0) return null;
@@ -15,7 +16,12 @@ export default function CompareBar() {
   const products = compareIds.map(id => getProductById(id)).filter(Boolean);
 
   const handleCompare = () => {
-    router.push(`/confronta?ids=${compareIds.join(',')}`);
+    if (pathname === '/confronta') {
+      // Already on confronta page — scroll to top
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } else {
+      router.push(`/confronta?ids=${compareIds.join(',')}`);
+    }
   };
 
   if (minimized) {
