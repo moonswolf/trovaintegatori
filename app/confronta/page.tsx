@@ -95,7 +95,7 @@ function ConfrontaContent() {
   const priceSummary = getPriceSummary();
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-emerald-50 to-white">
+    <div className="min-h-screen bg-gradient-to-b from-emerald-50 to-white pb-24">
       <div className="max-w-7xl mx-auto px-4 py-8">
         {/* Header */}
         <div className="text-center mb-12">
@@ -199,16 +199,16 @@ function ConfrontaContent() {
             </div>
 
             {priceSummary && (
-              <div className="mt-4 grid grid-cols-3 gap-4 text-center">
-                <div className="bg-white rounded p-3">
+              <div className="mt-4 grid grid-cols-2 gap-4 text-center">
+                <div className="bg-white rounded-lg p-3">
                   <div className="text-sm text-gray-600">Prezzo minimo</div>
                   <div className="text-xl font-bold text-green-600">€{priceSummary.min.toFixed(2)}</div>
                 </div>
-                <div className="bg-white rounded p-3">
+                <div className="bg-white rounded-lg p-3">
                   <div className="text-sm text-gray-600">Prezzo massimo</div>
                   <div className="text-xl font-bold text-gray-900">€{priceSummary.max.toFixed(2)}</div>
                 </div>
-                <div className="bg-white rounded p-3">
+                <div className="bg-white rounded-lg p-3 col-span-2">
                   <div className="text-sm text-gray-600">Risparmio potenziale</div>
                   <div className="text-xl font-bold text-emerald-600">
                     €{priceSummary.saving.toFixed(2)} ({priceSummary.savingPercent}%)
