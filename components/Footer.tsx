@@ -116,33 +116,6 @@ export default function Footer() {
             </div>
           </div>
           
-          {/* Features Highlight */}
-          <div className="border-t border-gray-800 pt-8 mb-8">
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
-              <div>
-                <div className="text-2xl mb-2">💰</div>
-                <h5 className="text-white font-medium mb-1">Prezzi Aggiornati</h5>
-                <p className="text-xs text-gray-400">Monitoriamo i prezzi in tempo reale</p>
-              </div>
-              <div>
-                <div className="text-2xl mb-2">🛡️</div>
-                <h5 className="text-white font-medium mb-1">Link Sicuri</h5>
-                <p className="text-xs text-gray-400">Tutti i link portano ad Amazon Italia</p>
-              </div>
-              <div>
-                <div className="text-2xl mb-2">🤖</div>
-                <h5 className="text-white font-medium mb-1">AI Comparison</h5>
-                <p className="text-xs text-gray-400">Confronti intelligenti con IA</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Affiliate Disclosure Bar */}
-      <div className="bg-gray-800 py-3 px-4">
-        <div className="max-w-7xl mx-auto">
-          <AffiliateDisclosure variant="footer" className="text-xs text-gray-400" />
         </div>
       </div>
 

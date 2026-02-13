@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { getProducts, getCategories } from '@/lib/data';
+import comparisons from '@/data/comparisons.json';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://trovaintegratori.it';
@@ -56,5 +57,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticPages, ...categoryPages, ...productPages];
+  // Comparison index
+  const comparisonIndex = [{
+    url: `${baseUrl}/confronto`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }];
+
+  // Comparison pages
+  const comparisonPages = comparisons.map((c) => ({
+    url: `${baseUrl}/confronto/${c.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }));
+
+  return [...staticPages, ...comparisonIndex, ...comparisonPages, ...categoryPages, ...productPages];
 }

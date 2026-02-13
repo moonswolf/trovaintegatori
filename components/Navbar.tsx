@@ -73,6 +73,9 @@ export default function Navbar() {
             <Link href="/confronta" className="text-gray-700 hover:text-emerald-600 transition font-medium">
               🤖 Confronta Prezzi
             </Link>
+            <Link href="/confronto" className="text-gray-700 hover:text-emerald-600 transition">
+              ⚖️ Confronti
+            </Link>
             <Link href="/come-funziona" className="text-gray-700 hover:text-emerald-600 transition">
               Come Funziona
             </Link>
@@ -116,6 +119,13 @@ export default function Navbar() {
               onClick={() => setIsMenuOpen(false)}
             >
               🤖 Confronta Prezzi
+            </Link>
+            <Link 
+              href="/confronto" 
+              className="block px-4 py-3 text-gray-700 hover:bg-gray-100 rounded"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              ⚖️ Confronti
             </Link>
 
             {/* Mobile Categories - collapsible */}
