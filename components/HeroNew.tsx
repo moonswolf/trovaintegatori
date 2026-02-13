@@ -32,13 +32,13 @@ export default function HeroNew() {
           <div className="mt-10 flex justify-center gap-x-6">
             <Link
               href="/confronta"
-              className="group inline-flex items-center justify-center rounded-full bg-emerald-600 px-8 py-4 text-sm font-semibold text-white hover:bg-emerald-700 hover:text-slate-100 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-600 active:bg-emerald-800 active:text-emerald-100 transition"
+              className="group inline-flex items-center justify-center rounded-lg bg-emerald-600 px-8 py-4 text-sm font-semibold text-white hover:bg-emerald-700 hover:text-slate-100 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-600 active:bg-emerald-800 active:text-emerald-100 transition"
             >
               🤖 Confronta con AI
             </Link>
             <Link
               href="#categorie"
-              className="group inline-flex ring-1 items-center justify-center rounded-full ring-slate-200 px-8 py-4 text-sm focus:outline-none hover:ring-slate-300 active:bg-slate-100 active:text-slate-600 focus-visible:outline-blue-600 focus-visible:ring-slate-300 transition"
+              className="group inline-flex ring-1 items-center justify-center rounded-lg ring-slate-200 px-8 py-4 text-sm focus:outline-none hover:ring-slate-300 active:bg-slate-100 active:text-slate-600 focus-visible:outline-blue-600 focus-visible:ring-slate-300 transition"
             >
               <span className="ml-3">Esplora categorie</span>
             </Link>
