@@ -16,13 +16,25 @@ export default function AmazonButton({ amazonUrl, inStock, className = '', child
     );
   }
 
+  const handleClick = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    // GA4 affiliate click tracking
+    if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+      window.gtag('event', 'affiliate_click', {
+        event_category: 'affiliate',
+        event_label: amazonUrl,
+        link_url: amazonUrl,
+      });
+    }
+  };
+
   return (
     <a
       href={amazonUrl}
       target="_blank"
       rel="noopener noreferrer"
       className={className}
-      onClick={(e) => e.stopPropagation()}
+      onClick={handleClick}
     >
       {children}
     </a>
