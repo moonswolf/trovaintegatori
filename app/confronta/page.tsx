@@ -129,10 +129,10 @@ function ConfrontaContent() {
               {selectedProducts.map(p => (
                 <div key={p.id} className="bg-white px-4 py-2 rounded-lg flex items-center gap-2">
                   <span>💊</span>
-                  <span className="font-medium">{p.brand} {p.name}</span>
+                  <a href={`/prodotto/${p.id}`} className="font-medium text-emerald-700 hover:text-emerald-900 hover:underline truncate">{p.brand} {p.name}</a>
                   <button
                     onClick={() => toggleProduct(p)}
-                    className="text-red-500 hover:text-red-700 ml-2"
+                    className="text-red-500 hover:text-red-700 ml-2 flex-shrink-0"
                   >
                     ✕
                   </button>
