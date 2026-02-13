@@ -928,7 +928,10 @@
       "Gusto cioccolato",
       "1kg formato conveniente"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€29.90/confezione",
+    "composition": "Proteine whey al cioccolato per sviluppo muscolare e recupero",
+    "inStock": true
   },
   {
     "id": "esn-designer-whey-protein-vanilla-1000g",
@@ -949,7 +952,10 @@
       "Gusto vaniglia",
       "1kg formato conveniente"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€29.90/confezione",
+    "composition": "Proteine whey alla vaniglia per sviluppo muscolare e recupero",
+    "inStock": true
   },
   {
     "id": "bandini-bcaa-4-1-1-500-compresse",
@@ -971,7 +977,10 @@
       "Con Vitamina B1 e B6",
       "Vegano"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€19.95/confezione",
+    "composition": "BCAA 4:1:1 fermentati con Vitamina B1 e B6 per palestra e sport",
+    "inStock": true
   },
   {
     "id": "bandini-bcaa-4-1-1-150-compresse",
@@ -993,7 +1002,10 @@
       "Con Vitamina B1 e B6",
       "Vegano"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€9.95/confezione",
+    "composition": "BCAA 4:1:1 fermentati con Vitamina B1 e B6 formato 150 compresse",
+    "inStock": true
   },
   {
     "id": "bandini-bcaa-8-1-1-500-compresse",
@@ -1015,7 +1027,10 @@
       "Con Vitamina B1 e B6",
       "Vegano"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€22.95/confezione",
+    "composition": "BCAA 8:1:1 fermentati con Vitamina B1 e B6 per palestra e sport",
+    "inStock": true
   },
   {
     "id": "aavalabs-probiotici-60-miliardi-cfu-60-capsule",
@@ -1037,7 +1052,10 @@
       "Con inulina e zinco",
       "Supporto sistema immunitario"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€23.99/confezione",
+    "composition": "Probiotici e prebiotici per intestino con 60 miliardi CFU, 20 ceppi batterici, inulina e zinco",
+    "inStock": true
   },
   {
     "id": "probiotici-donna-45-miliardi-cfu-60-capsule",
@@ -1059,7 +1077,10 @@
       "Con inulina e L-glutammina",
       "Senza OGM"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€22.99/confezione",
+    "composition": "Probiotici specifici per donna con inulina e L-glutammina, senza OGM, glutine e lattosio",
+    "inStock": true
   },
   {
     "id": "nutrimea-shilajit-puro-2150mg-90-capsule",
@@ -1081,7 +1102,10 @@
       "90 capsule",
       "Energia e vitalità"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€19.90/confezione",
+    "composition": "Shilajit puro estratto 5:1 standardizzato al 50% acido fulvico per energia, vitalità e recupero",
+    "inStock": true
   },
   {
     "id": "nutrimea-ashwagandha-bio-ksm66-90-capsule",
@@ -1103,7 +1127,10 @@
       "90 capsule",
       "Anti-stress naturale"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€17.90/confezione",
+    "composition": "Ashwagandha biologica KSM-66 per stress, mente, sonno e recupero muscolare",
+    "inStock": true
   },
   {
     "id": "acetyl-l-carnitina-250-capsule-3000mg",
@@ -1125,7 +1152,10 @@
       "Forma acetilata",
       "Alta qualità premium"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€24.90/confezione",
+    "composition": "Acetil-L-Carnitina in forma acetilata ad alto dosaggio per metabolismo dei grassi e energia",
+    "inStock": true
   },
   {
     "id": "l-arginina-l-citrullina-320-capsule-1100mg",
@@ -1147,7 +1177,10 @@
       "Rapporto 1:1",
       "Pre-workout naturale"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€22.90/confezione",
+    "composition": "Combinazione di aminoacidi L-Arginina e L-Citrullina per pump e prestazioni sportive",
+    "inStock": true
   },
   {
     "id": "multicentrum-uomo-100-compresse",
@@ -1169,7 +1202,10 @@
       "Con Vitamina D, B6, C",
       "Senza glutine"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€43.30/confezione",
+    "composition": "Multivitaminico completo per uomo con Vitamina D, B6, C contro stanchezza e affaticamento",
+    "inStock": true
   },
   {
     "id": "multicentrum-donna-100-compresse",
@@ -1191,7 +1227,10 @@
       "Con ferro e acido folico",
       "Supporto ossa e immunità"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€43.30/confezione",
+    "composition": "Multivitaminico completo per donna con Vitamina D, K, Acido Folico, Calcio e Ferro",
+    "inStock": true
   },
   {
     "id": "multicentrum-adulti-180-compresse-maxi",
@@ -1213,7 +1252,10 @@
       "Contro stanchezza",
       "Prodotto in Italia"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€39.90/confezione",
+    "composition": "Multivitaminico completo per adulti con Vitamine B, D e C, formato maxi 180 compresse",
+    "inStock": true
   },
   {
     "id": "aavalabs-omega3-olio-pesce-2000mg-120-softgel",
@@ -1235,7 +1277,10 @@
       "120 softgel",
       "Non-OGM"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€24.99/confezione",
+    "composition": "Omega 3 alto dosaggio da olio di pesce puro con EPA 1000mg e DHA 500mg per cuore e cervello",
+    "inStock": true
   },
   {
     "id": "aavalabs-curcuma-zenzero-pepe-nero-180-capsule",
@@ -1257,7 +1302,10 @@
       "Con zenzero e piperina",
       "Antiossidante naturale"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€22.99/confezione",
+    "composition": "Curcumina con piperina e zenzero per proprietà antiossidanti e massimo assorbimento",
+    "inStock": true
   },
   {
     "id": "zma-max-180-capsule-zinco-magnesio-b6",
@@ -1279,7 +1327,10 @@
       "Zinco + B6",
       "Vegano"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€19.90/confezione",
+    "composition": "ZMA premium con 3 composti di magnesio, zinco e Vitamina B6 per recupero e sonno",
+    "inStock": true
   },
   {
     "id": "nutrimea-moringa-bio-120-capsule",
@@ -1301,7 +1352,10 @@
       "4 mesi di trattamento",
       "Biologica certificata"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€14.90/confezione",
+    "composition": "Moringa biologica ricca di proteine, vitamine e antiossidanti per energia e sistema immunitario",
+    "inStock": true
   },
   {
     "id": "multicentrum-movimento-30-capsule",
@@ -1323,7 +1377,10 @@
       "Vitamine C, D, K",
       "Per articolazioni"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€18.90/confezione",
+    "composition": "Integratore con Boswellia, Vitamina C, D, K e Omega3 per ossa, muscoli e articolazioni",
+    "inStock": true
   },
   {
     "id": "multicentrum-adulti-90-compresse",
@@ -1345,7 +1402,10 @@
       "Contro stanchezza",
       "Prodotto in Italia"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€25.88/confezione",
+    "composition": "Multivitaminico completo con Vitamine B, D e C contro stanchezza e affaticamento per adulti",
+    "inStock": true
   },
   {
     "id": "aavalabs-vitamina-d3-1000ui-365-capsule",
@@ -1367,7 +1427,10 @@
       "Con olio EVO",
       "Non-OGM"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€14.99/confezione",
+    "composition": "Vitamina D3 1000 UI con olio di oliva per assorbimento ottimale, supporto ossa e sistema immunitario",
+    "inStock": true
   },
   {
     "id": "aavalabs-cardo-mariano-120-capsule",
@@ -1389,7 +1452,10 @@
       "Con carciofo e tarassaco",
       "Detox fegato"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€19.99/confezione",
+    "composition": "Cardo mariano con 80% silimarina, carciofo, tarassaco e colina per detox fegato e antiossidante",
+    "inStock": true
   },
   {
     "id": "multicentrum-boost-difese-30-capsule",
@@ -1411,7 +1477,10 @@
       "Vitamine A, C, D, E",
       "Per vie respiratorie"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€10.25/confezione",
+    "composition": "Integratore difese immunitarie con sambuco nero, Vitamine A, C, D, E per vie respiratorie",
+    "inStock": true
   },
   {
     "id": "multicentrum-boost-omega3-120-perle",
@@ -1433,7 +1502,10 @@
       "Per cuore, mente e vista",
       "Prodotto in Italia"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€35.92/confezione",
+    "composition": "Omega 3 con EPA e DHA per cuore, mente e vista in formato mini perle facili da ingoiare",
+    "inStock": true
   },
   {
     "id": "bandini-glutammina-polvere-500g",
@@ -1455,7 +1527,10 @@
       "Per recupero muscolare",
       "Con dosatore"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€19.95/confezione",
+    "composition": "L-Glutammina pura in polvere per recupero muscolare e supporto sistema immunitario",
+    "inStock": true
   },
   {
     "id": "bandini-glutammina-compresse-integratore",
@@ -1477,7 +1552,10 @@
       "Vegano",
       "Facile assunzione"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€17.95/confezione",
+    "composition": "L-Glutammina in compresse per sport, recupero muscolare e benessere intestinale",
+    "inStock": true
   },
   {
     "id": "bandini-glutammina-sport-polvere",
@@ -1499,6 +1577,9 @@
       "Vegano",
       "Recupero post-workout"
     ],
-    "lastUpdated": "2026-02-13"
+    "lastUpdated": "2026-02-13",
+    "pricePerUnit": "€15.95/confezione",
+    "composition": "Glutammina sport in polvere per palestra e attività sportiva intensa",
+    "inStock": true
   }
 ]
