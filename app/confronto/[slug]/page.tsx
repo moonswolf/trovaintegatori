@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import comparisons from '@/data/comparisons.json';
+import { getProducts } from '@/lib/data';
 
 type Comparison = (typeof comparisons)[number];
 
@@ -170,17 +171,43 @@ export default async function ComparisonPage({
           <p className="text-gray-700 leading-relaxed">{comp.conclusion}</p>
         </div>
 
-        {/* Category Link */}
-        {comp.categoryLink && (
-          <div className="mb-10 p-4 bg-gray-50 rounded-lg">
-            <p className="text-gray-700">
-              🔍 Stai cercando questi integratori?{' '}
-              <Link href={comp.categoryLink} className="text-emerald-600 font-semibold hover:underline">
-                Confronta i prezzi nella nostra categoria dedicata →
-              </Link>
-            </p>
-          </div>
-        )}
+        {/* Related Products */}
+        {(() => {
+          const relatedCat = (comp as any).relatedCategory || '';
+          const allProducts = getProducts();
+          const related = allProducts.filter(p => p.category === relatedCat).slice(0, 4);
+          if (related.length === 0) return null;
+          return (
+            <div className="mb-10">
+              <h2 className="text-2xl font-bold text-gray-900 mb-6">Prodotti Correlati</h2>
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+                {related.map(p => (
+                  <Link key={p.id} href={`/prodotto/${p.id}`} className="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition text-center">
+                    <div className="h-24 flex items-center justify-center mb-3">
+                      {p.imageUrl?.startsWith('http') ? (
+                        <img src={p.imageUrl} alt={p.name} className="max-h-24 object-contain" />
+                      ) : (
+                        <span className="text-4xl">💊</span>
+                      )}
+                    </div>
+                    <p className="text-sm font-medium text-gray-900 line-clamp-2 mb-1">{p.name}</p>
+                    <p className="text-emerald-600 font-bold">€{p.price.toFixed(2)}</p>
+                  </Link>
+                ))}
+              </div>
+              {comp.categoryLink && (
+                <div className="text-center">
+                  <Link 
+                    href={comp.categoryLink} 
+                    className="inline-flex items-center justify-center px-6 py-3 bg-emerald-600 text-white rounded-lg font-semibold hover:bg-emerald-700 transition"
+                  >
+                    Vedi tutti i prodotti della categoria →
+                  </Link>
+                </div>
+              )}
+            </div>
+          );
+        })()}
 
         {/* FAQ */}
         <div className="mb-10">

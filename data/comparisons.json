@@ -62,11 +62,21 @@
       }
     ],
     "sources": [
-      {"title": "Tripkovic L et al. - Comparison of vitamin D2 and vitamin D3 supplementation (American Journal of Clinical Nutrition, 2012)", "url": "https://pubmed.ncbi.nlm.nih.gov/22552031/"},
-      {"title": "EFSA - Dietary Reference Values for Vitamin D", "url": "https://www.efsa.europa.eu/en/efsajournal/pub/4547"},
-      {"title": "Heaney RP et al. - Vitamin D3 is more potent than vitamin D2 (Journal of Clinical Endocrinology & Metabolism, 2011)", "url": "https://pubmed.ncbi.nlm.nih.gov/21177785/"}
+      {
+        "title": "Tripkovic L et al. - Comparison of vitamin D2 and vitamin D3 supplementation (American Journal of Clinical Nutrition, 2012)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22552031/"
+      },
+      {
+        "title": "EFSA - Dietary Reference Values for Vitamin D",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/4547"
+      },
+      {
+        "title": "Heaney RP et al. - Vitamin D3 is more potent than vitamin D2 (Journal of Clinical Endocrinology & Metabolism, 2011)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21177785/"
+      }
     ],
-    "categoryLink": "/categoria/vitamine"
+    "categoryLink": "/categoria/vitamine",
+    "relatedCategory": "vitamine"
   },
   {
     "slug": "creatina-monoidrato-vs-hcl",
@@ -129,10 +139,17 @@
       }
     ],
     "sources": [
-      {"title": "Kreider RB et al. - International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation (2017)", "url": "https://pubmed.ncbi.nlm.nih.gov/28615996/"},
-      {"title": "Buford TW et al. - International Society of Sports Nutrition position stand: creatine supplementation and exercise (2007)", "url": "https://pubmed.ncbi.nlm.nih.gov/17908288/"}
+      {
+        "title": "Kreider RB et al. - International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation (2017)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28615996/"
+      },
+      {
+        "title": "Buford TW et al. - International Society of Sports Nutrition position stand: creatine supplementation and exercise (2007)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17908288/"
+      }
     ],
-    "categoryLink": "/categoria/sport-fitness"
+    "categoryLink": "/categoria/creatina",
+    "relatedCategory": "creatina"
   },
   {
     "slug": "whey-protein-vs-caseina",
@@ -194,10 +211,17 @@
       }
     ],
     "sources": [
-      {"title": "Tang JE et al. - Ingestion of whey hydrolysate, casein, or soy protein (Journal of Applied Physiology, 2009)", "url": "https://pubmed.ncbi.nlm.nih.gov/19589961/"},
-      {"title": "Res PT et al. - Protein ingestion before sleep improves postexercise overnight recovery (Medicine & Science in Sports & Exercise, 2012)", "url": "https://pubmed.ncbi.nlm.nih.gov/22330017/"}
+      {
+        "title": "Tang JE et al. - Ingestion of whey hydrolysate, casein, or soy protein (Journal of Applied Physiology, 2009)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19589961/"
+      },
+      {
+        "title": "Res PT et al. - Protein ingestion before sleep improves postexercise overnight recovery (Medicine & Science in Sports & Exercise, 2012)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22330017/"
+      }
     ],
-    "categoryLink": "/categoria/proteine"
+    "categoryLink": "/categoria/proteine",
+    "relatedCategory": "proteine"
   },
   {
     "slug": "magnesio-citrato-vs-bisglicinato",
@@ -260,10 +284,17 @@
       }
     ],
     "sources": [
-      {"title": "Uysal N et al. - Timeline of changes in magnesium bioavailability (Biological Trace Element Research, 2019)", "url": "https://pubmed.ncbi.nlm.nih.gov/30761462/"},
-      {"title": "Schuette SA et al. - Bioavailability of magnesium diglycinate vs magnesium oxide (Journal of the American College of Nutrition, 2014)", "url": "https://pubmed.ncbi.nlm.nih.gov/25540137/"}
+      {
+        "title": "Uysal N et al. - Timeline of changes in magnesium bioavailability (Biological Trace Element Research, 2019)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30761462/"
+      },
+      {
+        "title": "Schuette SA et al. - Bioavailability of magnesium diglycinate vs magnesium oxide (Journal of the American College of Nutrition, 2014)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25540137/"
+      }
     ],
-    "categoryLink": "/categoria/minerali"
+    "categoryLink": "/categoria/minerali",
+    "relatedCategory": "minerali"
   },
   {
     "slug": "bcaa-vs-eaa",
@@ -326,10 +357,17 @@
       }
     ],
     "sources": [
-      {"title": "Wolfe RR - Branched-chain amino acids and muscle protein synthesis: not all amino acids are equal (Journal of the ISSN, 2017)", "url": "https://pubmed.ncbi.nlm.nih.gov/28852372/"},
-      {"title": "Jackman SR et al. - Branched-chain amino acid ingestion stimulates muscle myofibrillar protein synthesis (Frontiers in Physiology, 2017)", "url": "https://pubmed.ncbi.nlm.nih.gov/28638350/"}
+      {
+        "title": "Wolfe RR - Branched-chain amino acids and muscle protein synthesis: not all amino acids are equal (Journal of the ISSN, 2017)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28852372/"
+      },
+      {
+        "title": "Jackman SR et al. - Branched-chain amino acid ingestion stimulates muscle myofibrillar protein synthesis (Frontiers in Physiology, 2017)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28638350/"
+      }
     ],
-    "categoryLink": "/categoria/sport-fitness"
+    "categoryLink": "/categoria/aminoacidi",
+    "relatedCategory": "aminoacidi"
   },
   {
     "slug": "omega-3-vs-omega-6",
@@ -392,10 +430,17 @@
       }
     ],
     "sources": [
-      {"title": "Simopoulos AP - The importance of the ratio of omega-6/omega-3 (Biomedicine & Pharmacotherapy, 2002)", "url": "https://pubmed.ncbi.nlm.nih.gov/12442909/"},
-      {"title": "EFSA - Scientific Opinion on the Tolerable Upper Intake Level of EPA, DHA and DPA", "url": "https://www.efsa.europa.eu/en/efsajournal/pub/2815"}
+      {
+        "title": "Simopoulos AP - The importance of the ratio of omega-6/omega-3 (Biomedicine & Pharmacotherapy, 2002)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12442909/"
+      },
+      {
+        "title": "EFSA - Scientific Opinion on the Tolerable Upper Intake Level of EPA, DHA and DPA",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/2815"
+      }
     ],
-    "categoryLink": "/categoria/omega-3"
+    "categoryLink": "/categoria/omega-3",
+    "relatedCategory": "omega-3"
   },
   {
     "slug": "proteine-whey-vs-vegane",
@@ -458,10 +503,17 @@
       }
     ],
     "sources": [
-      {"title": "Babault N et al. - Pea proteins oral supplementation promotes muscle thickness gains (Journal of the ISSN, 2015)", "url": "https://pubmed.ncbi.nlm.nih.gov/25628520/"},
-      {"title": "Gorissen SHM et al. - Protein content and amino acid composition of commercially available plant-based protein isolates (Amino Acids, 2018)", "url": "https://pubmed.ncbi.nlm.nih.gov/30167963/"}
+      {
+        "title": "Babault N et al. - Pea proteins oral supplementation promotes muscle thickness gains (Journal of the ISSN, 2015)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25628520/"
+      },
+      {
+        "title": "Gorissen SHM et al. - Protein content and amino acid composition of commercially available plant-based protein isolates (Amino Acids, 2018)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30167963/"
+      }
     ],
-    "categoryLink": "/categoria/proteine"
+    "categoryLink": "/categoria/proteine",
+    "relatedCategory": "proteine"
   },
   {
     "slug": "collagene-marino-vs-bovino",
@@ -524,10 +576,17 @@
       }
     ],
     "sources": [
-      {"title": "Asserin J et al. - The effect of oral collagen peptide supplementation on skin moisture (Journal of Cosmetic Dermatology, 2015)", "url": "https://pubmed.ncbi.nlm.nih.gov/26362110/"},
-      {"title": "Clark KL et al. - 24-Week study on the use of collagen hydrolysate for joint pain (Current Medical Research and Opinion, 2008)", "url": "https://pubmed.ncbi.nlm.nih.gov/18416885/"}
+      {
+        "title": "Asserin J et al. - The effect of oral collagen peptide supplementation on skin moisture (Journal of Cosmetic Dermatology, 2015)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26362110/"
+      },
+      {
+        "title": "Clark KL et al. - 24-Week study on the use of collagen hydrolysate for joint pain (Current Medical Research and Opinion, 2008)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18416885/"
+      }
     ],
-    "categoryLink": "/categoria/collagene"
+    "categoryLink": "/categoria/collagene",
+    "relatedCategory": "collagene"
   },
   {
     "slug": "melatonina-vs-valeriana",
@@ -596,10 +655,17 @@
       }
     ],
     "sources": [
-      {"title": "Ferracioli-Oda E et al. - Meta-analysis: melatonin for the treatment of primary sleep disorders (PLoS ONE, 2013)", "url": "https://pubmed.ncbi.nlm.nih.gov/23691095/"},
-      {"title": "Bent S et al. - Valerian for sleep: a systematic review and meta-analysis (American Journal of Medicine, 2006)", "url": "https://pubmed.ncbi.nlm.nih.gov/17145239/"}
+      {
+        "title": "Ferracioli-Oda E et al. - Meta-analysis: melatonin for the treatment of primary sleep disorders (PLoS ONE, 2013)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23691095/"
+      },
+      {
+        "title": "Bent S et al. - Valerian for sleep: a systematic review and meta-analysis (American Journal of Medicine, 2006)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17145239/"
+      }
     ],
-    "categoryLink": "/categoria/sonno-relax"
+    "categoryLink": "/categoria/vitamine",
+    "relatedCategory": "vitamine"
   },
   {
     "slug": "vitamina-c-naturale-vs-sintetica",
@@ -663,9 +729,16 @@
       }
     ],
     "sources": [
-      {"title": "Carr AC, Vissers MC - Synthetic or food-derived vitamin C—are they equally bioavailable? (Nutrients, 2013)", "url": "https://pubmed.ncbi.nlm.nih.gov/24166763/"},
-      {"title": "EFSA - Scientific Opinion on Dietary Reference Values for vitamin C", "url": "https://www.efsa.europa.eu/en/efsajournal/pub/3418"}
+      {
+        "title": "Carr AC, Vissers MC - Synthetic or food-derived vitamin C—are they equally bioavailable? (Nutrients, 2013)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24166763/"
+      },
+      {
+        "title": "EFSA - Scientific Opinion on Dietary Reference Values for vitamin C",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/3418"
+      }
     ],
-    "categoryLink": "/categoria/vitamine"
+    "categoryLink": "/categoria/vitamine",
+    "relatedCategory": "vitamine"
   }
 ]
