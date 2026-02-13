@@ -20,6 +20,7 @@ function ConfrontaContent() {
   const [analysis, setAnalysis] = useState<any>(null);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
   const [error, setError] = useState('');
+  const [showProducts, setShowProducts] = useState(false);
   const searchParams = useSearchParams();
 
   const products = getProducts();
@@ -244,24 +245,34 @@ function ConfrontaContent() {
           </div>
         )}
 
-        {/* Products grid */}
+        {/* Products grid - collapsible on mobile */}
         <div className="bg-white rounded-lg shadow-sm p-6">
-          <div className="mb-6">
-            <h2 className="text-2xl font-bold text-gray-900 mb-2">
-              Tutti i Prodotti Disponibili
-            </h2>
-            <p className="text-gray-600">
-              Cerca e filtra tra i nostri {products.length} integratori per trovare quelli da confrontare
-            </p>
-          </div>
+          <button
+            onClick={() => setShowProducts(!showProducts)}
+            className="w-full flex items-center justify-between md:cursor-default"
+          >
+            <div>
+              <h2 className="text-2xl font-bold text-gray-900 mb-1 text-left">
+                Tutti i Prodotti Disponibili
+              </h2>
+              <p className="text-gray-600 text-left text-sm">
+                Cerca e filtra tra i nostri {products.length} integratori per trovare quelli da confrontare
+              </p>
+            </div>
+            <span className="md:hidden text-gray-400 text-2xl ml-4 shrink-0">
+              {showProducts ? '▲' : '▼'}
+            </span>
+          </button>
 
-          <ProductGrid
-            products={products}
-            onProductSelect={toggleProduct}
-            selectedProducts={selectedProducts}
-            showFilters={true}
-            showSorting={true}
-          />
+          <div className={`mt-6 ${showProducts ? 'block' : 'hidden md:block'}`}>
+            <ProductGrid
+              products={products}
+              onProductSelect={toggleProduct}
+              selectedProducts={selectedProducts}
+              showFilters={true}
+              showSorting={true}
+            />
+          </div>
         </div>
 
         {/* Affiliate Disclosure */}
