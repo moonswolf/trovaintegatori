@@ -101,59 +101,68 @@ export default function Navbar() {
 
         {/* Mobile Menu */}
         {isMenuOpen && (
-          <div className="md:hidden pb-4 space-y-2 border-t border-gray-200 mt-2 pt-4">
+          <div className="md:hidden pb-4 space-y-1 border-t border-gray-200 mt-2 pt-4 max-h-[calc(100vh-5rem)] overflow-y-auto">
             <Link 
               href="/" 
-              className="block px-4 py-2 text-gray-700 hover:bg-gray-100 rounded"
+              className="block px-4 py-3 text-gray-700 hover:bg-gray-100 rounded"
               onClick={() => setIsMenuOpen(false)}
             >
-              Home
+              🏠 Home
             </Link>
             
-            {/* Mobile Categories */}
-            <div className="px-4 py-2">
-              <div className="text-gray-700 font-medium mb-2">Categorie</div>
-              <div className="pl-4 space-y-1">
+            <Link 
+              href="/confronta" 
+              className="block px-4 py-3 text-gray-700 hover:bg-gray-100 rounded font-medium"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              🤖 Confronta Prezzi
+            </Link>
+
+            {/* Mobile Categories - collapsible */}
+            <button
+              onClick={() => setIsCategoriesOpen(!isCategoriesOpen)}
+              className="w-full flex items-center justify-between px-4 py-3 text-gray-700 hover:bg-gray-100 rounded"
+            >
+              <span>📦 Categorie</span>
+              <svg className={`w-4 h-4 transition-transform ${isCategoriesOpen ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+            {isCategoriesOpen && (
+              <div className="pl-6 pr-4 space-y-1 pb-2">
                 {categories.map((category) => (
                   <Link
                     key={category.slug}
                     href={`/categoria/${category.slug}`}
-                    className="block py-1 text-gray-600 hover:text-emerald-600 transition text-sm"
-                    onClick={() => setIsMenuOpen(false)}
+                    className="block py-2 text-gray-600 hover:text-emerald-600 transition text-sm"
+                    onClick={() => { setIsMenuOpen(false); setIsCategoriesOpen(false); }}
                   >
                     {category.icon} {category.name}
                   </Link>
                 ))}
               </div>
-            </div>
-            
-            <Link 
-              href="/confronta" 
-              className="block px-4 py-2 text-gray-700 hover:bg-gray-100 rounded font-medium"
-              onClick={() => setIsMenuOpen(false)}
-            >
-              🤖 Confronta Prezzi
-            </Link>
+            )}
+
             <Link 
               href="/come-funziona" 
-              className="block px-4 py-2 text-gray-700 hover:bg-gray-100 rounded"
+              className="block px-4 py-3 text-gray-700 hover:bg-gray-100 rounded"
               onClick={() => setIsMenuOpen(false)}
             >
-              Come Funziona
+              ❓ Come Funziona
             </Link>
             <Link 
               href="/chi-siamo" 
-              className="block px-4 py-2 text-gray-700 hover:bg-gray-100 rounded"
+              className="block px-4 py-3 text-gray-700 hover:bg-gray-100 rounded"
               onClick={() => setIsMenuOpen(false)}
             >
-              Chi Siamo
+              👥 Chi Siamo
             </Link>
             <Link 
               href="/contatti" 
-              className="block px-4 py-2 text-gray-700 hover:bg-gray-100 rounded"
+              className="block px-4 py-3 text-gray-700 hover:bg-gray-100 rounded"
               onClick={() => setIsMenuOpen(false)}
             >
-              Contatti
+              ✉️ Contatti
             </Link>
           </div>
         )}
