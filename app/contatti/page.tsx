@@ -119,8 +119,8 @@ export default function Contatti() {
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-2">📧 Email Diretta</h4>
                   <p className="text-gray-700">
-                    <a href="mailto:info@trovaintegatori.it" className="text-emerald-600 hover:text-emerald-700">
-                      info@trovaintegatori.it
+                    <a href="mailto:info@trovaintegratori.it" className="text-emerald-600 hover:text-emerald-700">
+                      info@trovaintegratori.it
                     </a>
                   </p>
                 </div>

@@ -2,7 +2,7 @@ import type { MetadataRoute } from 'next';
 import { getProducts, getCategories } from '@/lib/data';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://trovaintegatori.vercel.app';
+  const baseUrl = 'https://trovaintegratori.it';
   const products = getProducts();
   const categories = getCategories();
 
