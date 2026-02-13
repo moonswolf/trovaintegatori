@@ -1,4 +1,19 @@
 import Link from 'next/link';
+import FAQ from '@/components/FAQ';
+import faqData from '@/data/faqs.json';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Come Funziona il Comparatore di Integratori',
+  description: 'Scopri come confrontare prezzi di integratori in 3 semplici passi: cerca, confronta e risparmia fino al 40% su Amazon e farmacie online.',
+  alternates: { canonical: 'https://trovaintegratori.it/come-funziona' },
+  openGraph: {
+    title: 'Come Funziona - TrovaIntegratori.it',
+    description: 'Confronta prezzi di integratori in 3 semplici passi.',
+    type: 'website',
+    url: 'https://trovaintegratori.it/come-funziona',
+  },
+};
 
 export default function ComeFunziona() {
   return (
@@ -108,35 +123,13 @@ export default function ComeFunziona() {
           </div>
         </div>
 
-        {/* FAQ veloce */}
-        <div className="bg-white rounded-lg shadow-md p-8 mb-8">
-          <h2 className="text-2xl font-bold text-gray-900 mb-6">Domande Frequenti</h2>
-          
-          <div className="space-y-6">
-            <div>
-              <h3 className="font-bold text-gray-900 mb-2">Il prezzo finale sarà quello che vedo su TrovaIntegratori?</h3>
-              <p className="text-gray-700">
-                Sì! I prezzi vengono aggiornati in tempo reale. Quando clicchi sul link, arrivi direttamente 
-                alla pagina del prodotto con il prezzo che abbiamo visualizzato.
-              </p>
-            </div>
-
-            <div>
-              <h3 className="font-bold text-gray-900 mb-2">Posso fidarmi dei negozi che consigliate?</h3>
-              <p className="text-gray-700">
-                Assolutamente. Confrontiamo solo negozi affidabili e verificati come Amazon, farmacie 
-                certificate e e-commerce con recensioni positive.
-              </p>
-            </div>
-
-            <div>
-              <h3 className="font-bold text-gray-900 mb-2">Come guadagnate se il servizio è gratuito?</h3>
-              <p className="text-gray-700">
-                Riceviamo piccole commissioni dai negozi quando completi un acquisto tramite i nostri link. 
-                Questo non influisce sul prezzo che paghi - è lo stesso che troveresti andando direttamente sul sito.
-              </p>
-            </div>
-          </div>
+        {/* FAQ Section with Schema */}
+        <div className="mb-8">
+          <FAQ
+            items={faqData['come-funziona']}
+            title="Domande Frequenti sul Comparatore"
+            subtitle="Tutto quello che devi sapere su come funziona il nostro servizio"
+          />
         </div>
 
         {/* CTA finale */}

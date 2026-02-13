@@ -7,6 +7,8 @@ import AmazonButton from '@/components/AmazonButton';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
+const baseUrl = 'https://trovaintegratori.it';
+
 interface ProductPageProps {
   params: Promise<{ id: string }>;
 }
@@ -23,26 +25,28 @@ export async function generateMetadata({ params }: ProductPageProps): Promise<Me
   const product = getProductById(id);
   
   if (!product) {
-    return {
-      title: 'Prodotto non trovato - TrovaIntegratori',
-    };
+    return { title: 'Prodotto non trovato' };
   }
 
+  const title = `${product.name} - €${product.price.toFixed(2)} | Confronta Prezzo`;
+  const description = `${product.description} ${product.brand} a €${product.price.toFixed(2)} su Amazon Italia. ⭐ ${product.rating}/5 (${product.reviewCount} recensioni). Confronta e risparmia.`;
+  const url = `${baseUrl}/prodotto/${product.id}`;
+
   return {
-    title: `${product.name} ${product.brand} - €${product.price.toFixed(2)} | TrovaIntegratori`,
-    description: `${product.description} Confronta prezzo e caratteristiche di ${product.name} di ${product.brand}. ${product.composition}`,
+    title,
+    description,
+    alternates: { canonical: url },
     openGraph: {
       title: `${product.name} - ${product.brand}`,
       description: product.description,
       type: 'website',
-      images: [
-        {
-          url: product.imageUrl,
-          width: 400,
-          height: 400,
-          alt: product.name,
-        },
-      ],
+      url,
+      images: product.imageUrl.startsWith('http') ? [{ url: product.imageUrl, width: 500, height: 500, alt: product.name }] : [],
+    },
+    twitter: {
+      card: 'summary',
+      title: `${product.name} - €${product.price.toFixed(2)}`,
+      description: product.description,
     },
   };
 }
@@ -58,28 +62,76 @@ export default async function ProductPage({ params }: ProductPageProps) {
   const category = getCategoryBySlug(product.category);
   const similarProducts = getSimilarProducts(id, 4);
   const discount = product.originalPrice ? Math.round(((product.originalPrice - product.price) / product.originalPrice) * 100) : 0;
-
-  // Parse composition for ingredients table
   const ingredients = product.composition.split(',').map(ing => ing.trim());
+
+  // JSON-LD Product
+  const productJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    name: product.name,
+    description: product.description,
+    image: product.imageUrl,
+    brand: { "@type": "Brand", name: product.brand },
+    sku: product.asin,
+    gtin: product.asin,
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: product.rating,
+      reviewCount: product.reviewCount,
+      bestRating: 5,
+      worstRating: 1,
+    },
+    offers: {
+      "@type": "Offer",
+      url: product.amazonUrl,
+      priceCurrency: "EUR",
+      price: product.price,
+      availability: product.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
+      seller: { "@type": "Organization", name: "Amazon.it" },
+    },
+  };
+
+  // JSON-LD BreadcrumbList
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: baseUrl },
+      { "@type": "ListItem", position: 2, name: category?.name || product.category, item: `${baseUrl}/categoria/${product.category}` },
+      { "@type": "ListItem", position: 3, name: product.name, item: `${baseUrl}/prodotto/${product.id}` },
+    ],
+  };
 
   return (
     <div className="min-h-screen bg-gray-50">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(productJsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+
       {/* Breadcrumb */}
-      <div className="bg-white border-b">
+      <nav aria-label="Breadcrumb" className="bg-white border-b">
         <div className="max-w-7xl mx-auto px-4 py-4">
-          <nav className="flex text-sm">
-            <Link href="/" className="text-emerald-600 hover:text-emerald-700">
-              Home
-            </Link>
+          <ol className="flex text-sm" itemScope itemType="https://schema.org/BreadcrumbList">
+            <li itemProp="itemListElement" itemScope itemType="https://schema.org/ListItem">
+              <Link href="/" itemProp="item" className="text-emerald-600 hover:text-emerald-700">
+                <span itemProp="name">Home</span>
+              </Link>
+              <meta itemProp="position" content="1" />
+            </li>
             <span className="mx-2 text-gray-600">/</span>
-            <Link href={`/categoria/${product.category}`} className="text-emerald-600 hover:text-emerald-700">
-              {category?.name}
-            </Link>
+            <li itemProp="itemListElement" itemScope itemType="https://schema.org/ListItem">
+              <Link href={`/categoria/${product.category}`} itemProp="item" className="text-emerald-600 hover:text-emerald-700">
+                <span itemProp="name">{category?.name}</span>
+              </Link>
+              <meta itemProp="position" content="2" />
+            </li>
             <span className="mx-2 text-gray-600">/</span>
-            <span className="text-gray-900 font-medium">{product.name}</span>
-          </nav>
+            <li itemProp="itemListElement" itemScope itemType="https://schema.org/ListItem">
+              <span itemProp="name" className="text-gray-900 font-medium">{product.name}</span>
+              <meta itemProp="position" content="3" />
+            </li>
+          </ol>
         </div>
-      </div>
+      </nav>
 
       {/* Product Details */}
       <div className="bg-white">
@@ -89,20 +141,16 @@ export default async function ProductPage({ params }: ProductPageProps) {
             <div className="space-y-4">
               <div className="w-full h-96 bg-white rounded-lg flex items-center justify-center relative overflow-hidden">
                 {product.imageUrl && product.imageUrl.startsWith('http') ? (
-                  <img src={product.imageUrl} alt={product.name} className="h-full w-auto object-contain" loading="lazy" />
+                  <img src={product.imageUrl} alt={`${product.name} ${product.brand} - integratore`} className="h-full w-auto object-contain" loading="lazy" width={400} height={400} />
                 ) : (
                   <span className="text-8xl">💊</span>
                 )}
-                
-                {/* Discount Badge */}
                 {discount > 0 && (
                   <div className="absolute top-4 right-4 bg-red-500 text-white text-lg font-bold px-3 py-2 rounded-full">
                     -{discount}%
                   </div>
                 )}
               </div>
-
-              {/* Trust Badges */}
               <div className="flex justify-center space-x-4 text-sm text-gray-600">
                 <div className="flex items-center">
                   <span className="w-2 h-2 bg-green-500 rounded-full mr-2"></span>
@@ -121,83 +169,51 @@ export default async function ProductPage({ params }: ProductPageProps) {
 
             {/* Product Info */}
             <div className="space-y-6">
-              {/* Brand */}
               <div>
                 <span className="inline-block bg-emerald-100 text-emerald-800 text-sm font-medium px-3 py-1 rounded-full">
                   {product.brand}
                 </span>
               </div>
-
-              {/* Product Name */}
-              <h1 className="text-4xl font-bold text-gray-900">
-                {product.name}
-              </h1>
-
-              {/* Rating */}
+              <h1 className="text-4xl font-bold text-gray-900">{product.name}</h1>
               <div className="flex items-center gap-4">
                 <RatingStars rating={product.rating} size="lg" showRating />
-                <span className="text-gray-600">
-                  ({product.reviewCount.toLocaleString()} recensioni)
-                </span>
+                <span className="text-gray-600">({product.reviewCount.toLocaleString()} recensioni)</span>
               </div>
-
-              {/* Description */}
-              <p className="text-lg text-gray-700">
-                {product.description}
-              </p>
+              <p className="text-lg text-gray-700">{product.description}</p>
 
               {/* Price */}
               <div className="bg-gray-50 rounded-lg p-6">
                 <div className="flex items-center gap-4 mb-4">
-                  <span className="text-4xl font-bold text-emerald-600">
-                    €{product.price.toFixed(2)}
-                  </span>
+                  <span className="text-4xl font-bold text-emerald-600">€{product.price.toFixed(2)}</span>
                   {product.originalPrice && product.originalPrice > product.price && (
-                    <span className="text-xl text-gray-600 line-through">
-                      €{product.originalPrice.toFixed(2)}
-                    </span>
+                    <span className="text-xl text-gray-600 line-through">€{product.originalPrice.toFixed(2)}</span>
                   )}
                   {discount > 0 && (
-                    <span className="bg-red-100 text-red-800 px-2 py-1 rounded text-sm font-medium">
-                      Risparmi {discount}%
-                    </span>
+                    <span className="bg-red-100 text-red-800 px-2 py-1 rounded text-sm font-medium">Risparmi {discount}%</span>
                   )}
                 </div>
-
                 <div className="text-sm text-gray-600 mb-4">
                   <strong>Prezzo per unità:</strong> {product.pricePerUnit}
                 </div>
-
-                {/* Stock Status */}
                 <div className="flex items-center gap-2 mb-6">
                   <span className={`w-3 h-3 rounded-full ${product.inStock ? 'bg-green-500' : 'bg-red-500'}`}></span>
                   <span className={`font-medium ${product.inStock ? 'text-green-600' : 'text-red-600'}`}>
                     {product.inStock ? 'Disponibile' : 'Non disponibile'}
                   </span>
                 </div>
-
-                {/* CTA Button */}
                 <AmazonButton
                   amazonUrl={product.amazonUrl}
                   inStock={product.inStock}
-                  className={`w-full py-4 px-6 rounded-lg text-lg font-semibold transition ${
-                    product.inStock
-                      ? 'bg-emerald-600 text-white hover:bg-emerald-700'
-                      : 'bg-gray-300 text-gray-600 cursor-not-allowed'
-                  }`}
+                  className={`w-full py-4 px-6 rounded-lg text-lg font-semibold transition ${product.inStock ? 'bg-emerald-600 text-white hover:bg-emerald-700' : 'bg-gray-300 text-gray-600 cursor-not-allowed'}`}
                 >
                   🛒 Acquista su Amazon Italia
                 </AmazonButton>
-
-                {/* Affiliate disclosure in footer */}
               </div>
 
               {/* Highlights */}
               {product.highlights && product.highlights.length > 0 && (
                 <div>
-                  <h3 className="text-lg font-semibold text-gray-900 mb-3">
-                    Punti di forza
-                  </h3>
+                  <h2 className="text-lg font-semibold text-gray-900 mb-3">Punti di forza</h2>
                   <ul className="space-y-2">
                     {product.highlights.map((highlight, index) => (
                       <li key={index} className="flex items-center">
@@ -213,17 +229,12 @@ export default async function ProductPage({ params }: ProductPageProps) {
         </div>
       </div>
 
-      {/* Product Details Tabs */}
+      {/* Composition */}
       <div className="max-w-7xl mx-auto px-4 py-8">
         <div className="bg-white rounded-lg shadow-sm">
-          {/* Composition/Ingredients */}
           <div className="p-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-6">
-              Composizione e Ingredienti
-            </h2>
-            
+            <h2 className="text-2xl font-bold text-gray-900 mb-6">Composizione e Ingredienti</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-              {/* Basic Info */}
               <div className="space-y-4">
                 <div className="flex justify-between py-3 border-b border-gray-200">
                   <span className="font-medium text-gray-700">Formato:</span>
@@ -242,8 +253,6 @@ export default async function ProductPage({ params }: ProductPageProps) {
                   <span className="text-gray-900 font-mono text-sm">{product.asin}</span>
                 </div>
               </div>
-
-              {/* Ingredients */}
               <div>
                 <h3 className="font-semibold text-gray-900 mb-3">Principi Attivi:</h3>
                 <div className="bg-gray-50 rounded-lg p-4">
@@ -264,10 +273,8 @@ export default async function ProductPage({ params }: ProductPageProps) {
 
       {/* Similar Products */}
       {similarProducts.length > 0 && (
-        <div className="max-w-7xl mx-auto px-4 py-8">
-          <h2 className="text-2xl font-bold text-gray-900 mb-6">
-            Prodotti Simili
-          </h2>
+        <section className="max-w-7xl mx-auto px-4 py-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">Prodotti Simili</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {similarProducts.map((similarProduct) => (
               <Link key={similarProduct.id} href={`/prodotto/${similarProduct.id}`}>
@@ -275,26 +282,19 @@ export default async function ProductPage({ params }: ProductPageProps) {
               </Link>
             ))}
           </div>
-        </div>
+        </section>
       )}
 
-      {/* CTA Section */}
-      <div className="bg-emerald-50 border-t">
+      {/* CTA */}
+      <section className="bg-emerald-50 border-t">
         <div className="max-w-4xl mx-auto text-center px-4 py-12">
-          <h3 className="text-2xl font-bold text-gray-900 mb-4">
-            Vuoi confrontare più prodotti?
-          </h3>
-          <p className="text-lg text-gray-600 mb-8">
-            Usa il nostro comparatore con intelligenza artificiale per trovare l'integratore perfetto per te
-          </p>
-          <Link
-            href="/confronta"
-            className="inline-flex items-center justify-center px-8 py-4 text-lg font-semibold text-white bg-emerald-600 hover:bg-emerald-700 rounded-lg transition"
-          >
+          <h3 className="text-2xl font-bold text-gray-900 mb-4">Vuoi confrontare più prodotti?</h3>
+          <p className="text-lg text-gray-600 mb-8">Usa il nostro comparatore con intelligenza artificiale per trovare l&apos;integratore perfetto per te</p>
+          <Link href="/confronta" className="inline-flex items-center justify-center px-8 py-4 text-lg font-semibold text-white bg-emerald-600 hover:bg-emerald-700 rounded-lg transition">
             🤖 Confronta con AI
           </Link>
         </div>
-      </div>
+      </section>
     </div>
   );
 }

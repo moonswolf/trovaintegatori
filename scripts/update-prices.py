@@ -16,6 +16,16 @@ PROJECT_DIR = os.path.dirname(SCRIPT_DIR)
 PRODUCTS_FILE = os.path.join(PROJECT_DIR, "data", "products.json")
 HISTORY_FILE = os.path.join(PROJECT_DIR, "data", "price-history.json")
 
+# Load .env.local if present
+_env_file = os.path.join(PROJECT_DIR, ".env.local")
+if os.path.exists(_env_file):
+    with open(_env_file) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                os.environ.setdefault(k.strip(), v.strip())
+
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHANNEL = os.environ.get("TELEGRAM_CHANNEL", "@trovaintegratori")
 AFFILIATE_TAG = "trovaintegrat-21"

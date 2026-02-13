@@ -1,4 +1,19 @@
 import Link from 'next/link';
+import FAQ from '@/components/FAQ';
+import faqData from '@/data/faqs.json';
+import type { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Chi Siamo - La Nostra Missione',
+  description: 'TrovaIntegratori.it aiuta gli italiani a risparmiare fino al 40% sugli integratori confrontando prezzi su Amazon e farmacie online. Scopri chi siamo.',
+  alternates: { canonical: 'https://trovaintegratori.it/chi-siamo' },
+  openGraph: {
+    title: 'Chi Siamo - TrovaIntegratori.it',
+    description: 'Aiutiamo gli italiani a risparmiare sugli integratori confrontando prezzi online.',
+    type: 'website',
+    url: 'https://trovaintegratori.it/chi-siamo',
+  },
+};
 
 export default function ChiSiamo() {
   return (
@@ -82,6 +97,13 @@ export default function ChiSiamo() {
             </p>
           </div>
         </div>
+
+        {/* FAQ Section */}
+        <FAQ
+          items={faqData['chi-siamo']}
+          title="Domande Frequenti su TrovaIntegratori"
+          subtitle="Tutto quello che devi sapere sulla nostra piattaforma"
+        />
 
         <div className="mt-12 text-center">
           <Link 

@@ -3,8 +3,10 @@ import CategoryCard from '@/components/CategoryCard';
 import ProductCard from '@/components/ProductCard';
 import Footer from '@/components/Footer';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
+import FAQ from '@/components/FAQ';
 import { getCategories, getFeaturedProducts, getProductCountByCategory } from '@/lib/data';
 import Link from 'next/link';
+import faqData from '@/data/faqs.json';
 
 export default function Home() {
   const categories = getCategories();
@@ -161,6 +163,13 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* FAQ Section */}
+      <FAQ
+        items={faqData.homepage}
+        title="Domande Frequenti sugli Integratori"
+        subtitle="Risposte alle domande più comuni su integratori alimentari e sul nostro servizio di confronto prezzi"
+      />
 
       {/* Affiliate Disclosure */}
       <div className="bg-gray-50 py-4">

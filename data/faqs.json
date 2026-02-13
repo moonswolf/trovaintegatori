@@ -1,0 +1,324 @@
+{
+  "homepage": [
+    {
+      "question": "Cosa sono gli integratori alimentari e a cosa servono?",
+      "answer": "Gli integratori alimentari sono prodotti che forniscono nutrienti come vitamine, minerali, aminoacidi o estratti vegetali per integrare la dieta. Servono a colmare eventuali carenze nutrizionali e supportare il benessere generale, ma non sostituiscono una dieta equilibrata."
+    },
+    {
+      "question": "Come funziona TrovaIntegratori.it?",
+      "answer": "TrovaIntegratori.it confronta automaticamente i prezzi degli integratori su Amazon Italia e farmacie online, mostrandoti dove acquistare al prezzo più basso. Basta cercare il prodotto, confrontare i prezzi e cliccare per acquistare direttamente dal rivenditore."
+    },
+    {
+      "question": "TrovaIntegratori è gratuito?",
+      "answer": "Sì, il servizio è completamente gratuito. Guadagniamo piccole commissioni dai rivenditori quando acquisti tramite i nostri link, senza alcun costo aggiuntivo per te. Il prezzo che paghi è identico a quello del sito del venditore."
+    },
+    {
+      "question": "Gli integratori alimentari hanno effetti collaterali?",
+      "answer": "La maggior parte degli integratori è sicura se assunta secondo le dosi consigliate. Tuttavia, possono verificarsi interazioni con farmaci o effetti indesiderati in caso di sovradosaggio. È sempre consigliato consultare il proprio medico prima di iniziare un'integrazione."
+    },
+    {
+      "question": "Come scegliere il miglior integratore per le proprie esigenze?",
+      "answer": "Per scegliere l'integratore giusto, considera le tue esigenze specifiche (energia, difese immunitarie, sport), verifica la qualità degli ingredienti e il dosaggio. Su TrovaIntegratori puoi confrontare composizione, recensioni e prezzi per fare una scelta informata."
+    },
+    {
+      "question": "I prezzi mostrati su TrovaIntegratori sono aggiornati?",
+      "answer": "Sì, i prezzi vengono aggiornati regolarmente tramite le API dei rivenditori partner. Quando clicchi su un prodotto, verrai reindirizzato alla pagina del venditore dove potrai verificare il prezzo finale prima dell'acquisto."
+    },
+    {
+      "question": "Posso confrontare integratori di marche diverse?",
+      "answer": "Assolutamente sì. Il nostro comparatore ti permette di confrontare prodotti di marche diverse nella stessa categoria, analizzando prezzo, composizione, dosaggio e recensioni per aiutarti a trovare il miglior rapporto qualità-prezzo."
+    },
+    {
+      "question": "Gli integratori devono essere prescritti dal medico?",
+      "answer": "No, gli integratori alimentari sono prodotti da banco e non richiedono prescrizione medica. Tuttavia, per integrazioni specifiche o se assumi farmaci, è sempre consigliabile consultare il medico o il farmacista per evitare interazioni."
+    }
+  ],
+  "come-funziona": [
+    {
+      "question": "Come vengono confrontati i prezzi degli integratori?",
+      "answer": "Il nostro sistema raccoglie automaticamente i prezzi da Amazon Italia e farmacie online certificate, aggiornandoli regolarmente. Confrontiamo il prezzo per unità, per dose e il prezzo totale per darti una visione completa del risparmio possibile."
+    },
+    {
+      "question": "TrovaIntegratori vende direttamente i prodotti?",
+      "answer": "No, non vendiamo prodotti. Siamo un comparatore di prezzi che ti reindirizza ai rivenditori ufficiali. L'acquisto, la spedizione e il servizio clienti sono gestiti direttamente dal negozio scelto (Amazon, farmacia online, ecc.)."
+    },
+    {
+      "question": "Come guadagna TrovaIntegratori se è gratuito?",
+      "answer": "Riceviamo piccole commissioni dai rivenditori partner (programma Amazon Affiliazione e altri) quando effettui un acquisto tramite i nostri link. Questo non aumenta il prezzo per te e ci permette di mantenere il servizio gratuito e indipendente."
+    },
+    {
+      "question": "Le raccomandazioni sono influenzate dalle commissioni?",
+      "answer": "No, i risultati sono ordinati in base al prezzo e alla qualità del prodotto, non alle commissioni che riceviamo. La nostra credibilità si basa sulla trasparenza e sull'utilità reale per l'utente."
+    },
+    {
+      "question": "Posso impostare un alert di prezzo per un integratore?",
+      "answer": "Sì, su ogni prodotto puoi impostare un alert di prezzo. Quando il prezzo scende sotto la soglia che hai indicato, riceverai una notifica via email per non perdere l'offerta."
+    }
+  ],
+  "chi-siamo": [
+    {
+      "question": "Chi gestisce TrovaIntegratori.it?",
+      "answer": "TrovaIntegratori.it è gestito da un team italiano di sviluppatori e appassionati di benessere. Il nostro obiettivo è rendere più trasparente e accessibile il mercato degli integratori alimentari in Italia."
+    },
+    {
+      "question": "Da dove provengono i dati sui prodotti e i prezzi?",
+      "answer": "I dati sui prodotti provengono direttamente dalle API dei rivenditori partner come Amazon Italia e farmacie online certificate. Le informazioni vengono aggiornate regolarmente per garantire accuratezza e affidabilità."
+    },
+    {
+      "question": "TrovaIntegratori è un sito affidabile?",
+      "answer": "Sì, siamo un comparatore di prezzi trasparente. Non vendiamo prodotti direttamente, ti reindirizziamo solo a rivenditori verificati e affidabili. Tutti i link di affiliazione sono chiaramente indicati nel rispetto della normativa italiana."
+    },
+    {
+      "question": "Come posso contattare il team di TrovaIntegratori?",
+      "answer": "Puoi contattarci tramite la nostra pagina Contatti. Rispondiamo a domande, suggerimenti e segnalazioni di errori. Cerchiamo di rispondere entro 24-48 ore lavorative."
+    },
+    {
+      "question": "TrovaIntegratori fornisce consigli medici?",
+      "answer": "No, TrovaIntegratori è un comparatore di prezzi e non fornisce consigli medici o nutrizionali. Le informazioni sui prodotti sono a scopo informativo. Per qualsiasi dubbio sulla salute, consulta sempre il tuo medico."
+    }
+  ],
+  "categories": {
+    "vitamine": [
+      {
+        "question": "Qual è la migliore vitamina D da comprare?",
+        "answer": "La vitamina D3 (colecalciferolo) è la forma più efficace e biodisponibile. Cerca integratori con almeno 1000-2000 UI per dose, preferibilmente in capsule con olio per migliorare l'assorbimento. Su TrovaIntegratori puoi confrontare le migliori marche."
+      },
+      {
+        "question": "Quando è meglio prendere le vitamine?",
+        "answer": "Le vitamine liposolubili (A, D, E, K) vanno assunte durante i pasti con grassi per migliorare l'assorbimento. Le vitamine del gruppo B e la vitamina C si possono prendere al mattino a stomaco vuoto o durante la colazione."
+      },
+      {
+        "question": "I multivitaminici servono davvero?",
+        "answer": "I multivitaminici possono essere utili per chi ha una dieta poco varia o carenze specifiche. Non sostituiscono un'alimentazione equilibrata, ma possono colmare piccole lacune nutrizionali. Scegli formulazioni con dosaggi adeguati e senza eccessi."
+      },
+      {
+        "question": "Quanta vitamina C al giorno bisogna assumere?",
+        "answer": "La dose giornaliera raccomandata di vitamina C è 75-90 mg per adulti, ma dosaggi fino a 500-1000 mg sono comuni negli integratori per supportare il sistema immunitario. Dosi superiori a 2000 mg al giorno possono causare disturbi gastrointestinali."
+      },
+      {
+        "question": "La vitamina B12 è importante per i vegani?",
+        "answer": "Sì, la vitamina B12 si trova quasi esclusivamente in alimenti di origine animale, quindi i vegani devono assolutamente integrarla. La dose consigliata è di almeno 250 mcg al giorno o 2500 mcg a settimana in forma di cianocobalamina o metilcobalamina."
+      }
+    ],
+    "minerali": [
+      {
+        "question": "Qual è il miglior integratore di magnesio?",
+        "answer": "Il magnesio bisglicinato e il magnesio citrato sono tra le forme più biodisponibili e meglio tollerate. Il magnesio bisglicinato è ideale per chi cerca un effetto rilassante, mentre il citrato è ottimo per la funzione muscolare e contro la stanchezza."
+      },
+      {
+        "question": "Quando prendere il magnesio: mattina o sera?",
+        "answer": "Il magnesio bisglicinato è consigliato la sera per il suo effetto rilassante che favorisce il sonno. Il magnesio citrato o altri tipi possono essere assunti al mattino o prima dell'attività sportiva per supportare la funzione muscolare."
+      },
+      {
+        "question": "Lo zinco a cosa serve come integratore?",
+        "answer": "Lo zinco supporta il sistema immunitario, la salute della pelle, la fertilità maschile e la funzione cognitiva. È particolarmente utile nei periodi invernali e per chi pratica sport intenso. La dose consigliata è 15-30 mg al giorno."
+      },
+      {
+        "question": "Ferro e magnesio si possono prendere insieme?",
+        "answer": "È meglio assumerli in momenti diversi della giornata perché competono per l'assorbimento. Il ferro si assorbe meglio a stomaco vuoto con vitamina C, mentre il magnesio è preferibile con i pasti o prima di dormire."
+      },
+      {
+        "question": "Come capire se si ha una carenza di minerali?",
+        "answer": "Sintomi comuni di carenze minerali includono stanchezza cronica, crampi muscolari, capelli fragili e disturbi del sonno. L'unico modo certo per diagnosticare una carenza è un esame del sangue prescritto dal medico."
+      }
+    ],
+    "omega-3": [
+      {
+        "question": "Quanto omega-3 assumere al giorno?",
+        "answer": "La dose consigliata di omega-3 è di almeno 250-500 mg di EPA+DHA al giorno per la salute generale. Per effetti antinfiammatori o cardiovascolari, si possono assumere 1000-2000 mg al giorno, sempre sotto consiglio medico."
+      },
+      {
+        "question": "Qual è la differenza tra omega-3 da pesce e vegano?",
+        "answer": "L'omega-3 da olio di pesce contiene direttamente EPA e DHA, le forme attive. L'omega-3 vegano (da alghe) contiene prevalentemente DHA. Le fonti vegetali come semi di lino contengono ALA, che il corpo converte in EPA e DHA con bassa efficienza."
+      },
+      {
+        "question": "L'olio di krill è meglio dell'olio di pesce?",
+        "answer": "L'olio di krill contiene omega-3 in forma fosfolipidica, potenzialmente più biodisponibile, più astaxantina come antiossidante. Tuttavia costa di più e contiene meno EPA+DHA per capsula. Per la maggior parte delle persone, un buon olio di pesce è sufficiente."
+      },
+      {
+        "question": "Gli omega-3 fanno bene al cuore?",
+        "answer": "Sì, numerosi studi confermano che EPA e DHA contribuiscono alla normale funzione cardiaca, aiutano a mantenere livelli normali di trigliceridi e supportano la pressione sanguigna. L'EFSA riconosce questi benefici con almeno 250 mg di EPA+DHA al giorno."
+      },
+      {
+        "question": "Quando prendere gli omega-3?",
+        "answer": "Gli omega-3 vanno assunti durante i pasti, preferibilmente con un pasto che contenga grassi per migliorare l'assorbimento. Molti li assumono a pranzo o cena. Se causano retrogusto di pesce, prova a congelarli e prenderli durante il pasto."
+      }
+    ],
+    "collagene": [
+      {
+        "question": "Il collagene serve davvero per la pelle?",
+        "answer": "Diversi studi clinici mostrano che l'integrazione di collagene idrolizzato (5-10 g al giorno) può migliorare l'elasticità e l'idratazione della pelle dopo 4-8 settimane. I peptidi di collagene stimolano la produzione endogena di collagene e acido ialuronico."
+      },
+      {
+        "question": "Collagene marino o bovino: quale scegliere?",
+        "answer": "Il collagene marino (tipo I) ha peptidi più piccoli e potenzialmente più biodisponibili, ideale per pelle e capelli. Il collagene bovino (tipo I e III) è più economico e adatto anche per articolazioni e tessuto connettivo. Entrambi sono efficaci."
+      },
+      {
+        "question": "A che età iniziare a prendere collagene?",
+        "answer": "La produzione naturale di collagene inizia a diminuire verso i 25-30 anni. La maggior parte degli esperti suggerisce di iniziare l'integrazione tra i 30 e i 40 anni, o prima se si notano segni precoci di invecchiamento cutaneo o problemi articolari."
+      },
+      {
+        "question": "Quanto collagene al giorno bisogna prendere?",
+        "answer": "La dose efficace di collagene idrolizzato è di 5-10 grammi al giorno per la pelle e 10-15 grammi al giorno per le articolazioni. I risultati si vedono generalmente dopo 4-12 settimane di assunzione costante."
+      },
+      {
+        "question": "Il collagene vegano esiste?",
+        "answer": "Non esiste collagene vegano vero e proprio, poiché il collagene è una proteina animale. I prodotti etichettati come 'collagene vegano' contengono mix di aminoacidi, vitamina C e nutrienti che stimolano la produzione endogena di collagene."
+      }
+    ],
+    "probiotici": [
+      {
+        "question": "Quali sono i migliori probiotici per l'intestino?",
+        "answer": "I ceppi più studiati sono Lactobacillus rhamnosus GG, Saccharomyces boulardii e Bifidobacterium longum. Un buon probiotico dovrebbe contenere almeno 1 miliardo di UFC (unità formanti colonie) e ceppi specifici con studi clinici a supporto."
+      },
+      {
+        "question": "Quando prendere i fermenti lattici?",
+        "answer": "I probiotici vanno assunti preferibilmente a stomaco vuoto, 15-30 minuti prima dei pasti, per ridurre l'esposizione agli acidi gastrici. Alcuni formati gastro-resistenti possono essere assunti in qualsiasi momento della giornata."
+      },
+      {
+        "question": "Qual è la differenza tra probiotici e prebiotici?",
+        "answer": "I probiotici sono microrganismi vivi benefici (batteri e lieviti) che colonizzano l'intestino. I prebiotici sono fibre non digeribili (come inulina e FOS) che nutrono i batteri buoni già presenti nell'intestino. Spesso vengono combinati in formulazioni sinbiotiche."
+      },
+      {
+        "question": "I probiotici aiutano con il gonfiore addominale?",
+        "answer": "Sì, diversi studi mostrano che specifici ceppi probiotici possono ridurre il gonfiore addominale e migliorare la regolarità intestinale. I risultati variano in base al ceppo utilizzato e alla causa del gonfiore. Consulta il medico se il problema persiste."
+      },
+      {
+        "question": "Per quanto tempo si devono prendere i probiotici?",
+        "answer": "Un ciclo minimo di 4 settimane è consigliato per vedere i primi risultati. Per problemi cronici, l'assunzione può protrarsi per 2-3 mesi. I probiotici non colonizzano permanentemente l'intestino, quindi i benefici possono ridursi alla sospensione."
+      }
+    ],
+    "proteine": [
+      {
+        "question": "Quante proteine in polvere al giorno servono?",
+        "answer": "Il fabbisogno proteico varia: 1,2-1,6 g/kg per chi fa attività moderata e 1,6-2,2 g/kg per sportivi e bodybuilder. Le proteine in polvere servono a completare l'apporto alimentare, non a sostituirlo. In genere 1-2 misurini (25-50 g) al giorno sono sufficienti."
+      },
+      {
+        "question": "Proteine whey o vegetali: quali sono migliori?",
+        "answer": "Le proteine whey hanno un profilo aminoacidico completo e alta biodisponibilità, ideali per la crescita muscolare. Le proteine vegetali (pisello, riso, soia) sono ottime per vegani e intolleranti al lattosio, ma spesso servono mix di fonti per un profilo aminoacidico completo."
+      },
+      {
+        "question": "Quando assumere le proteine in polvere?",
+        "answer": "Il momento più importante è il post-allenamento (entro 1-2 ore) per favorire il recupero muscolare. Le proteine possono essere assunte anche a colazione o come spuntino. La distribuzione nell'arco della giornata è più importante del timing preciso."
+      },
+      {
+        "question": "Le proteine in polvere fanno male ai reni?",
+        "answer": "In persone sane, l'assunzione di proteine in polvere nei dosaggi consigliati non danneggia i reni. Studi su atleti non hanno mostrato effetti negativi con apporti fino a 2,2 g/kg. Chi ha patologie renali preesistenti deve consultare il medico."
+      },
+      {
+        "question": "Qual è la differenza tra whey concentrate e isolate?",
+        "answer": "Le whey concentrate contengono 70-80% di proteine con più grassi e lattosio, sono più economiche e hanno un sapore migliore. Le isolate contengono 90%+ di proteine con meno grassi e lattosio, ideali per chi è sensibile al lattosio o in fase di definizione."
+      }
+    ],
+    "aminoacidi": [
+      {
+        "question": "A cosa servono i BCAA?",
+        "answer": "I BCAA (leucina, isoleucina, valina) supportano la sintesi proteica muscolare, riducono il catabolismo durante l'allenamento e possono diminuire il dolore muscolare post-esercizio. Sono particolarmente utili durante allenamenti a digiuno o in deficit calorico."
+      },
+      {
+        "question": "Meglio BCAA o EAA?",
+        "answer": "Gli EAA (aminoacidi essenziali) contengono tutti e 9 gli aminoacidi essenziali, inclusi i 3 BCAA, e sono generalmente considerati superiori per la sintesi proteica completa. I BCAA restano utili come integratore leggero durante l'allenamento."
+      },
+      {
+        "question": "La glutammina serve davvero?",
+        "answer": "La glutammina supporta il sistema immunitario e la salute intestinale, ma il suo effetto sulla crescita muscolare è limitato in persone sane con dieta adeguata. Può essere utile in periodi di allenamento intenso o stress fisico per ridurre il rischio di infezioni."
+      },
+      {
+        "question": "Quando assumere gli aminoacidi?",
+        "answer": "I BCAA ed EAA sono più efficaci durante o subito prima dell'allenamento, specialmente se ci si allena a digiuno. La glutammina si può assumere post-allenamento o prima di dormire per supportare il recupero e il sistema immunitario."
+      },
+      {
+        "question": "Quanti BCAA al giorno assumere?",
+        "answer": "La dose consigliata di BCAA è 5-10 grammi al giorno, con un rapporto 2:1:1 (leucina:isoleucina:valina). Per gli EAA, 10-15 grammi al giorno sono generalmente sufficienti. Chi assume già abbastanza proteine dalla dieta potrebbe non averne bisogno."
+      }
+    ],
+    "creatina": [
+      {
+        "question": "La creatina fa male?",
+        "answer": "No, la creatina monoidrato è uno degli integratori più studiati e sicuri al mondo. Centinaia di studi confermano la sua sicurezza anche con uso prolungato. Non causa danni a reni o fegato in persone sane. È importante idratarsi adeguatamente durante l'assunzione."
+      },
+      {
+        "question": "Quanta creatina prendere al giorno?",
+        "answer": "La dose di mantenimento consigliata è 3-5 grammi al giorno di creatina monoidrato. Non è necessaria la fase di carico (20 g/giorno), anche se può accelerare la saturazione muscolare. La costanza nell'assunzione è più importante del timing."
+      },
+      {
+        "question": "Quando assumere la creatina?",
+        "answer": "La creatina può essere assunta in qualsiasi momento della giornata, ma molti la prendono post-allenamento con una fonte di carboidrati per migliorare l'assorbimento. La cosa più importante è assumerla ogni giorno con costanza."
+      },
+      {
+        "question": "Creatina monoidrato o HCL: quale scegliere?",
+        "answer": "La creatina monoidrato è la forma più studiata, efficace e conveniente. La creatina HCL è più solubile e può causare meno gonfiore, ma costa di più e ha meno evidenze scientifiche. Per la maggior parte delle persone, la monoidrato è la scelta migliore."
+      },
+      {
+        "question": "La creatina causa ritenzione idrica?",
+        "answer": "La creatina può causare un leggero aumento di peso (1-2 kg) per ritenzione idrica intracellulare, che è un effetto positivo legato alla volumizzazione muscolare. Non si tratta di ritenzione sottocutanea o gonfiore, ma di acqua trattenuta nei muscoli."
+      }
+    ],
+    "pre-workout": [
+      {
+        "question": "I pre-workout fanno male?",
+        "answer": "I pre-workout sono sicuri se usati secondo le dosi consigliate. Attenzione alla caffeina: non superare 400 mg al giorno totali (incluse altre fonti). Chi è sensibile alla caffeina, ha problemi cardiaci o di pressione dovrebbe consultare il medico."
+      },
+      {
+        "question": "Quando prendere il pre-workout?",
+        "answer": "Il pre-workout va assunto 20-30 minuti prima dell'allenamento per permettere l'assorbimento degli ingredienti. Evita di assumerlo dopo le 17:00 se contiene caffeina, per non compromettere la qualità del sonno."
+      },
+      {
+        "question": "Cosa contiene un buon pre-workout?",
+        "answer": "Un buon pre-workout contiene caffeina (150-300 mg) per energia, citrullina (6-8 g) per il pump, beta-alanina (3-6 g) per la resistenza e creatina (3-5 g) per la forza. Diffida dei prodotti con 'miscele proprietarie' che non indicano i dosaggi."
+      },
+      {
+        "question": "Il formicolio da beta-alanina è normale?",
+        "answer": "Sì, il formicolio (parestesia) è un effetto collaterale innocuo e temporaneo della beta-alanina, causato dall'attivazione dei recettori nervosi cutanei. Dura 15-30 minuti e non è pericoloso. Puoi ridurlo dividendo la dose o usando formulazioni a rilascio graduale."
+      },
+      {
+        "question": "Esistono pre-workout senza caffeina?",
+        "answer": "Sì, i pre-workout 'stim-free' o 'pump' non contengono stimolanti e puntano sulla citrullina, arginina e glicerolo per migliorare il flusso sanguigno e il pump muscolare. Sono ideali per chi si allena la sera o è sensibile alla caffeina."
+      }
+    ],
+    "dimagranti": [
+      {
+        "question": "Gli integratori dimagranti funzionano davvero?",
+        "answer": "Gli integratori dimagranti possono offrire un piccolo supporto aggiuntivo, ma non sono miracolosi. Nessun integratore può sostituire un deficit calorico da dieta ed esercizio fisico. Ingredienti come caffeina e tè verde possono aumentare leggermente il metabolismo."
+      },
+      {
+        "question": "Quali sono i migliori brucia grassi naturali?",
+        "answer": "Tra i brucia grassi con maggiore evidenza scientifica ci sono caffeina, tè verde (EGCG), capsaicina e L-carnitina. La caffeina è il termogenico più efficace e studiato. Ricorda che l'effetto è modesto e complementare a dieta e attività fisica."
+      },
+      {
+        "question": "I drenanti aiutano a perdere peso?",
+        "answer": "I drenanti riducono la ritenzione idrica, non il grasso corporeo. Possono dare una sensazione di leggerezza e sgonfiamento, ma la perdita di peso è temporanea e legata ai liquidi. Sono utili come complemento, non come soluzione per dimagrire."
+      },
+      {
+        "question": "La L-carnitina fa dimagrire?",
+        "answer": "La L-carnitina facilita il trasporto degli acidi grassi nei mitocondri per la produzione di energia, ma il suo effetto dimagrante è modesto. Può essere utile in combinazione con esercizio aerobico e in persone con bassi livelli di carnitina. La dose efficace è 2-3 g al giorno."
+      },
+      {
+        "question": "Gli integratori per il controllo dell'appetito sono sicuri?",
+        "answer": "La maggior parte degli integratori per il controllo dell'appetito a base di glucomannano, cromo o griffonia sono considerati sicuri. Il glucomannano è una fibra che si espande nello stomaco creando sazietà. Assumi sempre con abbondante acqua e segui le dosi consigliate."
+      }
+    ],
+    "superfood": [
+      {
+        "question": "La spirulina a cosa serve?",
+        "answer": "La spirulina è un'alga ricca di proteine (60-70%), ferro, vitamine del gruppo B e antiossidanti. Viene usata per combattere la stanchezza, supportare il sistema immunitario e come fonte di nutrienti per vegetariani e vegani. La dose consigliata è 3-5 g al giorno."
+      },
+      {
+        "question": "L'ashwagandha funziona contro lo stress?",
+        "answer": "Sì, l'ashwagandha è un adattogeno con numerosi studi che ne confermano l'efficacia nel ridurre cortisolo e stress percepito. Può anche migliorare la qualità del sonno e le prestazioni sportive. La dose efficace è 300-600 mg di estratto standardizzato al giorno."
+      },
+      {
+        "question": "La curcuma viene davvero assorbita dall'organismo?",
+        "answer": "La curcumina ha una biodisponibilità molto bassa da sola. Per un assorbimento efficace, scegli integratori con piperina (pepe nero), formulazioni liposomiali o curcumina fitosomiale. Questi migliorano l'assorbimento fino a 20-30 volte rispetto alla curcuma semplice."
+      },
+      {
+        "question": "Qual è la differenza tra spirulina e chlorella?",
+        "answer": "La spirulina è più ricca di proteine e ferro, ideale per l'energia. La chlorella ha più clorofilla ed è nota per le proprietà detox e chelanti dei metalli pesanti. Entrambe sono superalimenti validi e possono essere assunte insieme per benefici complementari."
+      },
+      {
+        "question": "I superfood in polvere sostituiscono frutta e verdura?",
+        "answer": "No, i superfood in polvere integrano ma non sostituiscono una dieta ricca di frutta e verdura fresca, che fornisce fibre, acqua e una varietà di nutrienti difficile da replicare in un integratore. Usali come complemento, non come sostituto."
+      }
+    ]
+  }
+}
