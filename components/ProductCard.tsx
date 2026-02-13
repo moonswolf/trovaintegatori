@@ -3,6 +3,8 @@
 import { Product } from '@/types/product';
 import RatingStars from './RatingStars';
 import AmazonButton from './AmazonButton';
+import AddToCompareButton from './AddToCompareButton';
+import { useState } from 'react';
 
 interface ProductCardProps {
   product: Product;
@@ -18,6 +20,7 @@ export default function ProductCard({
   showFullDescription = false 
 }: ProductCardProps) {
   const discount = product.originalPrice ? Math.round(((product.originalPrice - product.price) / product.originalPrice) * 100) : 0;
+  const [imgError, setImgError] = useState(false);
 
   return (
     <div
@@ -28,17 +31,21 @@ export default function ProductCard({
     >
       <div className="p-6">
         {/* Product Image */}
-        <div className="w-full h-32 bg-white rounded-lg mb-4 flex items-center justify-center overflow-hidden">
-          {product.imageUrl && product.imageUrl.startsWith('http') ? (
-            <img src={product.imageUrl} alt={product.name} className="h-full w-auto object-contain" loading="lazy" />
+        <div className="w-full h-32 bg-white rounded-lg mb-4 flex items-center justify-center overflow-hidden relative">
+          {product.imageUrl && product.imageUrl.startsWith('http') && !imgError ? (
+            <img src={product.imageUrl} alt={product.name} className="h-full w-auto object-contain" loading="lazy" onError={() => setImgError(true)} />
           ) : (
             <div className="text-4xl">💊</div>
           )}
+          {/* Compare button */}
+          <div className="absolute top-1 right-1">
+            <AddToCompareButton productId={product.id} variant="icon" />
+          </div>
         </div>
 
         {/* Discount Badge */}
         {discount > 0 && (
-          <div className="absolute top-4 right-4 bg-red-500 text-white text-sm font-bold px-2 py-1 rounded-full">
+          <div className="absolute top-4 left-4 bg-red-500 text-white text-sm font-bold px-2 py-1 rounded-lg">
             -{discount}%
           </div>
         )}
@@ -82,7 +89,7 @@ export default function ProductCard({
               {product.highlights.slice(0, 3).map((highlight, index) => (
                 <span
                   key={index}
-                  className="inline-block bg-emerald-100 text-emerald-800 text-xs px-2 py-1 rounded-full"
+                  className="inline-block bg-emerald-100 text-emerald-800 text-xs px-2 py-1 rounded-lg"
                 >
                   {highlight}
                 </span>
@@ -119,7 +126,7 @@ export default function ProductCard({
               <AmazonButton
                 amazonUrl={product.amazonUrl}
                 inStock={product.inStock}
-                className={`px-4 py-2 rounded-lg font-semibold text-sm transition ${
+                className={`px-4 py-2 rounded-lg font-semibold text-sm whitespace-nowrap transition ${
                   product.inStock 
                     ? 'bg-emerald-600 text-white hover:bg-emerald-700' 
                     : 'bg-gray-300 text-gray-600 cursor-not-allowed'

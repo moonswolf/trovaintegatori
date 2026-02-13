@@ -40,7 +40,7 @@ export default function CategoryCard({ category, productCount }: CategoryCardPro
               {category.subcategories.slice(0, 4).map((sub, index) => (
                 <span
                   key={sub.slug}
-                  className="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded-full"
+                  className="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded-lg"
                 >
                   {sub.name}
                 </span>

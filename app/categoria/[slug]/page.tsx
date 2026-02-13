@@ -148,7 +148,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
                 {category.subcategories.map((subcategory) => {
                   const subcatProducts = products.filter(p => p.subcategory === subcategory.slug);
                   return (
-                    <span key={subcategory.slug} className="inline-flex items-center bg-emerald-100 text-emerald-800 px-3 py-1 rounded-full text-sm">
+                    <span key={subcategory.slug} className="inline-flex items-center bg-emerald-100 text-emerald-800 px-3 py-1 rounded-lg text-sm">
                       {subcategory.name}
                       <span className="ml-1 text-xs">({subcatProducts.length})</span>
                     </span>

@@ -33,7 +33,7 @@ export default function Features() {
           {features.map((feature, index) => (
             <div 
               key={index}
-              className="bg-gradient-to-br from-blue-50 to-green-50 p-8 rounded-2xl shadow-sm hover:shadow-lg transition-shadow"
+              className="bg-gradient-to-br from-blue-50 to-green-50 p-8 rounded-lg shadow-sm hover:shadow-lg transition-shadow"
             >
               <div className="text-5xl mb-4">{feature.icon}</div>
               <h3 className="text-2xl font-bold text-gray-900 mb-3">
@@ -46,7 +46,7 @@ export default function Features() {
           ))}
         </div>
         
-        <div className="mt-16 bg-blue-600 text-white p-8 rounded-2xl text-center">
+        <div className="mt-16 bg-blue-600 text-white p-8 rounded-lg text-center">
           <h3 className="text-2xl font-bold mb-2">Risparmia in Media €120/anno</h3>
           <p className="text-blue-100">
             Gli utenti che confrontano i prezzi risparmiano mediamente il 35% sui loro acquisti di integratori

@@ -1,18 +1,37 @@
 'use client';
 
-import { useState } from 'react';
-import { getProducts } from '@/lib/data';
+import { useState, useEffect, Suspense } from 'react';
+import { useSearchParams } from 'next/navigation';
+import { getProducts, getProductById } from '@/lib/data';
 import { Product } from '@/types/product';
 import ProductGrid from '@/components/ProductGrid';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 
 export default function Confronta() {
+  return (
+    <Suspense fallback={<div className="min-h-screen bg-gradient-to-b from-emerald-50 to-white flex items-center justify-center"><div className="text-lg text-gray-600">Caricamento...</div></div>}>
+      <ConfrontaContent />
+    </Suspense>
+  );
+}
+
+function ConfrontaContent() {
   const [selectedProducts, setSelectedProducts] = useState<Product[]>([]);
   const [analysis, setAnalysis] = useState<any>(null);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
   const [error, setError] = useState('');
+  const searchParams = useSearchParams();
 
   const products = getProducts();
+
+  // Pre-load products from URL query params
+  useEffect(() => {
+    const ids = searchParams.get('ids');
+    if (ids) {
+      const preloaded = ids.split(',').map(id => getProductById(id)).filter(Boolean) as Product[];
+      if (preloaded.length > 0) setSelectedProducts(preloaded);
+    }
+  }, [searchParams]);
 
   // Toggle selezione prodotto
   const toggleProduct = (product: Product) => {
@@ -108,7 +127,7 @@ export default function Confronta() {
             </div>
             <div className="flex flex-wrap gap-2">
               {selectedProducts.map(p => (
-                <div key={p.id} className="bg-white px-4 py-2 rounded-full flex items-center gap-2">
+                <div key={p.id} className="bg-white px-4 py-2 rounded-lg flex items-center gap-2">
                   <span>💊</span>
                   <span className="font-medium">{p.brand} {p.name}</span>
                   <button

@@ -4,6 +4,7 @@ import RatingStars from '@/components/RatingStars';
 import ProductCard from '@/components/ProductCard';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import AmazonButton from '@/components/AmazonButton';
+import AddToCompareButton from '@/components/AddToCompareButton';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
@@ -146,7 +147,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
                   <span className="text-8xl">💊</span>
                 )}
                 {discount > 0 && (
-                  <div className="absolute top-4 right-4 bg-red-500 text-white text-lg font-bold px-3 py-2 rounded-full">
+                  <div className="absolute top-4 right-4 bg-red-500 text-white text-lg font-bold px-3 py-2 rounded-lg">
                     -{discount}%
                   </div>
                 )}
@@ -170,7 +171,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
             {/* Product Info */}
             <div className="space-y-6">
               <div>
-                <span className="inline-block bg-emerald-100 text-emerald-800 text-sm font-medium px-3 py-1 rounded-full">
+                <span className="inline-block bg-emerald-100 text-emerald-800 text-sm font-medium px-3 py-1 rounded-lg">
                   {product.brand}
                 </span>
               </div>
@@ -204,10 +205,28 @@ export default async function ProductPage({ params }: ProductPageProps) {
                 <AmazonButton
                   amazonUrl={product.amazonUrl}
                   inStock={product.inStock}
-                  className={`w-full py-4 px-6 rounded-lg text-lg font-semibold transition ${product.inStock ? 'bg-emerald-600 text-white hover:bg-emerald-700' : 'bg-gray-300 text-gray-600 cursor-not-allowed'}`}
+                  className={`w-full py-4 px-6 rounded-lg text-sm md:text-lg font-semibold whitespace-nowrap transition ${product.inStock ? 'bg-emerald-600 text-white hover:bg-emerald-700' : 'bg-gray-300 text-gray-600 cursor-not-allowed'}`}
                 >
                   🛒 Acquista su Amazon Italia
                 </AmazonButton>
+                <div className="mt-3">
+                  <AddToCompareButton productId={product.id} variant="full" />
+                </div>
+              </div>
+
+              {/* Telegram Price Alert */}
+              <div className="bg-emerald-50 border border-emerald-200 rounded-lg p-4">
+                <a href="https://t.me/trovaintegratori" target="_blank" rel="noopener noreferrer" className="flex items-start gap-3 group">
+                  <span className="text-2xl flex-shrink-0">🔔</span>
+                  <div>
+                    <p className="font-semibold text-emerald-800 group-hover:text-emerald-900 transition">
+                      Ricevi una notifica quando il prezzo scende!
+                    </p>
+                    <p className="text-sm text-emerald-700 mt-1">
+                      Unisciti al nostro canale Telegram per aggiornamenti sui prezzi.
+                    </p>
+                  </div>
+                </a>
               </div>
 
               {/* Highlights */}

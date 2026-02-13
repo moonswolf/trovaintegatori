@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
+import { CompareProvider } from "@/components/CompareContext";
+import CompareBar from "@/components/CompareBar";
 
 const baseUrl = "https://trovaintegratori.it";
 
@@ -100,8 +102,11 @@ export default function RootLayout({
         />
       </head>
       <body className="antialiased">
-        <Navbar />
-        {children}
+        <CompareProvider>
+          <Navbar />
+          {children}
+          <CompareBar />
+        </CompareProvider>
       </body>
     </html>
   );
