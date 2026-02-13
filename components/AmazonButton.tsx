@@ -8,19 +8,23 @@ interface AmazonButtonProps {
 }
 
 export default function AmazonButton({ amazonUrl, inStock, className = '', children }: AmazonButtonProps) {
-  const handleClick = () => {
-    if (inStock) {
-      window.open(amazonUrl, '_blank', 'noopener,noreferrer');
-    }
-  };
+  if (!inStock) {
+    return (
+      <button className={className} disabled>
+        {children}
+      </button>
+    );
+  }
 
   return (
-    <button
-      onClick={handleClick}
+    <a
+      href={amazonUrl}
+      target="_blank"
+      rel="noopener noreferrer"
       className={className}
-      disabled={!inStock}
+      onClick={(e) => e.stopPropagation()}
     >
       {children}
-    </button>
+    </a>
   );
 }

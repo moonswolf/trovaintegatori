@@ -110,7 +110,7 @@ export default function ProductCard({
           </div>
 
           {/* CTA Button */}
-          <div onClick={(e) => e.stopPropagation()}>
+          <div>
             {isSelected ? (
               <div className="bg-emerald-600 text-white px-4 py-2 rounded-lg font-semibold text-sm">
                 ✓ Selezionato

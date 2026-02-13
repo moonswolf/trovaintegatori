@@ -189,7 +189,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
                   🛒 Acquista su Amazon Italia
                 </AmazonButton>
 
-                <AffiliateDisclosure variant="inline" className="text-center mt-3" />
+                {/* Affiliate disclosure in footer */}
               </div>
 
               {/* Highlights */}

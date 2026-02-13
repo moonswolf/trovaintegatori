@@ -23,7 +23,7 @@
     ],
     "pricePerUnit": "€0.31/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "multicentrum-uomo-50-integratore-alimentare-multivitaminico-",
@@ -49,7 +49,7 @@
     ],
     "pricePerUnit": "€0.09/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "bandini-vitamina-c-liposomiale-1000mg-3-mesi-vegana",
@@ -75,7 +75,7 @@
     ],
     "pricePerUnit": "€0.48/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "supradyn-ricarica-multivitaminico-completo-vitamine-e-minera",
@@ -101,7 +101,7 @@
     ],
     "pricePerUnit": "€0.18/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "magnesio-completo-3000mg-200-capsule",
@@ -127,7 +127,7 @@
     ],
     "pricePerUnit": "€0.05/g",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "magnesio-e-potassio-integratore-eletto-prodotto-dellanno-202",
@@ -153,7 +153,7 @@
     ],
     "pricePerUnit": "€0.23/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "now-foods-zinco-50-mg-100-compresse",
@@ -179,7 +179,7 @@
     ],
     "pricePerUnit": "€0.09/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "equilibra-integratori-alimentari-collagene-q10-acido-ialuron",
@@ -205,7 +205,7 @@
     ],
     "pricePerUnit": "€0.21/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "omega-3-olio-di-pesce-da-2000mg-660mg-epa-e-440mg-dha-integr",
@@ -219,7 +219,7 @@
     "asin": "B084G5XC29",
     "imageUrl": "https://m.media-amazon.com/images/I/4110dMFp2ML._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 18791,
+    "reviewCount": 18794,
     "composition": "EPA 504mg, DHA 378mg per capsula",
     "form": "Capsule softgel",
     "quantity": "50 capsule",
@@ -231,7 +231,7 @@
     ],
     "pricePerUnit": "€0.78/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "omega-3-ifos-5-stelle-90-cps-olio-di-pesce-omega-3-1000mg",
@@ -245,7 +245,7 @@
     "asin": "B07L2GK84G",
     "imageUrl": "https://m.media-amazon.com/images/I/31IkN3N7THL._AC_SL500_.jpg",
     "rating": 4.7,
-    "reviewCount": 8580,
+    "reviewCount": 8581,
     "composition": "EPA 500mg, DHA 250mg per capsula",
     "form": "Capsule softgel",
     "quantity": "60 capsule",
@@ -257,7 +257,7 @@
     ],
     "pricePerUnit": "€0.54/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "omega-3-vegan-in-90-softgel-da-2000-mg-dha-epa-omega3-vegeta",
@@ -271,7 +271,7 @@
     "asin": "B0DCP2BQBP",
     "imageUrl": "https://m.media-amazon.com/images/I/41IBiASvEPL._AC_SL500_.jpg",
     "rating": 4.7,
-    "reviewCount": 665,
+    "reviewCount": 666,
     "composition": "DHA da alghe 250mg, EPA 125mg",
     "form": "Capsule softgel vegetali",
     "quantity": "60 capsule",
@@ -283,7 +283,7 @@
     ],
     "pricePerUnit": "€0.45/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "collagene-marino-con-magnesio-e-vitamina-c",
@@ -309,7 +309,7 @@
     ],
     "pricePerUnit": "€0.10/g",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "collagene-idrolizzato-2000mg-vitastrong",
@@ -323,7 +323,7 @@
     "asin": "B0CKXT2RV3",
     "imageUrl": "https://m.media-amazon.com/images/I/41Ej1h6WiaL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 2909,
+    "reviewCount": 2908,
     "composition": "Collagene 1000mg, Acido Ialuronico 100mg, Vitamina C 40mg",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -335,7 +335,7 @@
     ],
     "pricePerUnit": "€0.21/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "collagene-idrolizzato-con-acido-ialuronico-e-coenzima-q10",
@@ -349,7 +349,7 @@
     "asin": "B09HHNZ5Q4",
     "imageUrl": "https://m.media-amazon.com/images/I/51fce3umOrL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 4412,
+    "reviewCount": 4413,
     "composition": "Collagene 500mg, Biotina 2.5mg, Vitamina C 40mg",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -361,7 +361,7 @@
     ],
     "pricePerUnit": "€0.11/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "fermenti-lattici-probiotici-per-intestino-120-miliardi-ufc-3",
@@ -387,7 +387,7 @@
     ],
     "pricePerUnit": "€0.62/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "fermenti-lattici-probiotici-vitarmonyl",
@@ -413,7 +413,7 @@
     ],
     "pricePerUnit": "€0.75/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "kijimea-k53-advance-integratore-di-probiotici",
@@ -427,7 +427,7 @@
     "asin": "B0BVZMVL9Y",
     "imageUrl": "https://m.media-amazon.com/images/I/41X+lP0dttL._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 8076,
+    "reviewCount": 8078,
     "composition": "12 miliardi UFC, 5 ceppi batterici",
     "form": "Bustine",
     "quantity": "20 bustine",
@@ -439,7 +439,7 @@
     ],
     "pricePerUnit": "€0.65/bustina",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "esn-designer-whey-protein-naturale-1000g-whey-proteine-in-po",
@@ -451,7 +451,7 @@
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0057DUWNK?tag=trovaintegrat-21",
     "asin": "B0057DUWNK",
-    "imageUrl": "https://m.media-amazon.com/images/I/41AMuRYSj6L._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/11zuylp74DL._RC|61xJcNKKLXL.js,11Y+5x+kkTL.js,51LPrROZ2JL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21NadQlXUWL.js,01vRf9id2EL.js,11a7qqY8xXL.js,11Kqv22sALL.js,51C4kaFbiAL.js,11FhdH2HZwL.js,11wb9K3sw0L.js,11BrgrMAHUL.js,11GPhx42StL.js,210X-JWUe-L.js,01Svfxfy8OL.js,61uZ+hPSDZL.js,01ikBbTAneL.js,316JwWyajNL.js,01qXJuwGmxL.js,01WlsjNmqIL.js,11F929pmpYL.js,31vxRYDelFL.js,01rpauTep4L.js,31rqCOnXDNL.js,011FfPwYqHL.js,21vGxgxnRsL.js,013ncka0wXL.js,21kN0q4IA-L.js,01VvIkYCafL.js,11vb6P5C5AL.js,01VMML3XPCL.js_.js?AUIClients/AmazonUI&#39;); &lt;/script&gt; &lt;link rel=\\&quot;stylesheet\\&quot; href=\\&quot;https://m.media-amazon.com/images/I/213sKsGm6jL._RC|51gj1xZyoqL.css_.css?AUIClients/AmazonUI\\&quot; /&gt; &lt;link rel=\\&quot;stylesheet\\&quot; href=\\&quot;https://m.media-amazon.com/images/I/11T9EXq1JNL._RC|01KbPkJKMzL.css,5101A1HfCDL.css,31CYY7gpX5L.css,21JMC7OC91L.css,010bqZUsSqL.css,01EJgRrSvHL.css,413Vvv3GONL.css,1170nDgl0uL.css,01Rw4F+QU6L.css,11VlhJoWoIL.css,01D-FLY9aHL.css,01IdKcBuAdL.css,01iHqjS7YfL.css,01nXTpOI9vL.css,01eVBHHaY+L.css,21XTBCXp9XL.css,11pDJV08stL.css,51SSAyJ4BGL.css,01HWrzt-WgL.css,01XPHJk60-L.css,11aX6hlPzjL.css,01GAxF7K5tL.css,01ZM-s8Z3xL.css,21gEzBqpmtL.css,11CFYS0t4PL.css,21O9ArC0KIL.css,21RuChdlp0L.css,31uSr5j0RrL.css,11OoyDiN-7L.css,31p70N7QYML.css,11-SgBm5oOL.css,11hL9TAdGeL.css,11XgP-oBAmL.css,111hbW8S1yL.css,114aTS6SjML.css,01xFKTPySiL.css,21-o+Wv32cL.css,21xI0OLLXlL.css,11N8kmiYr1L.css,21esFfS+3RL.css,117oU8nTtVL.css,11CrV2EbgfL.css,11cZvXjgD4L.css,01890+Vwk8L.css,11y9n5fvEjL.css,01qiwJ7qDfL.css,218HnxAQ-bL.css,016mfgi+D2L.css,01VinDhK+DL.css,21HF9W9LuvL.css,21msrr4h2yL.css,01sosV8uagL.css_.css?AUIClients/AmazonUI\\&quot; /&gt;      &lt;script type=\\&quot;text/javascript\\&quot;&gt; if ((typeof SFClient != \\&quot;undefined\\&quot;) &amp;&amp; SFClient.sendAdInfo) {     var feedbackJson = [                                 {                                \\&quot;asin\\&quot; : \\&quot;B002DYIZH6\\&quot;,                                \\&quot;title\\&quot; : \\&quot;Optimum Nutrition Gold Standard 100% Whey, Proteine in Polvere, Gusto Doppio Cioccolato, 899g, 29 Porzioni\\&quot;,                                                                                                                                                \\&quot;price\\&quot; : \\&quot;44,98 €\\&quot;,                                                                                                    \\&quot;merchantName\\&quot; : \\&quot;Optimum Nutrition IT\\&quot;,                                \\&quot;merchantCustomerID\\&quot; : \\&quot;A2OR60AS8ZSB3J\\&quot;,                                \\&quot;sku\\&quot; : \\&quot;1101505\\&quot;,                                \\&quot;adId\\&quot; : \\&quot;A06227748GCHNF487USR\\&quot;,                                \\&quot;campaignId\\&quot; : \\&quot;A04245983CWBOZJ9AF0IQ\\&quot;                            }                   ];     SFClient.sendAdInfo(feedbackJson); } &lt;/script&gt;                    &lt;style&gt;   .sp_detail_right_shared_container {     position: relative;     width: 100%;     height: 100%;     padding: 0px 12px;     border: 1px solid #ccc;     border-radius: 2px;     box-sizing: border-box;     font-family: \\&quot;Amazon Ember\\&quot;,Arial,sans-serif;   }   .sp_detail_right_shared_adLink_container {     position: absolute;     top: 0;     left: 0;     width: 100%;     height: 100%;     z-index: 999;   }   .sp_detail_right_shared_adLink {     width: 100%;     height: 100%;     z-index: 150;     position: absolute;     top: 0px;     right: 0px;   }   .sp_detail_right_shared_image_container {     width: 150px;     height: 150px;     position: relative;     display: flex;     justify-content: center;     align-items: center;     margin: 8px 34.5px;   }   .sp_detail_right_shared_image_container_ee {     width: 133px;     height: 133px;     position: relative;     display: flex;     justify-content: center;     align-items: center;     margin: 8px 43px;   }   .sp_detail_right_shared_image_without_badge {     box-shadow: inset 0 0 4px 0 rgba(0,0,0,0.15);   }   .sp_detail_right_shared_buybox_container {     display: flex;     justify-content: flex-start;     flex-direction: column;   }   .sp_detail_right_shared_title {     display: block;     color: #0F1111;     padding-bottom: 2px;   }   .sp_detail_right_shared_review {     padding-top: 2px;     padding-bottom: 2px;   }   .sp_detail_right_shared_price_prime {     padding-top: 2px;     padding-bottom: 2px;   }   .sp_detail_right_shared_price {     margin-right: 4px;   }   .sp_detail_right_shared_binding {     margin-top: 2px;     font-size: 12px;     color: #767676;     line-height: 15px;   }   .sp_detail_right_shared_fourthRow {     z-index: 1000;     position: relative;   } &lt;/style&gt;               &lt;div id=\\&quot;sp_detail_right_shared\\&quot; class=\\&quot;sp_detail_right_shared_container\\&quot;&gt;         &lt;div class=\\&quot;sp_detail_right_shared_adLink_container\\&quot;&gt;             &lt;a class=\\&quot;a-link-normal sp_detail_right_shared_adLink a-text-normal\\&quot; target=\\&quot;_top\\&quot; rel=\\&quot;noopener\\&quot; title=\\&quot;Optimum Nutrition Gold Standard 100% Whey, Proteine in Polvere, Gusto Doppio Cioccolato, 899g, 29 Porzioni\\&quot; href=\\&quot;https://www.amazon.it/sspa/click?ie=UTF8&amp;amp;spc=MTozNjUwODM0NTU4MTI4MDM0OjE3NzA5NjYwNjE6c3BfZGV0YWlsX3JpZ2h0X3NoYXJlZDozMDA4NzIwNjMwMTcyMzI6Ojo6&amp;amp;url=%2Fdp%2FB002DYIZH6%2Fref%3Dsspa_dk_detail_right_aax_0%3Fpsc%3D1%26aref%3Ds6312v9Pro%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfcmlnaHRfc2hhcmVk&amp;amp;aref=s6312v9Pro&amp;amp;sp_cr=ZAZ\\&quot;&gt;&lt;/a&gt;         &lt;/div&gt;                                                    &lt;div class=\\&quot;a-fixed-right-grid sp_detail_right_shared_image_container\\&quot;&gt;&lt;div class=\\&quot;a-fixed-right-grid-inner\\&quot; style=\\&quot;padding-right:0px\\&quot;&gt;                     &lt;img alt=\\&quot;Optimum Nutrition Gold Standard 100% Whey, Proteine in Polvere, Gusto Doppio Cioccolato, 899g, 29 Porzioni\\&quot; src=\\&quot;https://m.media-amazon.com/images/I/41erw+dsbgL._AC_SL500_.jpg",
     "rating": 4.3,
     "reviewCount": 21346,
     "composition": "21g proteine per porzione, aminoacidi essenziali",
@@ -465,7 +465,7 @@
     ],
     "pricePerUnit": "€0.018/g",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "bandini-aminoacidi-ramificati-bcaa-8-1-1",
@@ -491,7 +491,7 @@
     ],
     "pricePerUnit": "€0.12/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "esn-isoclear-proteine-isolate-del-siero-di-latte-in-polvere-",
@@ -517,7 +517,7 @@
     ],
     "pricePerUnit": "€0.047/g",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "multicentrum-donna-50-integratore-multivitaminico-completo-c",
@@ -543,7 +543,7 @@
     ],
     "pricePerUnit": "€0.33/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "spirulina-bio-4000-al-giorno-1000-mg-per-compressa",
@@ -569,7 +569,7 @@
     ],
     "pricePerUnit": "€0.08/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "plameca-melanoctina-compresse-melatonina-per-dormire",
@@ -581,7 +581,7 @@
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0DBJ5JX2C?tag=trovaintegrat-21",
     "asin": "B0DBJ5JX2C",
-    "imageUrl": "https://m.media-amazon.com/images/I/41-OU0IoRJL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51gn7A+BHkL.css\\&quot;&gt;\\n\\n&lt;link rel=\\&quot;stylesheet\\&quot; href=\\&quot;https://m.media-amazon.com/images/I/315SQizVIML.css\\&quot;&gt;\\n    &lt;style&gt;#ad { visibility: hidden; }&lt;/style&gt;\\n    \\n&lt;/head&gt;\\n&lt;body&gt;\\n\\n&lt;script&gt;\\n    var PerformanceEventManager;(()=&gt;{var e={};{var t=e;Object.defineProperty(t,\\&quot;__esModule\\&quot;,{value:!0}),t.default=t.VISUAL_COMPLETENESS_LATENCY=t.UNCAUGHT_ERROR=t.CREATIVE_LOAD_LATENCY=void 0;let r=t.UNCAUGHT_ERROR=\\&quot;uncaughtError\\&quot;;t.CREATIVE_LOAD_LATENCY=\\&quot;creativeLoadLatency\\&quot;,t.VISUAL_COMPLETENESS_LATENCY=\\&quot;visualCompletenessLatency\\&quot;,t.default=class{constructor(e){if(this.events={[r]:{}},this.timers={},this.onNewError=()=&gt;{},this.window=e&amp;&amp;e.window||\\&quot;undefined\\&quot;!=typeof window&amp;&amp;window,!this.window||!this.window.document)throw new Error(\\&quot;Window and/or document is not defined\\&quot;);this.trackLoadLatency(),this.trackVisualCompletenessLatency(),this.addErrorListener()}trackLoadLatency(){this.timers.creativeLoadLatency=new Date}trackVisualCompletenessLatency(){this.timers.visualCompletenessLatency=new Date}addErrorListener(){let e=this.events[r];this.addListener(this.window,\\&quot;error\\&quot;,t=&gt;{let r=t.message;t.error&amp;&amp;t.error.stack&amp;&amp;(r=(t=t.message+\\&quot; : \\&quot;+t.error.stack).length&lt;500?t:t.substring(0,500)),void 0===e[r]&amp;&amp;(e[r]=!0,this.onNewError(r))})}addListener(...e){let t=e[0],r=e[1],n=e[2],a=(e=window.event)=&gt;n(e);if(t.addEventListener)t.addEventListener(r,a,!0);else{var s=\\&quot;on\\&quot;+r;if(t.attachEvent)t.attachEvent(s,a);else{let r=t[s];t[s]=()=&gt;{a.apply(this,...e),\\&quot;function\\&quot;==typeof r&amp;&amp;r.apply(this,...e)}}}}}}PerformanceEventManager=e})();;\\n    var performanceEventManager = new PerformanceEventManager.default();\\n    \\n&lt;/script&gt;\\n&lt;div id=\\&quot;ad\\&quot; data-html-dimensions=\\&quot;980x55\\&quot;&gt;&lt;div style=\\&quot;width:100%;height:100%;opacity:1\\&quot; class=\\&quot;\\&quot;&gt;&lt;div style=\\&quot;width:100%;height:100%\\&quot; data-testid=\\&quot;app-layout-container\\&quot; data-has-hydrated=\\&quot;false\\&quot; class=\\&quot;tw\\&quot;&gt;&lt;div data-testid=\\&quot;gridContainer\\&quot; class=\\&quot;layout-container flex items-center overflow-hidden relative bg-white w-full h-full border-gray-400 border justify-center dark:bg-black-800\\&quot;&gt;&lt;div data-testid=\\&quot;percIdentifierPixel\\&quot; class=\\&quot;h-[1px] w-[1px] fixed bottom-0 left-0 bg-zinc-400 z-10\\&quot;&gt;&lt;/div&gt;&lt;div class=\\&quot;adchoices-container z-30 absolute top-0 right-0\\&quot;&gt;&lt;/div&gt;&lt;div class=\\&quot;h-full relative w-full\\&quot; data-testid=\\&quot;gridWrapper\\&quot; style=\\&quot;direction:ltr\\&quot;&gt;&lt;div data-testid=\\&quot;ilmBackground\\&quot; class=\\&quot;opacity-[0.07] top-0 left-0 bottom-0 right-0 absolute content-[&amp;#x27;&amp;#x27;]\\&quot;&gt;&lt;/div&gt;&lt;div data-region-type=\\&quot;trigger\\&quot; class=\\&quot;h-full\\&quot;&gt;&lt;div data-testid=\\&quot;gridRegion\\&quot; class=\\&quot;w-full h-full border-gray-400\\&quot;&gt;&lt;div data-testid=\\&quot;adLink\\&quot; class=\\&quot;focus-outline\\&quot; id=\\&quot;adLink\\&quot;&gt;&lt;a style=\\&quot;background:transparent url(&amp;quot;https://m.media-amazon.com/images/G/01/d16g/kpw/transparent-1x1.png&amp;quot;) repeat 0 0;bottom:0;cursor:pointer;left:0;position:absolute;right:0;top:0;z-index:20\\&quot; role=\\&quot;link\\&quot; aria-label=\\&quot;Annuncio sponsorizzato. Fai clic per ulteriori informazioni.\\&quot; href=\\&quot;https://aax-eu-zaz.amazon.it/x/c/RH6fDqVydKqEY97YMxmCoP4AAAGcVc3S_goAAAH-BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICA6LDmt/clv1c_ek-onYMXDbDCCwHNG8ziIev7DkwyLLZm23fnULFqH_k45fuVmbt-91TZNT9m_RbfzMNQv7P1gOe880N8ApbhkD0odi6PTEtl1bLYBaFehOBoT4pTAJcBtQfq8_-8wrLhtwi7_ugqx_nY4iOguX3-0iwrsX_-3lTtUbx2x7OYb7wdNdaJQDFCI6dwCTLYFNrUaTG6gRCFc1hd8JFr5ill1QdyzPmBHCFxRj3B0vbOsqyeRRy8RBvPng-gAygXqYbLLc-FmI_71BYn-YdbMxm5tVp5r1QSpzSd85sjBV4Ds0Sk1-3RXqwR_PJYYsl5VVzAfmodLJGipdNyNbqBfDG3qH4Q3mwRbNQESriBzlKxXZtXtCw-Igo16tU/https://www.amazon.it/stores/page/7E64FAFB-FCB1-4655-8161-13F720AAC526?aref=NhNhBn0MrM\\&quot; target=\\&quot;_top\\&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;div data-testid=\\&quot;\\&quot; data-identifier=\\&quot;product-collection\\&quot; data-current-screen=\\&quot;banner-desktop\\&quot; class=\\&quot;grid w-full h-full items-center p-0 gap-[40px]\\&quot; style=\\&quot;grid-template-areas:&amp;#x27;headline custom-image flex logo-image cta-button&amp;#x27;;grid-template-columns:2fr auto auto auto 1fr;grid-template-rows:100%\\&quot;&gt;&lt;div class=\\&quot;grid-headline flex h-full items-center justify-center\\&quot; data-testid=\\&quot;headline\\&quot;&gt;&lt;span style=\\&quot;word-break:break-word;overflow-wrap:anywhere\\&quot; data-line-count=\\&quot;0\\&quot; data-field-type=\\&quot;headline\\&quot; class=\\&quot;display-inline-box dark:text-white inherit text-[0.8125rem] headline font-bold text-center text-md pl-3\\&quot;&gt;&lt;i&gt;Melatonina &lt;/i&gt;&lt;i&gt;Ibsa&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=\\&quot;grid-custom-image flex h-full items-center min-w-0 min-h-0 w-full relative justify-center overflow-hidden\\&quot;&gt;&lt;div class=\\&quot;min-w-0 min-h-0 relative w-full h-full\\&quot;&gt;&lt;picture class=\\&quot;flex h-full w-full justify-center items-center\\&quot;&gt;&lt;source type=\\&quot;image/webp\\&quot; data-testid=\\&quot;lowResWebpSource\\&quot; srcSet=\\&quot; https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL10_SX980_SY55_FMwebp_.jpg 1x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL10_SX1960_SY110_FMwebp_.jpg 2x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL10_SX2940_SY165_FMwebp_.jpg 3x,\\&quot;/&gt;&lt;source type=\\&quot;image/jpeg\\&quot; data-testid=\\&quot;lowResJpegSource\\&quot; srcSet=\\&quot; https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL10_SX980_SY55_.jpg 1x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL10_SX1960_SY110_.jpg 2x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL10_SX2940_SY165_.jpg 3x,\\&quot;/&gt;&lt;source type=\\&quot;image/avif\\&quot; data-testid=\\&quot;lowResAvifSource\\&quot; srcSet=\\&quot; https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL10_SX980_SY55_FMavif_.jpg 1x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL10_SX1960_SY110_FMavif_.jpg 2x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL10_SX2940_SY165_FMavif_.jpg 3x,\\&quot;/&gt;&lt;img class=\\&quot;min-w-0 min-h-0 w-full h-full object-contain\\&quot; style=\\&quot;background-color:transparent\\&quot; loading=\\&quot;eager\\&quot; alt=\\&quot;Scatola di prodotti per il sonno a base di melatonina con coppia che dorme. Confezione viola, dispenser di strisce sublinguali visibile. Favorisce un sonno riposante e allevia il jet lag.\\&quot; data-testid=\\&quot;pictureLowQuality\\&quot; src=\\&quot; https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_SX980_SY55_.jpg 1x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_SX1960_SY110_.jpg 2x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_SX2940_SY165_.jpg 3x,\\&quot;/&gt;&lt;/picture&gt;&lt;picture data-testid=\\&quot;customImage\\&quot; data-image-scale=\\&quot;horizontal\\&quot; data-image-type=\\&quot;static\\&quot; class=\\&quot;flex left-0 right-0 absolute top-0 bottom-0 justify-center items-center\\&quot;&gt;&lt;source type=\\&quot;image/webp\\&quot; data-testid=\\&quot;webpSource\\&quot; srcSet=\\&quot; https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL95_SX980_SY55_FMwebp_.jpg 1x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL95_SX1960_SY110_FMwebp_.jpg 2x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL95_SX2940_SY165_FMwebp_.jpg 3x,\\&quot;/&gt;&lt;source type=\\&quot;image/jpeg\\&quot; data-testid=\\&quot;jpegSource\\&quot; srcSet=\\&quot; https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL95_SX980_SY55_.jpg 1x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL95_SX1960_SY110_.jpg 2x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL95_SX2940_SY165_.jpg 3x,\\&quot;/&gt;&lt;source type=\\&quot;image/avif\\&quot; data-testid=\\&quot;avifSource\\&quot; srcSet=\\&quot; https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL95_SX980_SY55_FMavif_.jpg 1x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL95_SX1960_SY110_FMavif_.jpg 2x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_QL95_SX2940_SY165_FMavif_.jpg 3x,\\&quot;/&gt;&lt;img class=\\&quot;min-w-0 min-h-0 w-full h-full mrc-btr-creative object-contain\\&quot; style=\\&quot;background-color:transparent\\&quot; loading=\\&quot;eager\\&quot; alt=\\&quot;Scatola di prodotti per il sonno a base di melatonina con coppia che dorme. Confezione viola, dispenser di strisce sublinguali visibile. Favorisce un sonno riposante e allevia il jet lag.\\&quot; data-testid=\\&quot;pictureHighQuality\\&quot; src=\\&quot; https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_SX980_SY55_.jpg 1x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_SX1960_SY110_.jpg 2x, https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/8de0792f-d810-43ca-a331-87afa5a7da9e._CR0,0,1200,628_BL0_BO2,255,255,255_SX2940_SY165_.jpg 3x,\\&quot;/&gt;&lt;/picture&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=\\&quot;grid-flex h-full w-full flex relative flex-row justify-around py-0.25\\&quot; data-testid=\\&quot;flex-component\\&quot;&gt;&lt;div class=\\&quot;flex w-full h-full gap-[20px]\\&quot;&gt;&lt;div class=\\&quot;grid-product-image flex min-h-0 w-full h-full items-center relative justify-center\\&quot; data-testid=\\&quot;productImageContainer\\&quot;&gt;&lt;div data-testid=\\&quot;adLink\\&quot; class=\\&quot;focus-outline\\&quot; id=\\&quot;adLink\\&quot;&gt;&lt;a style=\\&quot;background:transparent url(&amp;quot;https://m.media-amazon.com/images/G/01/d16g/kpw/transparent-1x1.png&amp;quot;) repeat 0 0;bottom:0;cursor:pointer;left:0;position:absolute;right:0;top:0;z-index:20\\&quot; role=\\&quot;link\\&quot; aria-label=\\&quot;Annuncio sponsorizzato. Fai clic per ulteriori informazioni.\\&quot; href=\\&quot;https://aax-eu-zaz.amazon.it/x/c/RH6fDqVydKqEY97YMxmCoP4AAAGcVc3S_goAAAH-BABvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICA6LDmt/clv1c_ek-onYMXDbDCCwHNG8ziIev7DkwyLLZm23fnULFqH_k45fuVmbt-91TZNT9m_RbfzMNQv7P1gOe880N8ApbhkD0odi6PTEtl1bLYBaFehOBoT4pTAJcBtQfq8_-8wrLhtwi7_ugqx_nY4iOguX3-0iwrsX_-3lTtUbx2x7OYb7wdNdaJQDFCI6dwCTLYFNrUaTG6gRCFc1hd8JFr5ill1QdyzPmBHCFxRj3B0vbOsqyeRRy8RBvPng-gAygXqYbLLc-FmI_71BYn-YdbMxm5tVp5r1QSpzSd85sjBV4Ds0Sk1-3RXqwR_PJYYsl5VVzAfmodLJGipdNyNbqBfDG3qH4Q3mwRbNQESriBzlKxXZtXtCw-Igo16tU/https://www.amazon.it/dp/B0BZQC6GS4?aref=NhNhBn0MrM\\&quot; target=\\&quot;_top\\&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;div data-testid=\\&quot;productGreyBackground\\&quot; class=\\&quot;absolute z-10 bg-black-700 opacity-5 h-full w-full rounded\\&quot;&gt;&lt;/div&gt;&lt;div class=\\&quot;min-w-0 min-h-0 relative w-full h-full\\&quot;&gt;&lt;picture class=\\&quot;flex h-full w-full justify-center items-center\\&quot;&gt;&lt;source type=\\&quot;image/webp\\&quot; data-testid=\\&quot;lowResWebpSource\\&quot; srcSet=\\&quot; https://m.media-amazon.com/images/I/613o7iXAf6L._AC_SL500_.jpg",
     "rating": 3.5,
     "reviewCount": 37,
     "composition": "Melatonina 1.9mg, Passiflora, Melissa",
@@ -595,7 +595,7 @@
     ],
     "pricePerUnit": "€0.45/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "sifar-nutra-coenz-qh-kaneka-qh",
@@ -621,7 +621,7 @@
     ],
     "pricePerUnit": "€1.10/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "curcuma-e-piperina-plus-1440-mg-con-vitamina-c-ad-alto-dosag",
@@ -635,7 +635,7 @@
     "asin": "B01GHSP7N8",
     "imageUrl": "https://m.media-amazon.com/images/I/416+Fwhj6VL._AC_SL500_.jpg",
     "rating": 4.2,
-    "reviewCount": 3687,
+    "reviewCount": 3688,
     "composition": "Curcuma 500mg, Piperina 5mg",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -647,7 +647,7 @@
     ],
     "pricePerUnit": "€0.18/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "bio-ashwagandha-ksm-66-alto-dosaggio",
@@ -661,7 +661,7 @@
     "asin": "B08ZDCP3HB",
     "imageUrl": "https://m.media-amazon.com/images/I/41yMYa+H0ML._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 9250,
+    "reviewCount": 9249,
     "composition": "Ashwagandha KSM-66 600mg",
     "form": "Capsule vegetali",
     "quantity": "120 capsule",
@@ -673,7 +673,7 @@
     ],
     "pricePerUnit": "€0.16/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "resveratrolo-con-quercetina-120-capsule-vegane-1-capsula-al-",
@@ -687,7 +687,7 @@
     "asin": "B01FWFE7VK",
     "imageUrl": "https://m.media-amazon.com/images/I/41DtP9GitGL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 3749,
+    "reviewCount": 3751,
     "composition": "Trans-Resveratrolo 500mg",
     "form": "Capsule vegetali",
     "quantity": "90 capsule",
@@ -699,7 +699,7 @@
     ],
     "pricePerUnit": "€0.19/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   },
   {
     "id": "magnesio-bisglicinato-citrato-malato-e-taurato",
@@ -725,6 +725,6 @@
     ],
     "pricePerUnit": "€0.27/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-12"
+    "lastUpdated": "2026-02-13"
   }
 ]
