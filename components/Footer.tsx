@@ -87,6 +87,21 @@ export default function Footer() {
               </ul>
             </div>
             
+            {/* Confronti Popolari */}
+            <div>
+              <h4 className="text-white font-semibold mb-4">Confronti Popolari</h4>
+              <ul className="space-y-2 text-sm">
+                <li><Link href="/confronto/vitamina-d3-vs-d2" className="hover:text-white transition-colors">Vitamina D3 vs D2</Link></li>
+                <li><Link href="/confronto/creatina-monoidrato-vs-hcl" className="hover:text-white transition-colors">Creatina Monoidrato vs HCL</Link></li>
+                <li><Link href="/confronto/whey-protein-vs-caseina" className="hover:text-white transition-colors">Whey vs Caseina</Link></li>
+                <li><Link href="/confronto/magnesio-citrato-vs-bisglicinato" className="hover:text-white transition-colors">Magnesio Citrato vs Bisglicinato</Link></li>
+                <li><Link href="/confronto/bcaa-vs-eaa" className="hover:text-white transition-colors">BCAA vs EAA</Link></li>
+                <li><Link href="/confronto" className="hover:text-white transition-colors font-medium text-emerald-400">Tutti i confronti →</Link></li>
+              </ul>
+            </div>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mt-8 pt-8 border-t border-gray-800">
             {/* Legal & Info */}
             <div>
               <h4 className="text-white font-semibold mb-4">Informazioni</h4>
