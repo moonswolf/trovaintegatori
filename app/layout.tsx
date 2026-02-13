@@ -101,7 +101,7 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       </head>
-      <body className="antialiased pb-20">
+      <body className="antialiased">
         <CompareProvider>
           <Navbar />
           {children}
