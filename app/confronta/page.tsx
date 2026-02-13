@@ -4,7 +4,6 @@ import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { getProducts, getProductById } from '@/lib/data';
 import { Product } from '@/types/product';
-import ProductGrid from '@/components/ProductGrid';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 
 export default function Confronta() {
@@ -20,7 +19,7 @@ function ConfrontaContent() {
   const [analysis, setAnalysis] = useState<any>(null);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
   const [error, setError] = useState('');
-  const [showProducts, setShowProducts] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
   const searchParams = useSearchParams();
 
   const products = getProducts();
@@ -245,34 +244,73 @@ function ConfrontaContent() {
           </div>
         )}
 
-        {/* Products grid - collapsible on mobile */}
+        {/* Add products search */}
         <div className="bg-white rounded-lg shadow-sm p-6">
-          <button
-            onClick={() => setShowProducts(!showProducts)}
-            className="w-full flex items-center justify-between md:cursor-default"
-          >
-            <div>
-              <h2 className="text-2xl font-bold text-gray-900 mb-1 text-left">
-                Tutti i Prodotti Disponibili
-              </h2>
-              <p className="text-gray-600 text-left text-sm">
-                Cerca e filtra tra i nostri {products.length} integratori per trovare quelli da confrontare
-              </p>
-            </div>
-            <span className="md:hidden text-gray-400 text-2xl ml-4 shrink-0">
-              {showProducts ? '▲' : '▼'}
-            </span>
-          </button>
+          <h2 className="text-2xl font-bold text-gray-900 mb-1">
+            ➕ Aggiungi Prodotti al Confronto
+          </h2>
+          <p className="text-gray-600 text-sm mb-4">
+            Cerca un integratore per aggiungerlo al confronto
+          </p>
 
-          <div className={`mt-6 ${showProducts ? 'block' : 'hidden md:block'}`}>
-            <ProductGrid
-              products={products}
-              onProductSelect={toggleProduct}
-              selectedProducts={selectedProducts}
-              showFilters={true}
-              showSorting={true}
+          <div className="relative">
+            <input
+              type="text"
+              placeholder="🔍 Cerca per nome, marca o categoria..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="w-full px-4 py-3 border border-gray-200 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 outline-none text-gray-900"
             />
+            {searchQuery && (
+              <button
+                onClick={() => setSearchQuery('')}
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600"
+              >
+                ✕
+              </button>
+            )}
           </div>
+
+          {searchQuery.length >= 2 && (
+            <div className="mt-4">
+              {(() => {
+                const query = searchQuery.toLowerCase();
+                const results = products.filter(p =>
+                  !selectedProducts.find(s => s.id === p.id) &&
+                  (p.name.toLowerCase().includes(query) ||
+                   p.brand.toLowerCase().includes(query) ||
+                   p.category.toLowerCase().includes(query))
+                );
+                if (results.length === 0) {
+                  return <p className="text-gray-500 text-sm py-4">Nessun prodotto trovato per &quot;{searchQuery}&quot;</p>;
+                }
+                return (
+                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 max-h-[400px] overflow-y-auto">
+                    {results.slice(0, 12).map(product => (
+                      <button
+                        key={product.id}
+                        onClick={() => { toggleProduct(product); setSearchQuery(''); }}
+                        className="flex items-center gap-3 p-3 border border-gray-100 rounded-lg hover:bg-emerald-50 hover:border-emerald-200 transition text-left"
+                      >
+                        <div className="w-10 h-10 flex-shrink-0 bg-gray-50 rounded-lg flex items-center justify-center overflow-hidden">
+                          {product.imageUrl?.startsWith('http') ? (
+                            <img src={product.imageUrl} alt={product.name} className="w-10 h-10 object-contain" />
+                          ) : (
+                            <span className="text-lg">💊</span>
+                          )}
+                        </div>
+                        <div className="min-w-0 flex-1">
+                          <p className="text-sm font-medium text-gray-900 truncate">{product.name}</p>
+                          <p className="text-xs text-gray-500">{product.brand} · €{product.price.toFixed(2)}</p>
+                        </div>
+                        <span className="text-emerald-600 text-lg flex-shrink-0">+</span>
+                      </button>
+                    ))}
+                  </div>
+                );
+              })()}
+            </div>
+          )}
         </div>
 
         {/* Affiliate Disclosure */}
