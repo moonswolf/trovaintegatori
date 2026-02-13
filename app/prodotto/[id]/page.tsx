@@ -183,8 +183,8 @@ export default async function ProductPage({ params }: ProductPageProps) {
               <p className="text-lg text-gray-700">{product.description}</p>
 
               {/* Price */}
-              <div className="bg-gray-50 rounded-lg p-6">
-                <div className="flex items-center gap-4 mb-4">
+              <div className="bg-gray-50 rounded-lg p-6 text-center md:text-left">
+                <div className="flex items-center justify-center md:justify-start gap-4 mb-4">
                   <span className="text-4xl font-bold text-emerald-600">€{product.price.toFixed(2)}</span>
                   {product.originalPrice && product.originalPrice > product.price && (
                     <span className="text-xl text-gray-600 line-through">€{product.originalPrice.toFixed(2)}</span>
@@ -196,7 +196,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
                 <div className="text-sm text-gray-600 mb-4">
                   <strong>Prezzo per unità:</strong> {product.pricePerUnit}
                 </div>
-                <div className="flex items-center gap-2 mb-6">
+                <div className="flex items-center justify-center md:justify-start gap-2 mb-6">
                   <span className={`w-3 h-3 rounded-full ${product.inStock ? 'bg-green-500' : 'bg-red-500'}`}></span>
                   <span className={`font-medium ${product.inStock ? 'text-green-600' : 'text-red-600'}`}>
                     {product.inStock ? 'Disponibile' : 'Non disponibile'}
