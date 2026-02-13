@@ -113,8 +113,8 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
       <div className="bg-white">
         <div className="max-w-7xl mx-auto px-4 py-12">
           <div className="text-center">
-            <div className="flex items-center justify-center gap-3 mb-4">
-              <span className="text-2xl" role="img" aria-label={category.name}>{category.icon}</span>
+            <div className="mb-4">
+              <span className="text-3xl block mb-2" role="img" aria-label={category.name}>{category.icon}</span>
               <h1 className="text-4xl md:text-5xl font-bold text-gray-900">
                 Integratori di {category.name}
               </h1>
@@ -136,7 +136,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
                 <div className="text-sm text-gray-600">Prezzo medio</div>
               </div>
               <div className="bg-gray-50 rounded-lg p-4 text-center">
-                <div className="text-2xl font-bold text-emerald-600">€{priceRange.min}-{priceRange.max}</div>
+                <div className="text-2xl font-bold text-emerald-600">€{priceRange.min} - €{priceRange.max}</div>
                 <div className="text-sm text-gray-600">Range prezzi</div>
               </div>
             </div>
