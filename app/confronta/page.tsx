@@ -111,28 +111,17 @@ function ConfrontaContent() {
         {/* Selected products summary */}
         {selectedProducts.length > 0 && (
           <div className="bg-emerald-50 border border-emerald-200 rounded-lg p-6 mb-8">
-            <div className="flex items-center justify-between mb-4">
-              <h3 className="font-bold text-gray-900">
-                Prodotti selezionati ({selectedProducts.length}/3)
-              </h3>
-              {selectedProducts.length >= 2 && (
-                <button
-                  onClick={handleCompare}
-                  disabled={isAnalyzing}
-                  className="bg-emerald-600 text-white px-6 py-2 rounded-lg font-semibold hover:bg-emerald-700 transition disabled:bg-gray-400"
-                >
-                  {isAnalyzing ? 'Analisi in corso...' : '🤖 Confronta con AI'}
-                </button>
-              )}
-            </div>
-            <div className="flex flex-wrap gap-2">
+            <h3 className="font-bold text-gray-900 mb-3">
+              Prodotti selezionati ({selectedProducts.length}/3)
+            </h3>
+            <div className="space-y-2 mb-4">
               {selectedProducts.map(p => (
-                <div key={p.id} className="bg-white px-4 py-2 rounded-lg flex items-center gap-2">
-                  <span>💊</span>
-                  <a href={`/prodotto/${p.id}`} className="font-medium text-emerald-700 hover:text-emerald-900 hover:underline truncate">{p.brand} {p.name}</a>
+                <div key={p.id} className="bg-white px-3 py-2 rounded-lg flex items-center gap-2">
+                  <span className="flex-shrink-0">💊</span>
+                  <a href={`/prodotto/${p.id}`} className="font-medium text-emerald-700 hover:text-emerald-900 hover:underline text-sm line-clamp-1 min-w-0">{p.brand} — {p.name}</a>
                   <button
                     onClick={() => toggleProduct(p)}
-                    className="text-red-500 hover:text-red-700 ml-2 flex-shrink-0"
+                    className="text-red-500 hover:text-red-700 flex-shrink-0 ml-auto"
                   >
                     ✕
                   </button>
@@ -157,6 +146,16 @@ function ConfrontaContent() {
                   </div>
                 </div>
               </div>
+            )}
+
+            {selectedProducts.length >= 2 && (
+              <button
+                onClick={handleCompare}
+                disabled={isAnalyzing}
+                className="w-full mt-4 bg-emerald-600 text-white px-6 py-3 rounded-lg font-semibold text-lg hover:bg-emerald-700 transition disabled:bg-gray-400"
+              >
+                {isAnalyzing ? '⏳ Analisi in corso...' : '🤖 Confronta con AI'}
+              </button>
             )}
           </div>
         )}
