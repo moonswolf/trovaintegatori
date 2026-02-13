@@ -42,7 +42,7 @@ export default function AddToCompareButton({ productId, variant = 'icon' }: AddT
       className={`w-8 h-8 rounded-lg flex items-center justify-center text-sm transition ${
         inCompare
           ? 'bg-emerald-100 text-emerald-700 border border-emerald-300'
-          : 'bg-gray-100 text-gray-500 hover:bg-emerald-50 hover:text-emerald-600 border border-gray-200'
+          : 'bg-gray-100 text-gray-500 hover:bg-emerald-50 hover:text-emerald-600 border border-gray-200 animate-pulse-subtle'
       }`}
       title={inCompare ? 'Rimuovi dal confronto' : 'Aggiungi al confronto'}
     >
