@@ -48,7 +48,7 @@
   {
     "slug": "probiotici",
     "name": "Probiotici",
-    "description": "Fermenti lattici e probiotici per l'equilibrio della flora intestinale",
+    "description": "Fermenti lattici e probiotici per l'equilibrio della flora intestinale e il benessere digestivo",
     "icon": "🦠",
     "subcategories": [
       {"slug": "fermenti-lattici", "name": "Fermenti lattici"},
@@ -58,13 +58,68 @@
   },
   {
     "slug": "proteine",
-    "name": "Proteine & Aminoacidi",
-    "description": "Proteine in polvere, aminoacidi e integratori per il supporto muscolare",
+    "name": "Proteine",
+    "description": "Proteine in polvere whey, isolate e vegetali per il supporto muscolare e il recupero",
     "icon": "💪",
     "subcategories": [
       {"slug": "proteine-whey", "name": "Proteine Whey"},
       {"slug": "proteine-vegetali", "name": "Proteine vegetali"},
-      {"slug": "aminoacidi", "name": "Aminoacidi"}
+      {"slug": "proteine-isolate", "name": "Proteine Isolate"}
+    ]
+  },
+  {
+    "slug": "aminoacidi",
+    "name": "Aminoacidi",
+    "description": "Aminoacidi ramificati BCAA, EAA e singoli aminoacidi per massa muscolare e recupero",
+    "icon": "🧬",
+    "subcategories": [
+      {"slug": "bcaa", "name": "BCAA"},
+      {"slug": "eaa", "name": "EAA"},
+      {"slug": "glutammina", "name": "Glutammina"}
+    ]
+  },
+  {
+    "slug": "creatina",
+    "name": "Creatina",
+    "description": "Creatina monoidrato e altre forme per forza, potenza muscolare e prestazioni sportive",
+    "icon": "⚡",
+    "subcategories": [
+      {"slug": "creatina-monoidrato", "name": "Creatina Monoidrato"},
+      {"slug": "creatina-hcl", "name": "Creatina HCL"},
+      {"slug": "creatina-mix", "name": "Creatina Mix"}
+    ]
+  },
+  {
+    "slug": "pre-workout",
+    "name": "Pre-Workout",
+    "description": "Integratori pre-allenamento per energia, focus e prestazioni in palestra",
+    "icon": "🔥",
+    "subcategories": [
+      {"slug": "pre-workout-stimolante", "name": "Con caffeina"},
+      {"slug": "pre-workout-pump", "name": "Pump / No-stim"},
+      {"slug": "pre-workout-completo", "name": "Formula completa"}
+    ]
+  },
+  {
+    "slug": "dimagranti",
+    "name": "Dimagranti",
+    "description": "Integratori brucia grassi, drenanti e termogenici per il controllo del peso",
+    "icon": "🔻",
+    "subcategories": [
+      {"slug": "brucia-grassi", "name": "Brucia grassi"},
+      {"slug": "drenanti", "name": "Drenanti"},
+      {"slug": "fame-nervosa", "name": "Controllo appetito"}
+    ]
+  },
+  {
+    "slug": "superfood",
+    "name": "Superfood",
+    "description": "Superalimenti naturali come spirulina, chlorella, curcuma e ashwagandha per il benessere totale",
+    "icon": "🌿",
+    "subcategories": [
+      {"slug": "spirulina-chlorella", "name": "Spirulina e Chlorella"},
+      {"slug": "adattogeni", "name": "Adattogeni"},
+      {"slug": "antiossidanti", "name": "Antiossidanti"}
     ]
   }
 ]
