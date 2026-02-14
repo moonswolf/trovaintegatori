@@ -209,7 +209,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
                 >
                   Acquista su Amazon Italia
                 </AmazonButton>
-                <div className="mt-3">
+                <div className="mt-4">
                   <AddToCompareButton productId={product.id} variant="full" />
                 </div>
               </div>
