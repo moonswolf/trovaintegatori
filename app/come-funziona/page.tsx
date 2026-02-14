@@ -28,66 +28,33 @@ export default function ComeFunziona() {
           Ecco come funziona in 3 semplici step:
         </p>
 
-        {/* Step 1 */}
-        <div className="bg-white rounded-lg shadow-md p-8 mb-8 border-l-4 border-emerald-600">
-          <div className="flex items-center mb-4">
-            <div className="bg-emerald-600 text-white w-12 h-12 min-w-[3rem] rounded-full flex items-center justify-center text-xl font-bold mr-4">
-              1
+        {/* Steps */}
+        <div className="space-y-6 mb-12">
+          {[
+            {
+              num: '1',
+              title: 'Cerca il Tuo Integratore',
+              text: 'Usa la barra di ricerca per trovare l\'integratore che ti interessa. Puoi cercare per nome del prodotto, principio attivo o categoria (es. Vitamina D3, Omega 3, Magnesio).',
+            },
+            {
+              num: '2',
+              title: 'Confronta i Prezzi',
+              text: 'Il nostro sistema confronta automaticamente i prezzi da Amazon.it, farmacie online e e-commerce specializzati. L\'intelligenza artificiale analizza anche la composizione e ti suggerisce alternative più economiche.',
+            },
+            {
+              num: '3',
+              title: 'Acquista al Prezzo Migliore',
+              text: 'Clicca sul negozio con il prezzo migliore e completa l\'acquisto direttamente sul loro sito. Noi ti mostriamo dove risparmiare, loro gestiscono l\'ordine e la spedizione.',
+            },
+          ].map((step) => (
+            <div key={step.num} className="bg-white rounded-lg border border-slate-200 p-6 md:p-8">
+              <div className="text-emerald-600 font-bold text-sm uppercase tracking-wider mb-2">
+                Step {step.num}
+              </div>
+              <h2 className="text-xl md:text-2xl font-bold text-gray-900 mb-3">{step.title}</h2>
+              <p className="text-gray-700 leading-relaxed">{step.text}</p>
             </div>
-            <h2 className="text-2xl font-bold text-gray-900">Cerca il Tuo Integratore</h2>
-          </div>
-          <p className="text-gray-700 mb-4 ml-16">
-            Usa la barra di ricerca per trovare l'integratore che ti interessa. Puoi cercare per:
-          </p>
-          <ul className="list-disc list-inside text-gray-700 ml-20 space-y-2">
-            <li>Nome del prodotto (es. &quot;Vitamina D3&quot;)</li>
-            <li>Principio attivo (es. &quot;Colecalciferolo&quot;)</li>
-            <li>Categoria (es. &quot;Omega 3&quot;, &quot;Magnesio&quot;)</li>
-          </ul>
-        </div>
-
-        {/* Step 2 */}
-        <div className="bg-white rounded-lg shadow-md p-8 mb-8 border-l-4 border-emerald-600">
-          <div className="flex items-center mb-4">
-            <div className="bg-emerald-600 text-white w-12 h-12 min-w-[3rem] rounded-full flex items-center justify-center text-xl font-bold mr-4">
-              2
-            </div>
-            <h2 className="text-2xl font-bold text-gray-900">Confronta i Prezzi</h2>
-          </div>
-          <p className="text-gray-700 mb-4 ml-16">
-            Il nostro sistema confronta automaticamente i prezzi da:
-          </p>
-          <ul className="list-disc list-inside text-gray-700 ml-20 space-y-2">
-            <li><strong>Amazon.it</strong> - Il marketplace più grande</li>
-            <li><strong>Farmacie Online</strong> - Farmacia Igea, DocPeter, eFarma</li>
-            <li><strong>E-commerce Specializzati</strong> - Altri negozi affidabili</li>
-          </ul>
-          <div className="bg-emerald-50 rounded p-4 mt-4 ml-16">
-            <p className="text-sm text-gray-700">
-              <strong>Suggerimento AI:</strong> La nostra intelligenza artificiale analizza anche la 
-              composizione e ti suggerisce prodotti equivalenti che potrebbero costarti ancora meno.
-            </p>
-          </div>
-        </div>
-
-        {/* Step 3 */}
-        <div className="bg-white rounded-lg shadow-md p-8 mb-8 border-l-4 border-emerald-600">
-          <div className="flex items-center mb-4">
-            <div className="bg-emerald-600 text-white w-12 h-12 min-w-[3rem] rounded-full flex items-center justify-center text-xl font-bold mr-4">
-              3
-            </div>
-            <h2 className="text-2xl font-bold text-gray-900">Acquista al Prezzo Migliore</h2>
-          </div>
-          <p className="text-gray-700 mb-4 ml-16">
-            Clicca sul negozio con il prezzo migliore e completa l'acquisto direttamente sul loro sito. 
-            Noi ti mostriamo dove risparmiare, loro gestiscono l'ordine e la spedizione.
-          </p>
-          <div className="bg-emerald-50 rounded p-4 mt-4 ml-16">
-            <p className="text-sm text-gray-700">
-              <strong>Funzione Alert:</strong> Se il prezzo non ti convince, puoi impostare un alert. 
-              Ti avviseremo via email quando il prezzo scende sotto la soglia che hai scelto.
-            </p>
-          </div>
+          ))}
         </div>
 
         {/* Features Extra */}
