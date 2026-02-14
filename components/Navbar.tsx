@@ -81,6 +81,9 @@ export default function Navbar() {
             <Link href="/come-funziona" className="text-slate-600 hover:text-emerald-600 transition text-sm font-medium">
               Come Funziona
             </Link>
+            <Link href="/blog" className="text-slate-600 hover:text-emerald-600 transition text-sm font-medium">
+              Blog
+            </Link>
             <Link href="/chi-siamo" className="text-slate-600 hover:text-emerald-600 transition text-sm font-medium">
               Chi Siamo
             </Link>
@@ -155,6 +158,13 @@ export default function Navbar() {
               </div>
             )}
 
+            <Link 
+              href="/blog" 
+              className="block px-4 py-3 text-slate-700 hover:bg-gray-50 rounded-lg text-sm"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Blog
+            </Link>
             <Link 
               href="/come-funziona" 
               className="block px-4 py-3 text-slate-700 hover:bg-gray-50 rounded-lg text-sm"

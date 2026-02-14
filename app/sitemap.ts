@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { getProducts, getCategories } from '@/lib/data';
+import { getAllPosts } from '@/lib/blog';
 import comparisons from '@/data/comparisons.json';
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -73,5 +74,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  return [...staticPages, ...comparisonIndex, ...comparisonPages, ...categoryPages, ...productPages];
+  // Blog pages
+  const posts = getAllPosts();
+  const blogIndex = [{
+    url: `${baseUrl}/blog`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }];
+  const blogPages = posts.map((post) => ({
+    url: `${baseUrl}/blog/${post.slug}`,
+    lastModified: new Date(post.date),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }));
+
+  return [...staticPages, ...blogIndex, ...blogPages, ...comparisonIndex, ...comparisonPages, ...categoryPages, ...productPages];
 }
