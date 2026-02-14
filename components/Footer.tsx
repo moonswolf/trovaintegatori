@@ -15,7 +15,7 @@ export default function Footer() {
   }, []);
 
   return (
-    <footer className="bg-gray-900 text-gray-300">
+    <footer className="bg-slate-900 text-slate-400">
       {/* Main Footer */}
       <div className="py-12 px-4">
         <div className="max-w-7xl mx-auto">
@@ -23,8 +23,10 @@ export default function Footer() {
             {/* Company Info */}
             <div>
               <div className="flex items-center space-x-2 mb-4">
-                <span className="text-2xl">🏥</span>
-                <span className="text-xl font-bold text-white">TrovaIntegratori</span>
+                <svg className="w-6 h-6 text-emerald-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z" />
+                </svg>
+                <span className="text-lg font-bold text-white">TrovaIntegratori</span>
               </div>
               <p className="text-sm mb-4">
                 Il comparatore intelligente per trovare integratori e vitamine 
@@ -32,22 +34,21 @@ export default function Footer() {
               </p>
               <div className="flex space-x-4">
                 <Link href="/confronta" className="bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded-lg text-sm font-medium transition">
-                  🤖 Confronta Ora
+                  Confronta Ora
                 </Link>
               </div>
             </div>
 
             {/* Categories */}
             <div>
-              <h4 className="text-white font-semibold mb-4">Categorie</h4>
+              <h4 className="text-white font-semibold mb-4 text-sm uppercase tracking-wider">Categorie</h4>
               <ul className="space-y-2 text-sm">
                 {categories.slice(0, 6).map((category) => (
                   <li key={category.slug}>
                     <Link 
                       href={`/categoria/${category.slug}`} 
-                      className="hover:text-white transition-colors flex items-center gap-2"
+                      className="hover:text-white transition-colors"
                     >
-                      <span>{category.icon}</span>
                       {category.name}
                     </Link>
                   </li>
@@ -57,39 +58,19 @@ export default function Footer() {
             
             {/* Pages */}
             <div>
-              <h4 className="text-white font-semibold mb-4">Navigazione</h4>
+              <h4 className="text-white font-semibold mb-4 text-sm uppercase tracking-wider">Navigazione</h4>
               <ul className="space-y-2 text-sm">
-                <li>
-                  <Link href="/" className="hover:text-white transition-colors">
-                    Home
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/confronta" className="hover:text-white transition-colors">
-                    Confronta Prezzi
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/come-funziona" className="hover:text-white transition-colors">
-                    Come Funziona
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/chi-siamo" className="hover:text-white transition-colors">
-                    Chi Siamo
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/contatti" className="hover:text-white transition-colors">
-                    Contatti
-                  </Link>
-                </li>
+                <li><Link href="/" className="hover:text-white transition-colors">Home</Link></li>
+                <li><Link href="/confronta" className="hover:text-white transition-colors">Confronta Prezzi</Link></li>
+                <li><Link href="/come-funziona" className="hover:text-white transition-colors">Come Funziona</Link></li>
+                <li><Link href="/chi-siamo" className="hover:text-white transition-colors">Chi Siamo</Link></li>
+                <li><Link href="/contatti" className="hover:text-white transition-colors">Contatti</Link></li>
               </ul>
             </div>
             
             {/* Confronti Popolari */}
             <div>
-              <h4 className="text-white font-semibold mb-4">Confronti Popolari</h4>
+              <h4 className="text-white font-semibold mb-4 text-sm uppercase tracking-wider">Confronti Popolari</h4>
               <ul className="space-y-2 text-sm">
                 <li><Link href="/confronto/vitamina-d3-vs-d2" className="hover:text-white transition-colors">Vitamina D3 vs D2</Link></li>
                 <li><Link href="/confronto/creatina-monoidrato-vs-hcl" className="hover:text-white transition-colors">Creatina Monoidrato vs HCL</Link></li>
@@ -101,33 +82,15 @@ export default function Footer() {
             </div>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mt-8 pt-8 border-t border-gray-800">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mt-8 pt-8 border-t border-slate-800">
             {/* Legal & Info */}
             <div>
-              <h4 className="text-white font-semibold mb-4">Informazioni</h4>
-              <ul className="space-y-2 text-sm mb-4">
-                <li>
-                  <Link href="#" className="hover:text-white transition-colors">
-                    Privacy Policy
-                  </Link>
-                </li>
-                <li>
-                  <Link href="#" className="hover:text-white transition-colors">
-                    Termini e Condizioni
-                  </Link>
-                </li>
-                <li>
-                  <Link href="#" className="hover:text-white transition-colors">
-                    Cookie Policy
-                  </Link>
-                </li>
+              <h4 className="text-white font-semibold mb-4 text-sm uppercase tracking-wider">Informazioni</h4>
+              <ul className="space-y-2 text-sm">
+                <li><Link href="#" className="hover:text-white transition-colors">Privacy Policy</Link></li>
+                <li><Link href="#" className="hover:text-white transition-colors">Termini e Condizioni</Link></li>
+                <li><Link href="#" className="hover:text-white transition-colors">Cookie Policy</Link></li>
               </ul>
-              
-              {/* Project Status */}
-              <div className="bg-emerald-900 bg-opacity-30 border border-emerald-700 rounded-lg p-3">
-                <p className="text-emerald-400 font-semibold mb-1 text-xs">✨ Live Now</p>
-                <p className="text-xs">Confronta subito i migliori prezzi</p>
-              </div>
             </div>
           </div>
           
@@ -135,13 +98,13 @@ export default function Footer() {
       </div>
 
       {/* Copyright */}
-      <div className="bg-gray-950 py-4 px-4">
+      <div className="bg-slate-950 py-4 px-4">
         <div className="max-w-7xl mx-auto text-center text-sm">
-          <p className="text-gray-400">
-            © {currentYear} TrovaIntegratori.it - Tutti i diritti riservati
+          <p className="text-slate-500">
+            © {currentYear} TrovaIntegratori.it — Tutti i diritti riservati
           </p>
-          <p className="mt-1 text-gray-500 text-xs">
-            Made with ❤️ in Italy | Powered by AI
+          <p className="mt-1 text-slate-600 text-xs">
+            Made in Italy · Powered by AI
           </p>
         </div>
       </div>

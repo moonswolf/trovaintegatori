@@ -111,7 +111,7 @@ function ConfrontaContent() {
         {/* Add products search */}
         <div className="bg-white rounded-lg shadow-sm p-6 mb-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-1">
-            ➕ Aggiungi Prodotti al Confronto
+            Aggiungi Prodotti al Confronto
           </h2>
           <p className="text-gray-600 text-sm mb-4">
             Cerca un integratore per aggiungerlo al confronto
@@ -120,7 +120,7 @@ function ConfrontaContent() {
           <div className="relative">
             <input
               type="text"
-              placeholder="🔍 Cerca per nome, marca o categoria..."
+              placeholder="Cerca per nome, marca o categoria..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full px-4 py-3 border border-gray-200 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 outline-none text-gray-900"
@@ -223,7 +223,7 @@ function ConfrontaContent() {
                 disabled={isAnalyzing}
                 className="w-full mt-4 bg-emerald-600 text-white px-6 py-3 rounded-lg font-semibold text-lg hover:bg-emerald-700 transition disabled:bg-gray-400"
               >
-                {isAnalyzing ? '⏳ Analisi in corso...' : '🤖 Confronta con AI'}
+                {isAnalyzing ? 'Analisi in corso...' : 'Confronta con AI'}
               </button>
             )}
           </div>
@@ -240,7 +240,7 @@ function ConfrontaContent() {
         {analysis && (
           <div className="bg-white rounded-lg shadow-lg p-8 mb-8 border-2 border-emerald-200">
             <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center gap-2">
-              <span>🤖</span> Analisi AI - Confronto Dettagliato
+              Analisi AI — Confronto Dettagliato
             </h2>
 
             <div className="space-y-6">
@@ -261,13 +261,13 @@ function ConfrontaContent() {
 
               {analysis.avvertenze && (
                 <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4">
-                  <h3 className="font-bold text-lg text-gray-900 mb-2">⚠️ Avvertenze</h3>
+                  <h3 className="font-bold text-lg text-gray-900 mb-2">Avvertenze</h3>
                   <p className="text-gray-700">{analysis.avvertenze}</p>
                 </div>
               )}
 
               <div className="bg-emerald-50 border border-emerald-200 rounded-lg p-4">
-                <h3 className="font-bold text-lg text-gray-900 mb-2">💡 Raccomandazione Finale</h3>
+                <h3 className="font-bold text-lg text-gray-900 mb-2">Raccomandazione Finale</h3>
                 <p className="text-gray-700">{analysis.raccomandazione_finale}</p>
               </div>
             </div>
@@ -282,28 +282,32 @@ function ConfrontaContent() {
         {/* Instructions */}
         {selectedProducts.length === 0 && (
           <div className="bg-white rounded-lg shadow-sm p-6 mb-8 text-center">
-            <div className="text-6xl mb-4">🤖</div>
+            <div className="mb-4">
+              <svg className="w-16 h-16 text-emerald-600 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.455 2.456L21.75 6l-1.036.259a3.375 3.375 0 00-2.455 2.456z" />
+              </svg>
+            </div>
             <h3 className="text-xl font-semibold text-gray-900 mb-2">
               Come funziona il confronto AI
             </h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
               <div>
-                <div className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center mx-auto mb-3">
-                  <span className="text-xl">1️⃣</span>
+                <div className="w-10 h-10 bg-emerald-50 rounded-lg flex items-center justify-center mx-auto mb-3 text-emerald-600 font-bold">
+                  1
                 </div>
                 <h4 className="font-medium mb-2">Seleziona prodotti</h4>
                 <p className="text-sm text-gray-600">Scegli 2-3 integratori che vuoi confrontare dalla lista sottostante</p>
               </div>
               <div>
-                <div className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center mx-auto mb-3">
-                  <span className="text-xl">2️⃣</span>
+                <div className="w-10 h-10 bg-emerald-50 rounded-lg flex items-center justify-center mx-auto mb-3 text-emerald-600 font-bold">
+                  2
                 </div>
-                <h4 className="font-medium mb-2">Avvia l'analisi</h4>
+                <h4 className="font-medium mb-2">Avvia l&#39;analisi</h4>
                 <p className="text-sm text-gray-600">Clicca "Confronta con AI" per ottenere un'analisi dettagliata</p>
               </div>
               <div>
-                <div className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center mx-auto mb-3">
-                  <span className="text-xl">3️⃣</span>
+                <div className="w-10 h-10 bg-emerald-50 rounded-lg flex items-center justify-center mx-auto mb-3 text-emerald-600 font-bold">
+                  3
                 </div>
                 <h4 className="font-medium mb-2">Leggi i risultati</h4>
                 <p className="text-sm text-gray-600">Ricevi consigli personalizzati su composizione, prezzo e qualità</p>

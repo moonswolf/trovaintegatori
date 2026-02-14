@@ -27,7 +27,7 @@ export default function ConfrontiIndexPage() {
       </nav>
 
       <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-        ⚖️ Confronti tra Integratori
+        Confronti tra Integratori
       </h1>
       <p className="text-lg text-gray-600 mb-8 max-w-2xl">
         Guide comparative dettagliate per aiutarti a scegliere gli integratori
@@ -43,7 +43,7 @@ export default function ConfrontiIndexPage() {
             className="block border border-gray-200 rounded-xl p-5 hover:border-emerald-300 hover:shadow-md transition bg-white"
           >
             <h2 className="text-xl font-bold text-gray-900 mb-2">
-              ⚖️ {comp.title}
+              {comp.title}
             </h2>
             <p className="text-gray-600 text-sm line-clamp-2">
               {comp.metaDescription}

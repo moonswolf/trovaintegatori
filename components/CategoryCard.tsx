@@ -9,7 +9,7 @@ interface CategoryCardProps {
 export default function CategoryCard({ category, productCount }: CategoryCardProps) {
   return (
     <Link href={`/categoria/${category.slug}`}>
-      <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg hover:-translate-y-1 transition-all duration-200 group">
+      <div className="bg-white rounded-lg border border-slate-200 overflow-hidden hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 group">
         <div className="p-6">
           {/* Icon */}
           <div className="w-16 h-16 bg-gradient-to-br from-emerald-100 to-emerald-200 rounded-lg mb-4 flex items-center justify-center group-hover:from-emerald-200 group-hover:to-emerald-300 transition-colors">

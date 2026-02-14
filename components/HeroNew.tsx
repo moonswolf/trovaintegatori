@@ -2,11 +2,11 @@ import Link from 'next/link';
 
 export default function HeroNew() {
   return (
-    <div className="bg-gradient-to-b from-emerald-50 to-white">
+    <div className="bg-gradient-to-b from-slate-50 to-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="pt-20 pb-16 text-center lg:pt-32">
           {/* Main Heading */}
-          <h1 className="mx-auto max-w-4xl font-display text-5xl font-bold tracking-tight text-gray-900 sm:text-7xl">
+          <h1 className="mx-auto max-w-4xl font-display text-5xl font-bold tracking-tight text-slate-900 sm:text-7xl">
             Confronta e{' '}
             <span className="relative whitespace-nowrap text-emerald-600">
               <svg
@@ -23,7 +23,7 @@ export default function HeroNew() {
           </h1>
 
           {/* Subtitle */}
-          <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-gray-700">
+          <p className="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-600">
             Trova i migliori prezzi per integratori alimentari su Amazon Italia. 
             Confronta prodotti, leggi recensioni e risparmia sui tuoi acquisti.
           </p>
@@ -32,9 +32,9 @@ export default function HeroNew() {
           <div className="mt-10 flex flex-col md:flex-row justify-center items-center gap-4 md:gap-6 px-4">
             <Link
               href="/confronta"
-              className="w-full md:w-auto group inline-flex items-center justify-center rounded-lg bg-emerald-600 px-8 py-4 text-sm font-semibold text-white hover:bg-emerald-700 hover:text-slate-100 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-600 active:bg-emerald-800 active:text-emerald-100 transition"
+              className="w-full md:w-auto group inline-flex items-center justify-center rounded-lg bg-emerald-600 px-8 py-4 text-sm font-semibold text-white hover:bg-emerald-700 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-600 active:bg-emerald-800 transition"
             >
-              🤖 Confronta con AI
+              Confronta con AI
             </Link>
             <Link
               href="#categorie"
@@ -48,31 +48,37 @@ export default function HeroNew() {
           <div className="mt-16 flex justify-center">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl">
               <div className="flex flex-col items-center">
-                <div className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center mb-3">
-                  <span className="text-2xl">💰</span>
+                <div className="w-12 h-12 bg-emerald-50 rounded-lg flex items-center justify-center mb-3">
+                  <svg className="w-6 h-6 text-emerald-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M12 6v12m-3-2.818l.879.659c1.171.879 3.07.879 4.242 0 1.172-.879 1.172-2.303 0-3.182C13.536 12.219 12.768 12 12 12c-.725 0-1.45-.22-2.003-.659-1.106-.879-1.106-2.303 0-3.182s2.9-.879 4.006 0l.415.33M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  </svg>
                 </div>
-                <h3 className="font-semibold text-gray-900 mb-1">Prezzi Aggiornati</h3>
-                <p className="text-sm text-gray-600 text-center">
+                <h3 className="font-semibold text-slate-900 mb-1">Prezzi Aggiornati</h3>
+                <p className="text-sm text-slate-500 text-center">
                   Monitoriamo costantemente i prezzi per garantirti sempre le migliori offerte
                 </p>
               </div>
               
               <div className="flex flex-col items-center">
-                <div className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center mb-3">
-                  <span className="text-2xl">🛡️</span>
+                <div className="w-12 h-12 bg-emerald-50 rounded-lg flex items-center justify-center mb-3">
+                  <svg className="w-6 h-6 text-emerald-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z" />
+                  </svg>
                 </div>
-                <h3 className="font-semibold text-gray-900 mb-1">Link Sicuri Amazon</h3>
-                <p className="text-sm text-gray-600 text-center">
+                <h3 className="font-semibold text-slate-900 mb-1">Link Sicuri Amazon</h3>
+                <p className="text-sm text-slate-500 text-center">
                   Tutti i link portano direttamente ad Amazon Italia per acquisti sicuri
                 </p>
               </div>
               
               <div className="flex flex-col items-center">
-                <div className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center mb-3">
-                  <span className="text-2xl">🤖</span>
+                <div className="w-12 h-12 bg-emerald-50 rounded-lg flex items-center justify-center mb-3">
+                  <svg className="w-6 h-6 text-emerald-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.455 2.456L21.75 6l-1.036.259a3.375 3.375 0 00-2.455 2.456z" />
+                  </svg>
                 </div>
-                <h3 className="font-semibold text-gray-900 mb-1">Confronto AI</h3>
-                <p className="text-sm text-gray-600 text-center">
+                <h3 className="font-semibold text-slate-900 mb-1">Confronto AI</h3>
+                <p className="text-sm text-slate-500 text-center">
                   Intelligenza artificiale per confronti dettagliati tra prodotti
                 </p>
               </div>
@@ -84,19 +90,19 @@ export default function HeroNew() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
               <div className="text-center">
                 <div className="text-2xl font-bold text-emerald-600">30+</div>
-                <div className="text-sm text-gray-600">Prodotti disponibili</div>
+                <div className="text-sm text-slate-500">Prodotti disponibili</div>
               </div>
               <div className="text-center">
                 <div className="text-2xl font-bold text-emerald-600">6</div>
-                <div className="text-sm text-gray-600">Categorie principali</div>
+                <div className="text-sm text-slate-500">Categorie principali</div>
               </div>
               <div className="text-center">
                 <div className="text-2xl font-bold text-emerald-600">100%</div>
-                <div className="text-sm text-gray-600">Link sicuri Amazon</div>
+                <div className="text-sm text-slate-500">Link sicuri Amazon</div>
               </div>
               <div className="text-center">
                 <div className="text-2xl font-bold text-emerald-600">AI</div>
-                <div className="text-sm text-gray-600">Confronto intelligente</div>
+                <div className="text-sm text-slate-500">Confronto intelligente</div>
               </div>
             </div>
           </div>

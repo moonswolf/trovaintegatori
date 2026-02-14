@@ -144,7 +144,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
                 {product.imageUrl && product.imageUrl.startsWith('http') ? (
                   <img src={product.imageUrl} alt={`${product.name} ${product.brand} - integratore`} className="h-full w-auto object-contain" loading="lazy" width={400} height={400} />
                 ) : (
-                  <span className="text-8xl">💊</span>
+                  <span className="text-7xl text-slate-300">💊</span>
                 )}
                 {discount > 0 && (
                   <div className="absolute top-4 right-4 bg-red-500 text-white text-lg font-bold px-3 py-2 rounded-lg">
@@ -207,7 +207,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
                   inStock={product.inStock}
                   className={`w-full py-4 px-6 rounded-lg text-sm md:text-lg font-semibold whitespace-nowrap transition ${product.inStock ? 'bg-emerald-600 text-white hover:bg-emerald-700' : 'bg-gray-300 text-gray-600 cursor-not-allowed'}`}
                 >
-                  🛒 Acquista su Amazon Italia
+                  Acquista su Amazon Italia
                 </AmazonButton>
                 <div className="mt-3">
                   <AddToCompareButton productId={product.id} variant="full" />
@@ -310,7 +310,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
           <h3 className="text-2xl font-bold text-gray-900 mb-4">Vuoi confrontare più prodotti?</h3>
           <p className="text-lg text-gray-600 mb-8">Usa il nostro comparatore con intelligenza artificiale per trovare l&apos;integratore perfetto per te</p>
           <Link href="/confronta" className="inline-flex items-center justify-center px-8 py-4 text-lg font-semibold text-white bg-emerald-600 hover:bg-emerald-700 rounded-lg transition">
-            🤖 Confronta con AI
+            Confronta con AI
           </Link>
         </div>
       </section>

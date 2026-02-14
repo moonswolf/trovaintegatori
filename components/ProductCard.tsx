@@ -24,8 +24,8 @@ export default function ProductCard({
 
   return (
     <div
-      className={`bg-white rounded-lg shadow-md overflow-hidden transition-all duration-200 cursor-pointer group ${
-        isSelected ? 'ring-4 ring-emerald-500 shadow-xl' : 'hover:shadow-lg hover:-translate-y-1'
+      className={`bg-white rounded-lg border border-slate-200 overflow-hidden transition-all duration-200 cursor-pointer group ${
+        isSelected ? 'ring-2 ring-emerald-500 border-emerald-300' : 'hover:shadow-md hover:-translate-y-0.5'
       }`}
       onClick={onClick}
     >

@@ -26,7 +26,7 @@ export default function Contatti() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-purple-50 to-white">
+    <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
       <div className="max-w-4xl mx-auto px-4 py-16">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-8">
           Contattaci
@@ -117,7 +117,7 @@ export default function Contatti() {
               
               <div className="space-y-4">
                 <div>
-                  <h4 className="font-semibold text-gray-900 mb-2">📧 Email Diretta</h4>
+                  <h4 className="font-semibold text-gray-900 mb-2">Email Diretta</h4>
                   <p className="text-gray-700">
                     <a href="mailto:info@trovaintegratori.it" className="text-emerald-600 hover:text-emerald-700">
                       info@trovaintegratori.it
@@ -126,14 +126,14 @@ export default function Contatti() {
                 </div>
 
                 <div>
-                  <h4 className="font-semibold text-gray-900 mb-2">⏰ Tempo di Risposta</h4>
+                  <h4 className="font-semibold text-gray-900 mb-2">Tempo di Risposta</h4>
                   <p className="text-gray-700">
                     Ti rispondiamo generalmente entro 24-48 ore lavorative.
                   </p>
                 </div>
 
                 <div>
-                  <h4 className="font-semibold text-gray-900 mb-2">🐛 Segnala un Bug</h4>
+                  <h4 className="font-semibold text-gray-900 mb-2">Segnala un Bug</h4>
                   <p className="text-gray-700">
                     Hai trovato un problema tecnico? Descrivici cosa non funziona nel form - 
                     lo risolveremo il prima possibile!
@@ -161,8 +161,8 @@ export default function Contatti() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 rounded-lg p-6">
-              <h3 className="font-bold text-gray-900 mb-2">💡 Suggerimenti</h3>
+            <div className="bg-slate-50 rounded-lg p-6">
+              <h3 className="font-bold text-gray-900 mb-2">Suggerimenti</h3>
               <p className="text-gray-700 text-sm">
                 Hai un'idea per migliorare TrovaIntegratori? Ci piacerebbe sentirla! 
                 Il nostro obiettivo è creare il miglior comparatore per la community italiana.

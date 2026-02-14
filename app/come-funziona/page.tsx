@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 
 export default function ComeFunziona() {
   return (
-    <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white">
+    <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
       <div className="max-w-4xl mx-auto px-4 py-16">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-8">
           Come Funziona
@@ -64,7 +64,7 @@ export default function ComeFunziona() {
           </ul>
           <div className="bg-blue-50 rounded p-4 mt-4 ml-16">
             <p className="text-sm text-gray-700">
-              💡 <strong>Suggerimento AI:</strong> La nostra intelligenza artificiale analizza anche la 
+              <strong>Suggerimento AI:</strong> La nostra intelligenza artificiale analizza anche la 
               composizione e ti suggerisce prodotti equivalenti che potrebbero costarti ancora meno.
             </p>
           </div>
@@ -84,7 +84,7 @@ export default function ComeFunziona() {
           </p>
           <div className="bg-purple-50 rounded p-4 mt-4 ml-16">
             <p className="text-sm text-gray-700">
-              🔔 <strong>Funzione Alert:</strong> Se il prezzo non ti convince, puoi impostare un alert. 
+              <strong>Funzione Alert:</strong> Se il prezzo non ti convince, puoi impostare un alert. 
               Ti avviseremo via email quando il prezzo scende sotto la soglia che hai scelto.
             </p>
           </div>
@@ -97,25 +97,25 @@ export default function ComeFunziona() {
           </h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-white rounded-lg p-6">
-              <h3 className="font-bold text-lg text-gray-900 mb-2">📊 Storico Prezzi</h3>
+              <h3 className="font-bold text-lg text-gray-900 mb-2">Storico Prezzi</h3>
               <p className="text-gray-700">
                 Visualizza l'andamento del prezzo negli ultimi mesi per capire se è il momento giusto per acquistare.
               </p>
             </div>
             <div className="bg-white rounded-lg p-6">
-              <h3 className="font-bold text-lg text-gray-900 mb-2">🤖 Analisi AI</h3>
+              <h3 className="font-bold text-lg text-gray-900 mb-2">Analisi AI</h3>
               <p className="text-gray-700">
                 L'intelligenza artificiale confronta le composizioni e identifica prodotti equivalenti più economici.
               </p>
             </div>
             <div className="bg-white rounded-lg p-6">
-              <h3 className="font-bold text-lg text-gray-900 mb-2">⭐ Watchlist</h3>
+              <h3 className="font-bold text-lg text-gray-900 mb-2">Watchlist</h3>
               <p className="text-gray-700">
                 Salva i tuoi integratori preferiti e ricevi notifiche quando vanno in offerta.
               </p>
             </div>
             <div className="bg-white rounded-lg p-6">
-              <h3 className="font-bold text-lg text-gray-900 mb-2">🔒 100% Gratuito</h3>
+              <h3 className="font-bold text-lg text-gray-900 mb-2">100% Gratuito</h3>
               <p className="text-gray-700">
                 Nessun costo, nessun abbonamento. Confronta tutti gli integratori che vuoi gratuitamente.
               </p>

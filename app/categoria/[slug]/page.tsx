@@ -114,8 +114,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
         <div className="max-w-7xl mx-auto px-4 py-12">
           <div className="text-center">
             <div className="mb-4">
-              <span className="text-3xl block mb-2" role="img" aria-label={category.name}>{category.icon}</span>
-              <h1 className="text-4xl md:text-5xl font-bold text-gray-900">
+              <h1 className="text-4xl md:text-5xl font-bold text-slate-900">
                 Integratori di {category.name}
               </h1>
             </div>
@@ -173,13 +172,13 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
               <h3 className="text-xl font-bold text-gray-900 mb-4">Non trovi quello che cerchi?</h3>
               <p className="text-gray-600 mb-6">Prova il nostro comparatore con intelligenza artificiale per confrontare prodotti simili</p>
               <Link href="/confronta" className="inline-flex items-center justify-center px-6 py-3 bg-emerald-600 text-white font-semibold rounded-lg hover:bg-emerald-700 transition">
-                🤖 Confronta con AI
+                Confronta con AI
               </Link>
             </div>
           </>
         ) : (
           <div className="text-center py-16">
-            <div className="text-6xl mb-4">📦</div>
+            <div className="text-5xl mb-4 text-slate-300">📦</div>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Nessun prodotto disponibile</h2>
             <p className="text-gray-600 mb-8">Al momento non abbiamo prodotti disponibili in questa categoria.</p>
             <Link href="/" className="inline-flex items-center justify-center px-6 py-3 bg-emerald-600 text-white font-semibold rounded-lg hover:bg-emerald-700 transition">

@@ -124,7 +124,7 @@ export default async function ComparisonPage({
 
               {/* Pros */}
               <div className="mb-4">
-                <h4 className="font-semibold text-emerald-700 mb-2">✅ Vantaggi</h4>
+                <h4 className="font-semibold text-emerald-700 mb-2">Vantaggi</h4>
                 <ul className="space-y-1">
                   {product.pros.map((pro, i) => (
                     <li key={i} className="text-sm text-gray-700 flex items-start gap-2">
@@ -137,7 +137,7 @@ export default async function ComparisonPage({
 
               {/* Cons */}
               <div className="mb-4">
-                <h4 className="font-semibold text-red-700 mb-2">❌ Svantaggi</h4>
+                <h4 className="font-semibold text-red-700 mb-2">Svantaggi</h4>
                 <ul className="space-y-1">
                   {product.cons.map((con, i) => (
                     <li key={i} className="text-sm text-gray-700 flex items-start gap-2">
@@ -151,7 +151,7 @@ export default async function ComparisonPage({
               {/* Best For */}
               <div className="bg-emerald-50 rounded-lg p-3 mt-auto">
                 <p className="text-sm text-emerald-800">
-                  <span className="font-semibold">🎯 Ideale per: </span>
+                  <span className="font-semibold">Ideale per: </span>
                   {product.bestFor}
                 </p>
               </div>
@@ -161,7 +161,7 @@ export default async function ComparisonPage({
 
         {/* Verdict */}
         <div className="bg-gradient-to-r from-emerald-50 to-teal-50 border border-emerald-200 rounded-xl p-6 mb-10">
-          <h2 className="text-2xl font-bold text-emerald-800 mb-3">🏆 Il Verdetto</h2>
+          <h2 className="text-2xl font-bold text-emerald-800 mb-3">Il Verdetto</h2>
           <p className="text-gray-800 leading-relaxed">{comp.verdict}</p>
         </div>
 
@@ -260,7 +260,7 @@ export default async function ComparisonPage({
                   href={`/confronto/${c.slug}`}
                   className="p-3 border border-gray-200 rounded-lg hover:border-emerald-300 hover:bg-emerald-50 transition text-sm font-medium text-gray-700"
                 >
-                  ⚖️ {c.title}
+                  {c.title}
                 </Link>
               ))}
           </div>
