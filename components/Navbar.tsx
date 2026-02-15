@@ -4,28 +4,14 @@ import Link from 'next/link';
 import { useState, useEffect } from 'react';
 import { getCategories } from '@/lib/data';
 import { Category } from '@/types/product';
-
-const blogCategories = [
-  { slug: 'vitamine', name: 'Vitamine' },
-  { slug: 'minerali', name: 'Minerali' },
-  { slug: 'omega-3', name: 'Omega 3' },
-  { slug: 'sport', name: 'Sport & Performance' },
-  { slug: 'probiotici', name: 'Probiotici' },
-  { slug: 'bellezza', name: 'Bellezza' },
-  { slug: 'sonno', name: 'Sonno' },
-  { slug: 'adattogeni', name: 'Adattogeni' },
-  { slug: 'superfood', name: 'Superfood' },
-  { slug: 'antiossidanti', name: 'Antiossidanti' },
-  { slug: 'dimagrimento', name: 'Dimagrimento' },
-  { slug: 'guide', name: 'Guide' },
-  { slug: 'classifiche', name: 'Classifiche' },
-];
+import blogCatsData from '@/data/blog-categories.json';
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isCategoriesOpen, setIsCategoriesOpen] = useState(false);
   const [isBlogOpen, setIsBlogOpen] = useState(false);
   const [categories, setCategories] = useState<Category[]>([]);
+  const blogCategories = blogCatsData as {slug: string; name: string}[];
 
   useEffect(() => {
     setCategories(getCategories());
