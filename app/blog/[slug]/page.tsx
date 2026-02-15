@@ -87,7 +87,7 @@ export default async function BlogPostPage({ params }: Props) {
           {post.tags.length > 0 && (
             <div className="flex flex-wrap gap-2">
               {post.tags.map(tag => (
-                <Link key={tag} href={`/blog/tag/${encodeURIComponent(tag)}`} className="text-xs bg-slate-100 text-slate-600 hover:bg-emerald-100 hover:text-emerald-700 px-2.5 py-1 rounded-full transition">
+                <Link key={tag} href={`/blog/tag/${tag}`} className="text-xs bg-slate-100 text-slate-600 hover:bg-emerald-100 hover:text-emerald-700 px-2.5 py-1 rounded-full transition">
                   {tag}
                 </Link>
               ))}

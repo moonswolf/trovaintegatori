@@ -10,26 +10,24 @@ export async function generateStaticParams() {
   const posts = getAllPosts();
   const tags = new Set<string>();
   posts.forEach(p => p.tags.forEach(t => tags.add(t)));
-  return Array.from(tags).map(tag => ({ tag: encodeURIComponent(tag) }));
+  return Array.from(tags).map(tag => ({ tag }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { tag } = await params;
-  const decodedTag = decodeURIComponent(tag);
   return {
-    title: `Articoli su "${decodedTag}" | TrovaIntegratori.it`,
-    description: `Tutti gli articoli e le guide su ${decodedTag}. Scopri dosaggi, benefici e consigli.`,
+    title: `Articoli su "${tag}" | TrovaIntegratori.it`,
+    description: `Tutti gli articoli e le guide su ${tag}. Scopri dosaggi, benefici e consigli.`,
     alternates: {
-      canonical: `https://trovaintegratori.it/blog/tag/${tag}`,
+      canonical: `https://trovaintegratori.it/blog/tag/${encodeURIComponent(tag)}`,
     },
   };
 }
 
 export default async function TagPage({ params }: Props) {
   const { tag } = await params;
-  const decodedTag = decodeURIComponent(tag);
   const allPosts = getAllPosts();
-  const posts = allPosts.filter(p => p.tags.includes(decodedTag));
+  const posts = allPosts.filter(p => p.tags.includes(tag));
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -39,12 +37,12 @@ export default async function TagPage({ params }: Props) {
         <span>/</span>
         <Link href="/blog" className="hover:text-emerald-600 transition">Blog</Link>
         <span>/</span>
-        <span className="text-slate-700">Tag: {decodedTag}</span>
+        <span className="text-slate-700">Tag: {tag}</span>
       </nav>
 
       <div className="mb-10">
         <h1 className="text-3xl font-bold text-slate-900 mb-3">
-          Tag: <span className="text-emerald-600">{decodedTag}</span>
+          Tag: <span className="text-emerald-600">{tag}</span>
         </h1>
         <p className="text-slate-600">
           {posts.length} {posts.length === 1 ? 'articolo' : 'articoli'} con questo tag
