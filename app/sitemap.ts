@@ -89,5 +89,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [...staticPages, ...blogIndex, ...blogPages, ...comparisonIndex, ...comparisonPages, ...categoryPages, ...productPages];
+  // Blog tag pages
+  const tagSet = new Set<string>();
+  posts.forEach(p => p.tags.forEach(t => tagSet.add(t)));
+  const tagPages = Array.from(tagSet).map(tag => ({
+    url: `${baseUrl}/blog/tag/${encodeURIComponent(tag)}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.5,
+  }));
+
+  return [...staticPages, ...blogIndex, ...blogPages, ...tagPages, ...comparisonIndex, ...comparisonPages, ...categoryPages, ...productPages];
 }
