@@ -9,6 +9,7 @@ import json, re, time, os, sys
 from datetime import datetime
 from urllib.request import Request, urlopen
 from urllib.parse import quote
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -123,13 +124,27 @@ def main():
 
     alerts = []
     updated = 0
+    results = {}
 
+    # Fetch all products concurrently (5 threads)
+    def fetch_one(idx, product):
+        asin = product["asin"]
+        print(f"[{idx+1}/{len(products)}] {product['name'][:50]}... ({asin})", flush=True)
+        data = fetch_product_data(asin)
+        time.sleep(0.5)  # small delay per thread to avoid throttling
+        return idx, data
+
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        futures = {executor.submit(fetch_one, i, p): i for i, p in enumerate(products)}
+        for future in as_completed(futures):
+            idx, data = future.result()
+            results[idx] = data
+
+    # Process results sequentially
     for i, p in enumerate(products):
         asin = p["asin"]
         old_price = p.get("price", 0)
-        print(f"[{i+1}/{len(products)}] {p['name'][:50]}... ({asin})", flush=True)
-
-        data = fetch_product_data(asin)
+        data = results.get(i, {"error": "no result"})
 
         if "price" in data:
             new_price = data["price"]
@@ -167,12 +182,10 @@ def main():
                     })
                     print(f"  🔻 PRICE DROP: €{old_price:.2f} → €{new_price:.2f} (-{drop_pct*100:.0f}%)")
 
-            print(f"  ✅ €{new_price:.2f} (was €{old_price:.2f})")
+            print(f"  ✅ {p['name'][:40]}... €{new_price:.2f} (was €{old_price:.2f})")
             updated += 1
         else:
-            print(f"  ❌ No data: {data.get('error', 'unknown')}")
-
-        time.sleep(1.5)
+            print(f"  ❌ {p['name'][:40]}... No data: {data.get('error', 'unknown')}")
 
     # Save updated products
     with open(PRODUCTS_FILE, "w") as f:

@@ -5,9 +5,26 @@ import { useState, useEffect } from 'react';
 import { getCategories } from '@/lib/data';
 import { Category } from '@/types/product';
 
+const blogCategories = [
+  { slug: 'vitamine', name: 'Vitamine' },
+  { slug: 'minerali', name: 'Minerali' },
+  { slug: 'omega-3', name: 'Omega 3' },
+  { slug: 'sport', name: 'Sport & Performance' },
+  { slug: 'probiotici', name: 'Probiotici' },
+  { slug: 'bellezza', name: 'Bellezza' },
+  { slug: 'sonno', name: 'Sonno' },
+  { slug: 'adattogeni', name: 'Adattogeni' },
+  { slug: 'superfood', name: 'Superfood' },
+  { slug: 'antiossidanti', name: 'Antiossidanti' },
+  { slug: 'dimagrimento', name: 'Dimagrimento' },
+  { slug: 'guide', name: 'Guide' },
+  { slug: 'classifiche', name: 'Classifiche' },
+];
+
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isCategoriesOpen, setIsCategoriesOpen] = useState(false);
+  const [isBlogOpen, setIsBlogOpen] = useState(false);
   const [categories, setCategories] = useState<Category[]>([]);
 
   useEffect(() => {
@@ -81,9 +98,46 @@ export default function Navbar() {
             <Link href="/come-funziona" className="text-slate-600 hover:text-emerald-600 transition text-sm font-medium">
               Come Funziona
             </Link>
-            <Link href="/blog" className="text-slate-600 hover:text-emerald-600 transition text-sm font-medium">
-              Blog
-            </Link>
+
+            {/* Blog Dropdown */}
+            <div className="relative">
+              <button
+                onMouseEnter={() => setIsBlogOpen(true)}
+                onMouseLeave={() => setIsBlogOpen(false)}
+                className="text-slate-600 hover:text-emerald-600 transition flex items-center gap-1 text-sm font-medium"
+              >
+                Blog
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+              
+              {isBlogOpen && (
+                <div 
+                  className="absolute top-full left-0 mt-1 bg-white border border-gray-200 rounded-lg shadow-lg py-2 w-56 z-50"
+                  onMouseEnter={() => setIsBlogOpen(true)}
+                  onMouseLeave={() => setIsBlogOpen(false)}
+                >
+                  <Link
+                    href="/blog"
+                    className="block px-4 py-2 hover:bg-gray-50 text-slate-700 hover:text-emerald-600 transition font-medium text-sm"
+                  >
+                    Tutti gli articoli
+                  </Link>
+                  <div className="border-t border-gray-100 my-1"></div>
+                  {blogCategories.map((cat) => (
+                    <Link
+                      key={cat.slug}
+                      href={`/blog?categoria=${cat.slug}`}
+                      className="block px-4 py-2 hover:bg-gray-50 text-slate-700 hover:text-emerald-600 transition text-sm"
+                    >
+                      {cat.name}
+                    </Link>
+                  ))}
+                </div>
+              )}
+            </div>
+
             <Link href="/chi-siamo" className="text-slate-600 hover:text-emerald-600 transition text-sm font-medium">
               Chi Siamo
             </Link>
@@ -158,13 +212,38 @@ export default function Navbar() {
               </div>
             )}
 
-            <Link 
-              href="/blog" 
-              className="block px-4 py-3 text-slate-700 hover:bg-gray-50 rounded-lg text-sm"
-              onClick={() => setIsMenuOpen(false)}
+            {/* Mobile Blog - collapsible */}
+            <button
+              onClick={() => setIsBlogOpen(!isBlogOpen)}
+              className="w-full flex items-center justify-between px-4 py-3 text-slate-700 hover:bg-gray-50 rounded-lg text-sm"
             >
-              Blog
-            </Link>
+              <span>Blog</span>
+              <svg className={`w-4 h-4 transition-transform ${isBlogOpen ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+            {isBlogOpen && (
+              <div className="pl-6 pr-4 space-y-1 pb-2">
+                <Link
+                  href="/blog"
+                  className="block py-2 text-emerald-600 font-medium transition text-sm"
+                  onClick={() => { setIsMenuOpen(false); setIsBlogOpen(false); }}
+                >
+                  Tutti gli articoli
+                </Link>
+                {blogCategories.map((cat) => (
+                  <Link
+                    key={cat.slug}
+                    href={`/blog?categoria=${cat.slug}`}
+                    className="block py-2 text-slate-600 hover:text-emerald-600 transition text-sm"
+                    onClick={() => { setIsMenuOpen(false); setIsBlogOpen(false); }}
+                  >
+                    {cat.name}
+                  </Link>
+                ))}
+              </div>
+            )}
+
             <Link 
               href="/come-funziona" 
               className="block px-4 py-3 text-slate-700 hover:bg-gray-50 rounded-lg text-sm"

@@ -17,12 +17,18 @@ export const metadata: Metadata = {
 
 const POSTS_PER_PAGE = 9;
 
-export default async function BlogPage({ searchParams }: { searchParams: Promise<{ page?: string }> }) {
+export default async function BlogPage({ searchParams }: { searchParams: Promise<{ page?: string; categoria?: string }> }) {
   const params = await searchParams;
-  const posts = getAllPosts();
+  const allPosts = getAllPosts();
+  const activeCategory = params.categoria || '';
+  const posts = activeCategory ? allPosts.filter(p => p.category === activeCategory) : allPosts;
   const currentPage = Math.max(1, parseInt(params.page || '1'));
   const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
   const paginatedPosts = posts.slice((currentPage - 1) * POSTS_PER_PAGE, currentPage * POSTS_PER_PAGE);
+
+  // Collect unique categories from all posts
+  const categorySet = new Set(allPosts.map(p => p.category));
+  const availableCategories = Array.from(categorySet).sort();
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -33,6 +39,31 @@ export default async function BlogPage({ searchParams }: { searchParams: Promise
           Guide, approfondimenti e consigli per scegliere gli integratori alimentari migliori per le tue esigenze.
         </p>
       </div>
+
+      {/* Category Filter */}
+      {availableCategories.length > 1 && (
+        <div className="flex flex-wrap gap-2 mb-8">
+          <Link
+            href="/blog"
+            className={`px-3 py-1.5 rounded-lg text-sm font-medium transition ${
+              !activeCategory ? 'bg-emerald-600 text-white' : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-50'
+            }`}
+          >
+            Tutti
+          </Link>
+          {availableCategories.map(cat => (
+            <Link
+              key={cat}
+              href={`/blog?categoria=${cat}`}
+              className={`px-3 py-1.5 rounded-lg text-sm font-medium transition capitalize ${
+                activeCategory === cat ? 'bg-emerald-600 text-white' : 'bg-white border border-slate-200 text-slate-700 hover:bg-slate-50'
+              }`}
+            >
+              {cat}
+            </Link>
+          ))}
+        </div>
+      )}
 
       {/* Posts Grid */}
       {paginatedPosts.length === 0 ? (
@@ -75,7 +106,7 @@ export default async function BlogPage({ searchParams }: { searchParams: Promise
           {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => (
             <Link
               key={page}
-              href={`/blog?page=${page}`}
+              href={`/blog?${activeCategory ? `categoria=${activeCategory}&` : ''}page=${page}`}
               className={`px-4 py-2 rounded-lg text-sm font-medium transition ${
                 page === currentPage
                   ? 'bg-emerald-600 text-white'
