@@ -5,6 +5,7 @@ import ProductCard from '@/components/ProductCard';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import AmazonButton from '@/components/AmazonButton';
 import AddToCompareButton from '@/components/AddToCompareButton';
+import ImageLightbox from '@/components/ImageLightbox';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
@@ -141,11 +142,12 @@ export default async function ProductPage({ params }: ProductPageProps) {
             {/* Product Image */}
             <div className="space-y-4">
               <div className="w-full h-96 bg-white rounded-lg flex items-center justify-center relative overflow-hidden">
-                {product.imageUrl && product.imageUrl.startsWith('http') ? (
-                  <img src={product.imageUrl} alt={`${product.name} ${product.brand} - integratore`} className="h-full w-auto object-contain" loading="lazy" width={400} height={400} />
-                ) : (
-                  <span className="text-7xl text-slate-300">💊</span>
-                )}
+                <ImageLightbox
+                  src={product.imageUrl}
+                  alt={`${product.name} ${product.brand} - integratore`}
+                  className="h-full w-auto object-contain"
+                  fallback={<span className="text-7xl text-slate-300">💊</span>}
+                />
                 {discount > 0 && (
                   <div className="absolute top-4 right-4 bg-red-500 text-white text-lg font-bold px-3 py-2 rounded-lg">
                     -{discount}%
