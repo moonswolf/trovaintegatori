@@ -30,8 +30,10 @@ export async function generateMetadata({ params }: ProductPageProps): Promise<Me
     return { title: 'Prodotto non trovato' };
   }
 
-  const title = `${product.name} - €${product.price.toFixed(2)} | Confronta Prezzo`;
-  const description = `${product.description} ${product.brand} a €${product.price.toFixed(2)} su Amazon Italia. ⭐ ${product.rating}/5 (${product.reviewCount} recensioni). Confronta e risparmia.`;
+  const category = getCategoryBySlug(product.category);
+  const categoryName = category ? category.name : '';
+  const title = `${product.name} - €${product.price.toFixed(2)} | ${categoryName} | Confronta Prezzo`;
+  const description = `${product.name} di ${product.brand} — integratore ${categoryName.toLowerCase()} a €${product.price.toFixed(2)} su Amazon Italia. ⭐ ${product.rating}/5 (${product.reviewCount} recensioni). ${product.description.slice(0, 120)} Confronta e risparmia.`;
   const url = `${baseUrl}/prodotto/${product.id}`;
 
   return {

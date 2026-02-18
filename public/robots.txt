@@ -1,5 +1,37 @@
+# TrovaIntegratori.it - Robots.txt
+# Benvenuti crawler e AI agents!
+
 User-agent: *
 Allow: /
 Disallow: /api/
 
+# AI Crawlers are welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
 Sitemap: https://trovaintegratori.it/sitemap.xml
+
+# LLMs.txt - Structured info for AI
+# https://trovaintegratori.it/llms.txt
+# https://trovaintegratori.it/llms-full.txt

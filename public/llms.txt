@@ -1,0 +1,32 @@
+# TrovaIntegratori.it
+
+> Confronta prezzi di integratori alimentari su Amazon Italia. Trova le migliori offerte su vitamine, proteine, creatina, omega-3, probiotici e molto altro.
+
+TrovaIntegratori.it è un comparatore di prezzi gratuito per integratori alimentari venduti su Amazon.it. Il sito indicizza oltre 300 prodotti in 11 categorie, permettendo agli utenti di confrontare prezzi, recensioni e caratteristiche.
+
+## Categorie principali
+
+- Vitamine (vitamina D, C, B12, multivitaminici)
+- Minerali (magnesio, zinco, ferro, calcio)
+- Omega-3 (olio di pesce, omega vegano, krill)
+- Collagene (marino, bovino, vegetale)
+- Probiotici (fermenti lattici, prebiotici)
+- Proteine (whey, vegetali, isolate)
+- Aminoacidi (BCAA, EAA, glutammina)
+- Creatina (monoidrato, HCL, mix)
+- Pre-Workout (con caffeina, pump, formula completa)
+- Dimagranti (brucia grassi, drenanti, controllo appetito)
+- Superfood (spirulina, adattogeni, antiossidanti)
+
+## Sezioni del sito
+
+- Homepage: https://trovaintegratori.it
+- Categorie: https://trovaintegratori.it/categorie
+- Confronta Prezzi: https://trovaintegratori.it/confronta
+- Blog: https://trovaintegratori.it/blog
+- Come Funziona: https://trovaintegratori.it/come-funziona
+- Chi Siamo: https://trovaintegratori.it/chi-siamo
+
+## Ulteriori informazioni
+
+- llms-full.txt: https://trovaintegratori.it/llms-full.txt

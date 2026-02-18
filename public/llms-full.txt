@@ -1,0 +1,95 @@
+# TrovaIntegratori.it — Informazioni complete
+
+> Comparatore gratuito di prezzi per integratori alimentari su Amazon Italia.
+
+## Cos'è TrovaIntegratori.it
+
+TrovaIntegratori.it è un sito italiano che aiuta gli utenti a confrontare prezzi e caratteristiche di integratori alimentari venduti su Amazon.it. Il sito indicizza oltre 300 prodotti organizzati in 11 categorie e permette di:
+
+- Confrontare fino a 4 prodotti fianco a fianco
+- Vedere prezzi aggiornati, recensioni e valutazioni
+- Trovare le migliori offerte e sconti
+- Leggere articoli informativi su salute e benessere
+
+## Come funziona
+
+1. L'utente cerca o naviga per categoria
+2. Seleziona i prodotti da confrontare
+3. Visualizza un confronto dettagliato (prezzo, composizione, recensioni)
+4. Clicca per acquistare su Amazon.it
+
+I prezzi sono aggiornati periodicamente da Amazon.it tramite il programma Amazon Associates (tag: trovaintegrat-21).
+
+## Categorie
+
+### Vitamine (💊)
+Integratori vitaminici per il benessere quotidiano: vitamina D, C, B12, multivitaminici e complessi B.
+- Sottocategorie: Vitamina D, Vitamina C, Vitamine del gruppo B, Multivitaminici
+- URL: https://trovaintegratori.it/categoria/vitamine
+
+### Minerali (⚡)
+Integratori minerali essenziali: magnesio, zinco, ferro e altri minerali per la salute.
+- Sottocategorie: Magnesio, Zinco, Ferro, Calcio
+- URL: https://trovaintegratori.it/categoria/minerali
+
+### Omega-3 (🐟)
+Acidi grassi essenziali omega-3 da pesce e fonti vegetali per cuore e cervello.
+- Sottocategorie: Olio di pesce, Omega-3 vegano, Olio di krill
+- URL: https://trovaintegratori.it/categoria/omega-3
+
+### Collagene (✨)
+Integratori di collagene per pelle, articolazioni e tessuto connettivo.
+- Sottocategorie: Collagene marino, Collagene bovino, Collagene vegetale
+- URL: https://trovaintegratori.it/categoria/collagene
+
+### Probiotici (🦠)
+Fermenti lattici e probiotici per l'equilibrio della flora intestinale e il benessere digestivo.
+- Sottocategorie: Fermenti lattici, Probiotici specifici, Prebiotici
+- URL: https://trovaintegratori.it/categoria/probiotici
+
+### Proteine (💪)
+Proteine in polvere whey, isolate e vegetali per il supporto muscolare e il recupero.
+- Sottocategorie: Proteine Whey, Proteine vegetali, Proteine Isolate
+- URL: https://trovaintegratori.it/categoria/proteine
+
+### Aminoacidi (🧬)
+Aminoacidi ramificati BCAA, EAA e singoli aminoacidi per massa muscolare e recupero.
+- Sottocategorie: BCAA, EAA, Glutammina
+- URL: https://trovaintegratori.it/categoria/aminoacidi
+
+### Creatina (⚡)
+Creatina monoidrato e altre forme per forza, potenza muscolare e prestazioni sportive.
+- Sottocategorie: Creatina Monoidrato, Creatina HCL, Creatina Mix
+- URL: https://trovaintegratori.it/categoria/creatina
+
+### Pre-Workout (🔥)
+Integratori pre-allenamento per energia, focus e prestazioni in palestra.
+- Sottocategorie: Con caffeina, Pump / No-stim, Formula completa
+- URL: https://trovaintegratori.it/categoria/pre-workout
+
+### Dimagranti (🔻)
+Integratori brucia grassi, drenanti e termogenici per il controllo del peso.
+- Sottocategorie: Brucia grassi, Drenanti, Controllo appetito
+- URL: https://trovaintegratori.it/categoria/dimagranti
+
+### Superfood (🌿)
+Superalimenti naturali come spirulina, chlorella, curcuma e ashwagandha per il benessere totale.
+- Sottocategorie: Spirulina e Chlorella, Adattogeni, Antiossidanti
+- URL: https://trovaintegratori.it/categoria/superfood
+
+## Blog
+
+Il blog di TrovaIntegratori.it pubblica guide e articoli su salute, benessere e integrazione alimentare:
+- URL: https://trovaintegratori.it/blog
+
+Argomenti trattati: creatina, magnesio, omega-3, vitamina D, integratori alimentari, confronti tra prodotti.
+
+## Informazioni tecniche
+
+- Sito web: https://trovaintegratori.it
+- Lingua: Italiano
+- Prodotti indicizzati: 300+
+- Categorie: 11
+- Fonte prezzi: Amazon.it
+- Aggiornamento: periodico
+- Sitemap: https://trovaintegratori.it/sitemap.xml
