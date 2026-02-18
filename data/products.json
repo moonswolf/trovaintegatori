@@ -11,7 +11,7 @@
     "asin": "B09YCYXRXQ",
     "imageUrl": "https://m.media-amazon.com/images/I/417GgPfRC+L._AC_SL500_.jpg",
     "rating": 4.7,
-    "reviewCount": 552,
+    "reviewCount": 553,
     "composition": "Colecalciferolo 100mcg (4000 UI) per capsula",
     "form": "Capsule vegetali",
     "quantity": "60 capsule",
@@ -23,7 +23,7 @@
     ],
     "pricePerUnit": "€0.31/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "multicentrum-uomo-50-integratore-alimentare-multivitaminico-",
@@ -37,7 +37,7 @@
     "asin": "B0CDBXMWK3",
     "imageUrl": "https://m.media-amazon.com/images/I/41aAJN6qSEL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 3228,
+    "reviewCount": 3231,
     "composition": "Colecalciferolo 25mcg (1000 UI) per capsula",
     "form": "Capsule molli",
     "quantity": "150 capsule",
@@ -49,7 +49,7 @@
     ],
     "pricePerUnit": "€0.09/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "bandini-vitamina-c-liposomiale-1000mg-3-mesi-vegana",
@@ -63,7 +63,7 @@
     "asin": "B0CQTFBCK3",
     "imageUrl": "https://m.media-amazon.com/images/I/41Cp9vBQzhL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 655,
+    "reviewCount": 656,
     "composition": "Acido L-ascorbico 1000mg, Rosa canina",
     "form": "Compresse effervescenti",
     "quantity": "20 compresse",
@@ -75,7 +75,7 @@
     ],
     "pricePerUnit": "€0.48/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "supradyn-ricarica-multivitaminico-completo-vitamine-e-minera",
@@ -89,7 +89,7 @@
     "asin": "B09KV88JK7",
     "imageUrl": "https://m.media-amazon.com/images/I/41YLvjpdtWL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 3553,
+    "reviewCount": 3556,
     "composition": "13 vitamine, 11 minerali",
     "form": "Compresse rivestite",
     "quantity": "90 compresse",
@@ -101,7 +101,7 @@
     ],
     "pricePerUnit": "€0.18/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "magnesio-completo-3000mg-200-capsule",
@@ -109,13 +109,13 @@
     "brand": "ESI",
     "category": "minerali",
     "subcategory": "magnesio",
-    "price": 29.97,
+    "price": 31.97,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0G4V6191Q?tag=trovaintegrat-21",
     "asin": "B0G4V6191Q",
     "imageUrl": "https://m.media-amazon.com/images/I/510IbpSM8WL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 153,
+    "reviewCount": 155,
     "composition": "Magnesio citrato 375mg per dose",
     "form": "Polvere",
     "quantity": "300g",
@@ -127,7 +127,7 @@
     ],
     "pricePerUnit": "€0.05/g",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "magnesio-e-potassio-integratore-eletto-prodotto-dellanno-202",
@@ -141,7 +141,7 @@
     "asin": "B0CTCTCPT7",
     "imageUrl": "https://m.media-amazon.com/images/I/41EDFDEMpcL._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 807,
+    "reviewCount": 809,
     "composition": "Magnesio citrato 400mg, Vitamina B6 2mg",
     "form": "Compresse",
     "quantity": "100 compresse",
@@ -153,7 +153,7 @@
     ],
     "pricePerUnit": "€0.23/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "now-foods-zinco-50-mg-100-compresse",
@@ -167,7 +167,7 @@
     "asin": "B009K6TN08",
     "imageUrl": "https://m.media-amazon.com/images/I/41QSfbUj5aL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 11897,
+    "reviewCount": 11899,
     "composition": "Zinco gluconato 15mg per compressa",
     "form": "Compresse",
     "quantity": "100 compresse",
@@ -179,7 +179,7 @@
     ],
     "pricePerUnit": "€0.09/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "equilibra-integratori-alimentari-collagene-q10-acido-ialuron",
@@ -193,7 +193,7 @@
     "asin": "B0B133BLXN",
     "imageUrl": "https://m.media-amazon.com/images/I/41MbUTDsKuL._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 3792,
+    "reviewCount": 3794,
     "composition": "Ferro fumarato 14mg, Vitamina C 40mg, Acido folico",
     "form": "Compresse",
     "quantity": "60 compresse",
@@ -205,7 +205,7 @@
     ],
     "pricePerUnit": "€0.21/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "omega-3-olio-di-pesce-da-2000mg-660mg-epa-e-440mg-dha-integr",
@@ -217,9 +217,9 @@
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B084G5XC29?tag=trovaintegrat-21",
     "asin": "B084G5XC29",
-    "imageUrl": "https://m.media-amazon.com/images/I/4110dMFp2ML._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41J+Y-pBOvL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 18927,
+    "reviewCount": 18960,
     "composition": "EPA 504mg, DHA 378mg per capsula",
     "form": "Capsule softgel",
     "quantity": "50 capsule",
@@ -231,7 +231,7 @@
     ],
     "pricePerUnit": "€0.78/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "omega-3-ifos-5-stelle-90-cps-olio-di-pesce-omega-3-1000mg",
@@ -245,7 +245,7 @@
     "asin": "B07L2GK84G",
     "imageUrl": "https://m.media-amazon.com/images/I/31IkN3N7THL._AC_SL500_.jpg",
     "rating": 4.7,
-    "reviewCount": 8608,
+    "reviewCount": 8616,
     "composition": "EPA 500mg, DHA 250mg per capsula",
     "form": "Capsule softgel",
     "quantity": "60 capsule",
@@ -257,7 +257,7 @@
     ],
     "pricePerUnit": "€0.54/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "omega-3-vegan-in-90-softgel-da-2000-mg-dha-epa-omega3-vegeta",
@@ -271,7 +271,7 @@
     "asin": "B0DCP2BQBP",
     "imageUrl": "https://m.media-amazon.com/images/I/41IBiASvEPL._AC_SL500_.jpg",
     "rating": 4.7,
-    "reviewCount": 677,
+    "reviewCount": 681,
     "composition": "DHA da alghe 250mg, EPA 125mg",
     "form": "Capsule softgel vegetali",
     "quantity": "60 capsule",
@@ -283,7 +283,7 @@
     ],
     "pricePerUnit": "€0.45/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "collagene-marino-con-magnesio-e-vitamina-c",
@@ -291,13 +291,13 @@
     "brand": "ESI",
     "category": "collagene",
     "subcategory": "collagene-marino",
-    "price": 27.97,
+    "price": 19.97,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0FB3GM1R1?tag=trovaintegrat-21",
     "asin": "B0FB3GM1R1",
     "imageUrl": "https://m.media-amazon.com/images/I/51d6hY8EGLL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 481,
+    "reviewCount": 485,
     "composition": "Collagene idrolizzato 5000mg, Vitamina C 80mg",
     "form": "Polvere",
     "quantity": "300g",
@@ -309,7 +309,7 @@
     ],
     "pricePerUnit": "€0.10/g",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "collagene-idrolizzato-2000mg-vitastrong",
@@ -323,7 +323,7 @@
     "asin": "B0CKXT2RV3",
     "imageUrl": "https://m.media-amazon.com/images/I/41Ej1h6WiaL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 2922,
+    "reviewCount": 2928,
     "composition": "Collagene 1000mg, Acido Ialuronico 100mg, Vitamina C 40mg",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -335,7 +335,7 @@
     ],
     "pricePerUnit": "€0.21/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "collagene-idrolizzato-con-acido-ialuronico-e-coenzima-q10",
@@ -349,7 +349,7 @@
     "asin": "B09HHNZ5Q4",
     "imageUrl": "https://m.media-amazon.com/images/I/51fce3umOrL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 4455,
+    "reviewCount": 4469,
     "composition": "Collagene 500mg, Biotina 2.5mg, Vitamina C 40mg",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -361,7 +361,7 @@
     ],
     "pricePerUnit": "€0.11/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "fermenti-lattici-probiotici-per-intestino-120-miliardi-ufc-3",
@@ -375,7 +375,7 @@
     "asin": "B08QJP9DZH",
     "imageUrl": "https://m.media-amazon.com/images/I/51O5MPchKVL._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 3416,
+    "reviewCount": 3417,
     "composition": "20 miliardi UFC, 8 ceppi batterici",
     "form": "Capsule gastroresistenti",
     "quantity": "30 capsule",
@@ -387,7 +387,7 @@
     ],
     "pricePerUnit": "€0.62/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "fermenti-lattici-probiotici-vitarmonyl",
@@ -401,7 +401,7 @@
     "asin": "B01HEWR7IO",
     "imageUrl": "https://m.media-amazon.com/images/I/41FrqIBonHL._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 4604,
+    "reviewCount": 4606,
     "composition": "Lactobacillus casei 8 miliardi UFC",
     "form": "Capsule",
     "quantity": "20 capsule",
@@ -413,7 +413,7 @@
     ],
     "pricePerUnit": "€0.75/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "kijimea-k53-advance-integratore-di-probiotici",
@@ -427,7 +427,7 @@
     "asin": "B0BVZMVL9Y",
     "imageUrl": "https://m.media-amazon.com/images/I/41X+lP0dttL._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 5883,
+    "reviewCount": 5896,
     "composition": "12 miliardi UFC, 5 ceppi batterici",
     "form": "Bustine",
     "quantity": "20 bustine",
@@ -439,7 +439,7 @@
     ],
     "pricePerUnit": "€0.65/bustina",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "esn-designer-whey-protein-naturale-1000g-whey-proteine-in-po",
@@ -447,13 +447,13 @@
     "brand": "ESN",
     "category": "proteine",
     "subcategory": "proteine-whey",
-    "price": 39.9,
+    "price": 30.29,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0057DUWNK?tag=trovaintegrat-21",
     "asin": "B0057DUWNK",
     "imageUrl": "https://m.media-amazon.com/images/I/41AMuRYSj6L._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 21365,
+    "reviewCount": 21367,
     "composition": "21g proteine per porzione, aminoacidi essenziali",
     "form": "Polvere",
     "quantity": "2.5kg",
@@ -465,7 +465,7 @@
     ],
     "pricePerUnit": "€0.018/g",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "bandini-aminoacidi-ramificati-bcaa-8-1-1",
@@ -478,8 +478,8 @@
     "amazonUrl": "https://www.amazon.it/dp/B09Z73D7H4?tag=trovaintegrat-21",
     "asin": "B09Z73D7H4",
     "imageUrl": "https://m.media-amazon.com/images/I/41II1LphThL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 869,
+    "rating": 4.5,
+    "reviewCount": 871,
     "composition": "Leucina, Isoleucina, Valina in rapporto 8:1:1",
     "form": "Compresse",
     "quantity": "200 compresse",
@@ -491,7 +491,7 @@
     ],
     "pricePerUnit": "€0.12/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "esn-isoclear-proteine-isolate-del-siero-di-latte-in-polvere-",
@@ -505,7 +505,7 @@
     "asin": "B0B7NYKV12",
     "imageUrl": "https://m.media-amazon.com/images/I/416O8tlhL3L._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 2522,
+    "reviewCount": 2524,
     "composition": "25g proteine da pisello, canapa e riso",
     "form": "Polvere",
     "quantity": "750g",
@@ -517,7 +517,7 @@
     ],
     "pricePerUnit": "€0.047/g",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "multicentrum-donna-50-integratore-multivitaminico-completo-c",
@@ -531,7 +531,7 @@
     "asin": "B0CDC1FQMS",
     "imageUrl": "https://m.media-amazon.com/images/I/41OMmPodcyL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 4155,
+    "reviewCount": 4158,
     "composition": "27 vitamine e minerali specifici per l'uomo",
     "form": "Compresse",
     "quantity": "60 compresse",
@@ -543,7 +543,7 @@
     ],
     "pricePerUnit": "€0.33/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "spirulina-bio-4000-al-giorno-1000-mg-per-compressa",
@@ -557,7 +557,7 @@
     "asin": "B07R5XPNMP",
     "imageUrl": "https://m.media-amazon.com/images/I/41eo+KDA9QL._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 2144,
+    "reviewCount": 2145,
     "composition": "Spirulina platensis biologica 500mg",
     "form": "Compresse",
     "quantity": "200 compresse",
@@ -569,7 +569,7 @@
     ],
     "pricePerUnit": "€0.08/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "plameca-melanoctina-compresse-melatonina-per-dormire",
@@ -595,7 +595,7 @@
     ],
     "pricePerUnit": "€0.45/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "sifar-nutra-coenz-qh-kaneka-qh",
@@ -621,7 +621,7 @@
     ],
     "pricePerUnit": "€1.10/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "curcuma-e-piperina-plus-1440-mg-con-vitamina-c-ad-alto-dosag",
@@ -635,7 +635,7 @@
     "asin": "B01GHSP7N8",
     "imageUrl": "https://m.media-amazon.com/images/I/416+Fwhj6VL._AC_SL500_.jpg",
     "rating": 4.2,
-    "reviewCount": 3690,
+    "reviewCount": 3693,
     "composition": "Curcuma 500mg, Piperina 5mg",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -647,7 +647,7 @@
     ],
     "pricePerUnit": "€0.18/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "bio-ashwagandha-ksm-66-alto-dosaggio",
@@ -661,7 +661,7 @@
     "asin": "B08ZDCP3HB",
     "imageUrl": "https://m.media-amazon.com/images/I/41yMYa+H0ML._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 9292,
+    "reviewCount": 9311,
     "composition": "Ashwagandha KSM-66 600mg",
     "form": "Capsule vegetali",
     "quantity": "120 capsule",
@@ -673,7 +673,7 @@
     ],
     "pricePerUnit": "€0.16/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "resveratrolo-con-quercetina-120-capsule-vegane-1-capsula-al-",
@@ -681,13 +681,13 @@
     "brand": "ESI",
     "category": "vitamine",
     "subcategory": "multivitaminici",
-    "price": 23.74,
+    "price": 24.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01FWFE7VK?tag=trovaintegrat-21",
     "asin": "B01FWFE7VK",
     "imageUrl": "https://m.media-amazon.com/images/I/41DtP9GitGL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 3782,
+    "reviewCount": 3786,
     "composition": "Trans-Resveratrolo 500mg",
     "form": "Capsule vegetali",
     "quantity": "90 capsule",
@@ -699,7 +699,7 @@
     ],
     "pricePerUnit": "€0.19/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "magnesio-bisglicinato-citrato-malato-e-taurato",
@@ -713,7 +713,7 @@
     "asin": "B0D2Y15NJ5",
     "imageUrl": "https://m.media-amazon.com/images/I/51vxGQqy4VL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 1716,
+    "reviewCount": 1725,
     "composition": "Calcio 500mg, Magnesio 250mg, Zinco 7.5mg",
     "form": "Compresse",
     "quantity": "100 compresse",
@@ -725,7 +725,7 @@
     ],
     "pricePerUnit": "€0.27/compressa",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "bandini-creatina-monoidrato-1kg-polvere-pura",
@@ -739,7 +739,7 @@
     "asin": "B0C8JSV7X4",
     "imageUrl": "https://m.media-amazon.com/images/I/41-sG2qTPLL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 3833,
+    "reviewCount": 3842,
     "composition": "Creatina monoidrato micronizzata 100%",
     "form": "Polvere",
     "quantity": "1000g",
@@ -751,7 +751,7 @@
     ],
     "pricePerUnit": "€0.025/g",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "bandini-creatina-monoidrato-500g-polvere",
@@ -764,7 +764,7 @@
     "amazonUrl": "https://www.amazon.it/dp/B0GFDB62R1?tag=trovaintegrat-21",
     "asin": "B0GFDB62R1",
     "imageUrl": "https://m.media-amazon.com/images/I/41s+dKavQYL._AC_SL500_.jpg",
-    "rating": 5,
+    "rating": 5.0,
     "reviewCount": 1,
     "composition": "Creatina monoidrato micronizzata 100%",
     "form": "Polvere",
@@ -777,7 +777,7 @@
     ],
     "pricePerUnit": "€0.034/g",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "bandini-creatina-monoidrato-polvere-300g",
@@ -791,7 +791,7 @@
     "asin": "B09X5YJQLV",
     "imageUrl": "https://m.media-amazon.com/images/I/41v-Tr13nTL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 9823,
+    "reviewCount": 9840,
     "composition": "Creatina monoidrato micronizzata 100%",
     "form": "Polvere",
     "quantity": "300g",
@@ -803,7 +803,7 @@
     ],
     "pricePerUnit": "€0.043/g",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "optimum-nutrition-creatina-monoidrato-317g",
@@ -837,13 +837,13 @@
     "brand": "Optimum Nutrition",
     "category": "proteine",
     "subcategory": "proteine-whey",
-    "price": 88.89,
+    "price": 79.29,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B000QSNYGI?tag=trovaintegrat-21",
     "asin": "B000QSNYGI",
     "imageUrl": "https://m.media-amazon.com/images/I/41cV-1PWNIL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 70693,
+    "reviewCount": 70707,
     "composition": "24g proteine per porzione, 5.5g BCAA",
     "form": "Polvere",
     "quantity": "2270g",
@@ -855,7 +855,7 @@
     ],
     "pricePerUnit": "€0.029/g",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "optimum-nutrition-bcaa-1000-200-capsule",
@@ -881,7 +881,7 @@
     ],
     "pricePerUnit": "€0.14/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "bandini-cla-3200mg-90-capsule",
@@ -907,7 +907,7 @@
     ],
     "pricePerUnit": "€0.19/capsula",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "esn-designer-whey-protein-chocolate-1000g",
@@ -915,20 +915,20 @@
     "brand": "ESN",
     "category": "proteine",
     "subcategory": "proteine-whey",
-    "price": 39.9,
+    "price": 30.29,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B004U4WUFU?tag=trovaintegrat-21",
     "asin": "B004U4WUFU",
     "imageUrl": "https://m.media-amazon.com/images/I/41pNYXaFi3L._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 21365,
+    "reviewCount": 21367,
     "description": "Proteine whey al cioccolato per sviluppo muscolare e recupero",
     "features": [
       "30g proteine per porzione",
       "Gusto cioccolato",
       "1kg formato conveniente"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€29.90/confezione",
     "composition": "Proteine whey al cioccolato per sviluppo muscolare e recupero",
     "inStock": true
@@ -939,20 +939,20 @@
     "brand": "ESN",
     "category": "proteine",
     "subcategory": "proteine-whey",
-    "price": 39.9,
+    "price": 30.29,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0057DVWYI?tag=trovaintegrat-21",
     "asin": "B0057DVWYI",
     "imageUrl": "https://m.media-amazon.com/images/I/41D2Mvy69+L._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 21365,
+    "reviewCount": 21367,
     "description": "Proteine whey alla vaniglia per sviluppo muscolare e recupero",
     "features": [
       "30g proteine per porzione",
       "Gusto vaniglia",
       "1kg formato conveniente"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€29.90/confezione",
     "composition": "Proteine whey alla vaniglia per sviluppo muscolare e recupero",
     "inStock": true
@@ -969,7 +969,7 @@
     "asin": "B0B1FZ6HGX",
     "imageUrl": "https://m.media-amazon.com/images/I/41kWeWLukBL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 610,
+    "reviewCount": 611,
     "description": "BCAA 4:1:1 fermentati con Vitamina B1 e B6 per palestra e sport",
     "features": [
       "500 compresse",
@@ -977,7 +977,7 @@
       "Con Vitamina B1 e B6",
       "Vegano"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€19.95/confezione",
     "composition": "BCAA 4:1:1 fermentati con Vitamina B1 e B6 per palestra e sport",
     "inStock": true
@@ -993,8 +993,8 @@
     "amazonUrl": "https://www.amazon.it/dp/B0BXD8WVR2?tag=trovaintegrat-21",
     "asin": "B0BXD8WVR2",
     "imageUrl": "https://m.media-amazon.com/images/I/41OsYhUbAYL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 207,
+    "rating": 4.4,
+    "reviewCount": 208,
     "description": "BCAA 4:1:1 fermentati con Vitamina B1 e B6 formato 150 compresse",
     "features": [
       "150 compresse",
@@ -1002,7 +1002,7 @@
       "Con Vitamina B1 e B6",
       "Vegano"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€9.95/confezione",
     "composition": "BCAA 4:1:1 fermentati con Vitamina B1 e B6 formato 150 compresse",
     "inStock": true
@@ -1019,7 +1019,7 @@
     "asin": "B0B3D9C8RL",
     "imageUrl": "https://m.media-amazon.com/images/I/41TUKAElVDL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 1719,
+    "reviewCount": 1723,
     "description": "BCAA 8:1:1 fermentati con Vitamina B1 e B6 per palestra e sport",
     "features": [
       "500 compresse",
@@ -1027,7 +1027,7 @@
       "Con Vitamina B1 e B6",
       "Vegano"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€22.95/confezione",
     "composition": "BCAA 8:1:1 fermentati con Vitamina B1 e B6 per palestra e sport",
     "inStock": true
@@ -1044,7 +1044,7 @@
     "asin": "B07CY19DMQ",
     "imageUrl": "https://m.media-amazon.com/images/I/51G0ZseXkmL._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 3416,
+    "reviewCount": 3417,
     "description": "Probiotici e prebiotici per intestino con 60 miliardi CFU, 20 ceppi batterici, inulina e zinco",
     "features": [
       "60 miliardi CFU",
@@ -1052,7 +1052,7 @@
       "Con inulina e zinco",
       "Supporto sistema immunitario"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€23.99/confezione",
     "composition": "Probiotici e prebiotici per intestino con 60 miliardi CFU, 20 ceppi batterici, inulina e zinco",
     "inStock": true
@@ -1063,7 +1063,7 @@
     "brand": "AAVALABS",
     "category": "probiotici",
     "subcategory": "fermenti-lattici",
-    "price": 24,
+    "price": 24.0,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0B2LZ7VZS?tag=trovaintegrat-21",
     "asin": "B0B2LZ7VZS",
@@ -1077,7 +1077,7 @@
       "Con inulina e L-glutammina",
       "Senza OGM"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€22.99/confezione",
     "composition": "Probiotici specifici per donna con inulina e L-glutammina, senza OGM, glutine e lattosio",
     "inStock": true
@@ -1094,7 +1094,7 @@
     "asin": "B0F446BGRT",
     "imageUrl": "https://m.media-amazon.com/images/I/41JZOH6yL2L._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 345,
+    "reviewCount": 348,
     "description": "Shilajit puro estratto 5:1 standardizzato al 50% acido fulvico per energia, vitalità e recupero",
     "features": [
       "2150mg per capsula",
@@ -1102,7 +1102,7 @@
       "90 capsule",
       "Energia e vitalità"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€19.90/confezione",
     "composition": "Shilajit puro estratto 5:1 standardizzato al 50% acido fulvico per energia, vitalità e recupero",
     "inStock": true
@@ -1127,7 +1127,7 @@
       "90 capsule",
       "Anti-stress naturale"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€17.90/confezione",
     "composition": "Ashwagandha biologica KSM-66 per stress, mente, sonno e recupero muscolare",
     "inStock": true
@@ -1144,7 +1144,7 @@
     "asin": "B017L643R6",
     "imageUrl": "https://m.media-amazon.com/images/I/41B04ISYyML._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 829,
+    "reviewCount": 831,
     "description": "Acetil-L-Carnitina in forma acetilata ad alto dosaggio per metabolismo dei grassi e energia",
     "features": [
       "3000mg dose giornaliera",
@@ -1152,7 +1152,7 @@
       "Forma acetilata",
       "Alta qualità premium"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€24.90/confezione",
     "composition": "Acetil-L-Carnitina in forma acetilata ad alto dosaggio per metabolismo dei grassi e energia",
     "inStock": true
@@ -1169,7 +1169,7 @@
     "asin": "B07PXQRRSL",
     "imageUrl": "https://m.media-amazon.com/images/I/41d7pffs+YL._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 1488,
+    "reviewCount": 1492,
     "description": "Combinazione di aminoacidi L-Arginina e L-Citrullina per pump e prestazioni sportive",
     "features": [
       "1100mg per capsula",
@@ -1177,7 +1177,7 @@
       "Rapporto 1:1",
       "Pre-workout naturale"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€22.90/confezione",
     "composition": "Combinazione di aminoacidi L-Arginina e L-Citrullina per pump e prestazioni sportive",
     "inStock": true
@@ -1194,7 +1194,7 @@
     "asin": "B0CDBWQC12",
     "imageUrl": "https://m.media-amazon.com/images/I/41tETbuxKwL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 3318,
+    "reviewCount": 3321,
     "description": "Multivitaminico completo per uomo con Vitamina D, B6, C contro stanchezza e affaticamento",
     "features": [
       "100 compresse",
@@ -1202,7 +1202,7 @@
       "Con Vitamina D, B6, C",
       "Senza glutine"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€43.30/confezione",
     "composition": "Multivitaminico completo per uomo con Vitamina D, B6, C contro stanchezza e affaticamento",
     "inStock": true
@@ -1219,7 +1219,7 @@
     "asin": "B0CDBWMX1K",
     "imageUrl": "https://m.media-amazon.com/images/I/41l1YLR59rL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 4870,
+    "reviewCount": 4875,
     "description": "Multivitaminico completo per donna con Vitamina D, K, Acido Folico, Calcio e Ferro",
     "features": [
       "100 compresse",
@@ -1227,7 +1227,7 @@
       "Con ferro e acido folico",
       "Supporto ossa e immunità"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€43.30/confezione",
     "composition": "Multivitaminico completo per donna con Vitamina D, K, Acido Folico, Calcio e Ferro",
     "inStock": true
@@ -1244,7 +1244,7 @@
     "asin": "B0DCJX535Y",
     "imageUrl": "https://m.media-amazon.com/images/I/31jA6hYPgGL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 4067,
+    "reviewCount": 4069,
     "description": "Multivitaminico completo per adulti con Vitamine B, D e C, formato maxi 180 compresse",
     "features": [
       "180 compresse maxi",
@@ -1252,7 +1252,7 @@
       "Contro stanchezza",
       "Prodotto in Italia"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€39.90/confezione",
     "composition": "Multivitaminico completo per adulti con Vitamine B, D e C, formato maxi 180 compresse",
     "inStock": true
@@ -1269,7 +1269,7 @@
     "asin": "B06XH8S2N8",
     "imageUrl": "https://m.media-amazon.com/images/I/41N0GMkbqyL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 2100,
+    "reviewCount": 2101,
     "description": "Omega 3 alto dosaggio da olio di pesce puro con EPA 1000mg e DHA 500mg per cuore e cervello",
     "features": [
       "2000mg per dose",
@@ -1277,7 +1277,7 @@
       "120 softgel",
       "Non-OGM"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€24.99/confezione",
     "composition": "Omega 3 alto dosaggio da olio di pesce puro con EPA 1000mg e DHA 500mg per cuore e cervello",
     "inStock": true
@@ -1302,7 +1302,7 @@
       "Con zenzero e piperina",
       "Antiossidante naturale"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€22.99/confezione",
     "composition": "Curcumina con piperina e zenzero per proprietà antiossidanti e massimo assorbimento",
     "inStock": true
@@ -1319,7 +1319,7 @@
     "asin": "B07FDHWK76",
     "imageUrl": "https://m.media-amazon.com/images/I/41xhsdz5JJL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 1355,
+    "reviewCount": 1356,
     "description": "ZMA premium con 3 composti di magnesio, zinco e Vitamina B6 per recupero e sonno",
     "features": [
       "180 capsule",
@@ -1327,7 +1327,7 @@
       "Zinco + B6",
       "Vegano"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€19.90/confezione",
     "composition": "ZMA premium con 3 composti di magnesio, zinco e Vitamina B6 per recupero e sonno",
     "inStock": true
@@ -1344,7 +1344,7 @@
     "asin": "B07N3WXS64",
     "imageUrl": "https://m.media-amazon.com/images/I/41Y+SjVWRAL._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 4899,
+    "reviewCount": 4901,
     "description": "Moringa biologica ricca di proteine, vitamine e antiossidanti per energia e sistema immunitario",
     "features": [
       "310mg per capsula",
@@ -1352,7 +1352,7 @@
       "4 mesi di trattamento",
       "Biologica certificata"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€14.90/confezione",
     "composition": "Moringa biologica ricca di proteine, vitamine e antiossidanti per energia e sistema immunitario",
     "inStock": true
@@ -1377,7 +1377,7 @@
       "Vitamine C, D, K",
       "Per articolazioni"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€18.90/confezione",
     "composition": "Integratore con Boswellia, Vitamina C, D, K e Omega3 per ossa, muscoli e articolazioni",
     "inStock": true
@@ -1394,7 +1394,7 @@
     "asin": "B01MU4E73A",
     "imageUrl": "https://m.media-amazon.com/images/I/41DVAkkw2fL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 4067,
+    "reviewCount": 4069,
     "description": "Multivitaminico completo con Vitamine B, D e C contro stanchezza e affaticamento per adulti",
     "features": [
       "90 compresse",
@@ -1402,7 +1402,7 @@
       "Contro stanchezza",
       "Prodotto in Italia"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€25.88/confezione",
     "composition": "Multivitaminico completo con Vitamine B, D e C contro stanchezza e affaticamento per adulti",
     "inStock": true
@@ -1427,7 +1427,7 @@
       "Con olio EVO",
       "Non-OGM"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€14.99/confezione",
     "composition": "Vitamina D3 1000 UI con olio di oliva per assorbimento ottimale, supporto ossa e sistema immunitario",
     "inStock": true
@@ -1444,7 +1444,7 @@
     "asin": "B0BXSFVXRB",
     "imageUrl": "https://m.media-amazon.com/images/I/41A06RUgwuL._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 521,
+    "reviewCount": 522,
     "description": "Cardo mariano con 80% silimarina, carciofo, tarassaco e colina per detox fegato e antiossidante",
     "features": [
       "80% silimarina",
@@ -1452,7 +1452,7 @@
       "Con carciofo e tarassaco",
       "Detox fegato"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€19.99/confezione",
     "composition": "Cardo mariano con 80% silimarina, carciofo, tarassaco e colina per detox fegato e antiossidante",
     "inStock": true
@@ -1477,7 +1477,7 @@
       "Vitamine A, C, D, E",
       "Per vie respiratorie"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€10.25/confezione",
     "composition": "Integratore difese immunitarie con sambuco nero, Vitamine A, C, D, E per vie respiratorie",
     "inStock": true
@@ -1502,7 +1502,7 @@
       "Per cuore, mente e vista",
       "Prodotto in Italia"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€35.92/confezione",
     "composition": "Omega 3 con EPA e DHA per cuore, mente e vista in formato mini perle facili da ingoiare",
     "inStock": true
@@ -1527,7 +1527,7 @@
       "Per recupero muscolare",
       "Con dosatore"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€19.95/confezione",
     "composition": "L-Glutammina pura in polvere per recupero muscolare e supporto sistema immunitario",
     "inStock": true
@@ -1552,7 +1552,7 @@
       "Vegano",
       "Facile assunzione"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€17.95/confezione",
     "composition": "L-Glutammina in compresse per sport, recupero muscolare e benessere intestinale",
     "inStock": true
@@ -1577,7 +1577,7 @@
       "Vegano",
       "Recupero post-workout"
     ],
-    "lastUpdated": "2026-02-17",
+    "lastUpdated": "2026-02-18",
     "pricePerUnit": "€15.95/confezione",
     "composition": "Glutammina sport in polvere per palestra e attività sportiva intensa",
     "inStock": true
@@ -1588,13 +1588,13 @@
     "brand": "Vitamaze",
     "category": "vitamine",
     "subcategory": "vitamina-k",
-    "price": 17.97,
+    "price": 19.97,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01N7NI8ZV?tag=trovaintegrat-21",
     "asin": "B01N7NI8ZV",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01N7NI8L._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 4521,
+    "imageUrl": "https://m.media-amazon.com/images/I/41+xoSPf20L._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 5886,
     "composition": "Vitamina K2 MK-7 200mcg All Trans",
     "form": "Compresse",
     "quantity": "180 compresse",
@@ -1606,7 +1606,7 @@
     ],
     "pricePerUnit": "€0.10/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vitamaze-vitamina-k-complesso-k1-k2-2200-mcg-120-capsule",
@@ -1614,13 +1614,13 @@
     "brand": "Vitamaze",
     "category": "vitamine",
     "subcategory": "vitamina-k",
-    "price": 18.97,
+    "price": 21.97,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B075TK5BK9?tag=trovaintegrat-21",
     "asin": "B075TK5BK9",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B075TK5BL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 1230,
+    "imageUrl": "https://m.media-amazon.com/images/I/41AgxwQJcGL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 1445,
     "composition": "Vitamina K2 MK7 + MK4 e Vitamina K1",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -1632,7 +1632,7 @@
     ],
     "pricePerUnit": "€0.16/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "pi-life-vitamina-k2-mk7-200mcg-360-mini-compresse",
@@ -1640,13 +1640,13 @@
     "brand": "PiùLife",
     "category": "vitamine",
     "subcategory": "vitamina-k",
-    "price": 19.9,
+    "price": 16.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08PG2ZHMC?tag=trovaintegrat-21",
     "asin": "B08PG2ZHMC",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B08PG2ZHL._AC_SL500_.jpg",
-    "rating": 4.6,
-    "reviewCount": 890,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Z0fElTSmL._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 450,
     "composition": "Vitamina K2 MK-7 200mcg All Trans Menachinone",
     "form": "Compresse",
     "quantity": "360 compresse",
@@ -1658,7 +1658,7 @@
     ],
     "pricePerUnit": "€0.06/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "supradyn-vitamin-d3-365-capsule",
@@ -1666,13 +1666,13 @@
     "brand": "Supradyn",
     "category": "vitamine",
     "subcategory": "vitamina-d",
-    "price": 13.9,
+    "price": 19.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01CYRNM9M?tag=trovaintegrat-21",
     "asin": "B01CYRNM9M",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01CYRNML._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/31i1bFPY+XL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 5500,
+    "reviewCount": 673,
     "composition": "Vitamina D3 1000 UI per capsula",
     "form": "Capsule",
     "quantity": "365 capsule",
@@ -1684,7 +1684,7 @@
     ],
     "pricePerUnit": "€0.04/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "yamamoto-nutrition-vitamin-c-1000mg-90-compresse",
@@ -1692,13 +1692,13 @@
     "brand": "Yamamoto Nutrition",
     "category": "vitamine",
     "subcategory": "vitamina-c",
-    "price": 9.99,
+    "price": 12.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B06XSLRX6T?tag=trovaintegrat-21",
     "asin": "B06XSLRX6T",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B06XSLRXL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 3200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41u15WXyKUL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 3843,
     "composition": "Acido ascorbico 1000mg",
     "form": "Compresse",
     "quantity": "90 compresse",
@@ -1710,7 +1710,7 @@
     ],
     "pricePerUnit": "€0.11/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "esi-vitamin-c-pure-1000mg-30-compresse",
@@ -1718,13 +1718,13 @@
     "brand": "ESI",
     "category": "vitamine",
     "subcategory": "vitamina-c",
-    "price": 7.5,
+    "price": 6.22,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00YQS4N6Y?tag=trovaintegrat-21",
     "asin": "B00YQS4N6Y",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00YQS4NL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 1800,
+    "imageUrl": "https://m.media-amazon.com/images/I/51GWLLix0XL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 3932,
     "composition": "Vitamina C pura 1000mg",
     "form": "Compresse",
     "quantity": "30 compresse",
@@ -1736,7 +1736,7 @@
     ],
     "pricePerUnit": "€0.25/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vitamaze-vitamina-b12-1000mcg-360-compresse",
@@ -1744,13 +1744,13 @@
     "brand": "Vitamaze",
     "category": "vitamine",
     "subcategory": "vitamina-b",
-    "price": 17.97,
+    "price": 19.85,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0743CNGPH?tag=trovaintegrat-21",
     "asin": "B0743CNGPH",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B0743CNGL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41ANNQh2rsL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 5100,
+    "reviewCount": 3289,
     "composition": "Metilcobalamina 1000mcg",
     "form": "Compresse",
     "quantity": "360 compresse",
@@ -1762,7 +1762,7 @@
     ],
     "pricePerUnit": "€0.05/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vitamina-b12-vegavero-1000mcg-180-capsule-vegane",
@@ -1770,13 +1770,13 @@
     "brand": "Vegavero",
     "category": "vitamine",
     "subcategory": "vitamina-b",
-    "price": 14.9,
+    "price": 18.68,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07YBXJG5K?tag=trovaintegrat-21",
     "asin": "B07YBXJG5K",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07YBXJGL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 2300,
+    "imageUrl": "https://m.media-amazon.com/images/I/31+29u3PAtL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 2503,
     "composition": "Metilcobalamina B12 1000mcg",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -1788,7 +1788,7 @@
     ],
     "pricePerUnit": "€0.08/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "magnesio-citrato-tamponato-444mg-240-capsule-vegane",
@@ -1796,13 +1796,13 @@
     "brand": "Vit4ever",
     "category": "minerali",
     "subcategory": "ferro",
-    "price": 21.9,
+    "price": 17.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08BTXFQ4F?tag=trovaintegrat-21",
     "asin": "B08BTXFQ4F",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B08BTXFQL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 4200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41oW+ZLN3eL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 12607,
     "composition": "Magnesio citrato tamponato 444mg",
     "form": "Capsule",
     "quantity": "240 capsule",
@@ -1814,7 +1814,7 @@
     ],
     "pricePerUnit": "€0.09/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "bonecal-calcio-algale-con-vitamina-k2-e-d3-20-bustine",
@@ -1826,9 +1826,9 @@
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00D3HRXU2?tag=trovaintegrat-21",
     "asin": "B00D3HRXU2",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00D3HRXL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 450,
+    "imageUrl": "https://m.media-amazon.com/images/I/31vvCS0n6SL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 28,
     "composition": "Calcio algale Aquamin, Vitamina K2 e D3 1000UI",
     "form": "Bustine",
     "quantity": "20 bustine",
@@ -1840,7 +1840,7 @@
     ],
     "pricePerUnit": "€0.99/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vita-act-calcio-vitamina-d-60-compresse",
@@ -1848,13 +1848,13 @@
     "brand": "Vita Act",
     "category": "minerali",
     "subcategory": "calcio",
-    "price": 7.9,
+    "price": 9.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B075NCTSTC?tag=trovaintegrat-21",
     "asin": "B075NCTSTC",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B075NCTSL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41z5PJBvSmL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 2682,
     "composition": "Calcio 500mg, Vitamina D 5mcg",
     "form": "Compresse",
     "quantity": "60 compresse",
@@ -1866,7 +1866,7 @@
     ],
     "pricePerUnit": "€0.13/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "calcio-800mg-magnesio-400mg-365-compresse-vegan",
@@ -1874,13 +1874,13 @@
     "brand": "Vit4ever",
     "category": "minerali",
     "subcategory": "calcio",
-    "price": 17.9,
+    "price": 21.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B077FH7V7F?tag=trovaintegrat-21",
     "asin": "B077FH7V7F",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B077FH7VL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 3400,
+    "imageUrl": "https://m.media-amazon.com/images/I/41-EFmrZr-L._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 535,
     "composition": "Calcio 800mg, Magnesio 400mg",
     "form": "Compresse",
     "quantity": "365 compresse",
@@ -1892,7 +1892,7 @@
     ],
     "pricePerUnit": "€0.05/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "jamieson-potassio-100-compresse",
@@ -1900,13 +1900,13 @@
     "brand": "Jamieson",
     "category": "minerali",
     "subcategory": "potassio",
-    "price": 8.5,
+    "price": 11.82,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B014J4OFS0?tag=trovaintegrat-21",
     "asin": "B014J4OFS0",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B014J4OFL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 2100,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Xsc64MMJL._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 194,
     "composition": "Potassio gluconato 100mg",
     "form": "Compresse",
     "quantity": "100 compresse",
@@ -1918,7 +1918,7 @@
     ],
     "pricePerUnit": "€0.09/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "magnesio-e-potassio-vegavero-180-capsule-vegane",
@@ -1926,13 +1926,13 @@
     "brand": "Vegavero",
     "category": "minerali",
     "subcategory": "potassio",
-    "price": 15.9,
+    "price": 19.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07C5Q7T4D?tag=trovaintegrat-21",
     "asin": "B07C5Q7T4D",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07C5Q7TL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1800,
+    "imageUrl": "https://m.media-amazon.com/images/I/41ViAMUUftL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 2093,
     "composition": "Magnesio citrato, Potassio citrato",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -1944,7 +1944,7 @@
     ],
     "pricePerUnit": "€0.09/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "longlife-potassium-99-100-tavolette",
@@ -1952,13 +1952,13 @@
     "brand": "LongLife",
     "category": "minerali",
     "subcategory": "potassio",
-    "price": 11.5,
+    "price": 14.34,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B084SB7N4V?tag=trovaintegrat-21",
     "asin": "B084SB7N4V",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B084SB7NL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 650,
+    "imageUrl": "https://m.media-amazon.com/images/I/317RDEALkHL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 679,
     "composition": "3 sali di potassio 99mg",
     "form": "Compresse",
     "quantity": "100 compresse",
@@ -1970,7 +1970,7 @@
     ],
     "pricePerUnit": "€0.12/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "warnke-selenio-50mcg-100-compresse",
@@ -1978,13 +1978,13 @@
     "brand": "Warnke",
     "category": "minerali",
     "subcategory": "selenio",
-    "price": 6.9,
+    "price": 6.89,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0058WXOYY?tag=trovaintegrat-21",
     "asin": "B0058WXOYY",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B0058WXOL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 1100,
+    "imageUrl": "https://m.media-amazon.com/images/I/41BqSZgr+hL._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 141,
     "composition": "Selenio 50mcg selenito di sodio",
     "form": "Compresse",
     "quantity": "100 compresse",
@@ -1996,7 +1996,7 @@
     ],
     "pricePerUnit": "€0.07/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vegavero-selenio-200mcg-180-capsule-vegane",
@@ -2004,13 +2004,13 @@
     "brand": "Vegavero",
     "category": "minerali",
     "subcategory": "selenio",
-    "price": 14.9,
+    "price": 16.97,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B074N2B5DM?tag=trovaintegrat-21",
     "asin": "B074N2B5DM",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B074N2B5L._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 980,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Q9QV7Vn4L._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 1582,
     "composition": "L-selenometionina 200mcg",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -2022,7 +2022,7 @@
     ],
     "pricePerUnit": "€0.08/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "weightworld-selenio-200mcg-365-compresse",
@@ -2030,13 +2030,13 @@
     "brand": "WeightWorld",
     "category": "minerali",
     "subcategory": "selenio",
-    "price": 15.99,
+    "price": 20.59,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B09KNH117C?tag=trovaintegrat-21",
     "asin": "B09KNH117C",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B09KNH11L._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 1500,
+    "imageUrl": "https://m.media-amazon.com/images/I/411bXJ6YkzL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 155,
     "composition": "L-selenometionina 200mcg",
     "form": "Compresse",
     "quantity": "365 compresse",
@@ -2048,7 +2048,7 @@
     ],
     "pricePerUnit": "€0.04/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "now-foods-neptune-krill-oil-500mg-60-softgel",
@@ -2056,13 +2056,13 @@
     "brand": "NOW Foods",
     "category": "omega-3",
     "subcategory": "krill-oil",
-    "price": 22.9,
+    "price": 63.79,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B003O1Y4C2?tag=trovaintegrat-21",
     "asin": "B003O1Y4C2",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B003O1Y4L._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 8500,
+    "imageUrl": "https://m.media-amazon.com/images/I/414GMgue+DL._AC_SL500_.jpg",
+    "rating": 4.7,
+    "reviewCount": 926,
     "composition": "Olio di krill 500mg con astaxantina",
     "form": "Capsule softgel",
     "quantity": "60 capsule",
@@ -2074,7 +2074,7 @@
     ],
     "pricePerUnit": "€0.38/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vegavero-krill-oil-premium-60-capsule",
@@ -2082,13 +2082,13 @@
     "brand": "Vegavero",
     "category": "omega-3",
     "subcategory": "krill-oil",
-    "price": 19.9,
+    "price": 67.91,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01GJQUTKO?tag=trovaintegrat-21",
     "asin": "B01GJQUTKO",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01GJQUTL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41In2zzJCpL._AC_SL500_.jpg",
+    "rating": 4.0,
+    "reviewCount": 2386,
     "composition": "Olio di krill 590mg, EPA 75mg, DHA 45mg",
     "form": "Capsule softgel",
     "quantity": "60 capsule",
@@ -2100,7 +2100,7 @@
     ],
     "pricePerUnit": "€0.33/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "krill-oil-1000mg-60-softgel-con-astaxantina",
@@ -2108,13 +2108,13 @@
     "brand": "Rite-Flex",
     "category": "omega-3",
     "subcategory": "krill-oil",
-    "price": 24.95,
+    "price": 28.15,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B074QMZQKN?tag=trovaintegrat-21",
     "asin": "B074QMZQKN",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B074QMZQL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 2100,
+    "imageUrl": "https://m.media-amazon.com/images/I/41AQbjcZl3L._AC_SL500_.jpg",
+    "rating": 4.3,
+    "reviewCount": 117,
     "composition": "Olio di krill 1000mg, EPA 120mg, DHA 60mg",
     "form": "Capsule softgel",
     "quantity": "60 capsule",
@@ -2126,7 +2126,7 @@
     ],
     "pricePerUnit": "€0.42/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vegavero-omega-3-vegano-da-alghe-90-capsule",
@@ -2134,13 +2134,13 @@
     "brand": "Vegavero",
     "category": "omega-3",
     "subcategory": "omega-vegano",
-    "price": 24.9,
+    "price": 19.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07F1JQZD3?tag=trovaintegrat-21",
     "asin": "B07F1JQZD3",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07F1JQZL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 1500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Du1laQZGL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 11445,
     "composition": "DHA 250mg, EPA 125mg da olio di alghe",
     "form": "Capsule",
     "quantity": "90 capsule",
@@ -2152,7 +2152,7 @@
     ],
     "pricePerUnit": "€0.28/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "yamamoto-nutrition-iso-fuji-2kg-proteine-isolate",
@@ -2160,13 +2160,13 @@
     "brand": "Yamamoto",
     "category": "proteine",
     "subcategory": "proteine-whey",
-    "price": 69.99,
+    "price": 51.98,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08YJV78QC?tag=trovaintegrat-21",
     "asin": "B08YJV78QC",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B08YJV78L._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41OU5ubGyXL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 3200,
+    "reviewCount": 536,
     "composition": "Isolato di siero di latte 90%, 27g proteine/dose",
     "form": "Polvere",
     "quantity": "2000g",
@@ -2178,7 +2178,7 @@
     ],
     "pricePerUnit": "€0.03/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "foodspring-vegan-protein-750g-proteine-vegetali",
@@ -2186,13 +2186,13 @@
     "brand": "Foodspring",
     "category": "proteine",
     "subcategory": "proteine-vegetali",
-    "price": 29.99,
+    "price": 32.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00KPRTB0I?tag=trovaintegrat-21",
     "asin": "B00KPRTB0I",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00KPRTBL._AC_SL500_.jpg",
-    "rating": 4.2,
-    "reviewCount": 1800,
+    "imageUrl": "https://m.media-amazon.com/images/I/41QJhdPkw0L._AC_SL500_.jpg",
+    "rating": 4.0,
+    "reviewCount": 7645,
     "composition": "Pisello, riso, canapa 21g proteine/dose",
     "form": "Polvere",
     "quantity": "750g",
@@ -2204,7 +2204,7 @@
     ],
     "pricePerUnit": "€0.04/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "nu3-vegan-protein-3k-1kg-proteine-vegane",
@@ -2212,13 +2212,13 @@
     "brand": "nu3",
     "category": "proteine",
     "subcategory": "proteine-vegetali",
-    "price": 27.99,
+    "price": 28.87,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01N1MZFER?tag=trovaintegrat-21",
     "asin": "B01N1MZFER",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01N1MZFL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 2500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41l7GpbqAZL._AC_SL500_.jpg",
+    "rating": 3.9,
+    "reviewCount": 4588,
     "composition": "Pisello, canapa, riso 22g proteine/dose",
     "form": "Polvere",
     "quantity": "1000g",
@@ -2230,7 +2230,7 @@
     ],
     "pricePerUnit": "€0.03/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "optimum-nutrition-gold-standard-casein-1-82kg",
@@ -2238,13 +2238,13 @@
     "brand": "Optimum Nutrition",
     "category": "proteine",
     "subcategory": "proteine-caseina",
-    "price": 62.99,
+    "price": 45.79,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B002DYIZH6?tag=trovaintegrat-21",
     "asin": "B002DYIZH6",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B002DYIZL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 12000,
+    "imageUrl": "https://m.media-amazon.com/images/I/41erw+dsbgL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 140284,
     "composition": "Caseina micellare 24g proteine/dose",
     "form": "Polvere",
     "quantity": "1820g",
@@ -2256,7 +2256,7 @@
     ],
     "pricePerUnit": "€0.03/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vegavero-prebiotici-probiotici-bio-180-capsule",
@@ -2264,13 +2264,13 @@
     "brand": "Vegavero",
     "category": "probiotici",
     "subcategory": "prebiotici",
-    "price": 21.9,
+    "price": 18.5,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07YDSSK87?tag=trovaintegrat-21",
     "asin": "B07YDSSK87",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07YDSSKL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1600,
+    "imageUrl": "https://m.media-amazon.com/images/I/317ozvI+XDL._AC_SL500_.jpg",
+    "rating": 4.7,
+    "reviewCount": 3592,
     "composition": "Inulina biologica + 4 ceppi probiotici",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -2282,7 +2282,7 @@
     ],
     "pricePerUnit": "€0.12/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "longlife-microbioma-donna-30-capsule-gastroresistenti",
@@ -2290,13 +2290,13 @@
     "brand": "LongLife",
     "category": "probiotici",
     "subcategory": "fermenti-lattici",
-    "price": 16.9,
+    "price": 32.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B084C118Y1?tag=trovaintegrat-21",
     "asin": "B084C118Y1",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B084C118L._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 800,
+    "imageUrl": "https://m.media-amazon.com/images/I/41OKgNMqrdL._AC_SL500_.jpg",
+    "rating": 4.3,
+    "reviewCount": 5116,
     "composition": "5 ceppi specifici donna, 10 miliardi UFC",
     "form": "Capsule",
     "quantity": "30 capsule",
@@ -2308,7 +2308,7 @@
     ],
     "pricePerUnit": "€0.56/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "kijimea-colon-irritabile-pro-84-capsule",
@@ -2316,13 +2316,13 @@
     "brand": "Kijimea",
     "category": "probiotici",
     "subcategory": "fermenti-lattici",
-    "price": 49.9,
+    "price": 14.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B088RKYG7C?tag=trovaintegrat-21",
     "asin": "B088RKYG7C",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B088RKYGL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 3200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41tn-kxOKnL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 2586,
     "composition": "Bifidobacterium bifidum MIMBb75",
     "form": "Capsule",
     "quantity": "84 capsule",
@@ -2334,7 +2334,7 @@
     ],
     "pricePerUnit": "€0.59/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "now-foods-taurine-1000mg-100-capsule",
@@ -2342,13 +2342,13 @@
     "brand": "NOW Foods",
     "category": "aminoacidi",
     "subcategory": "taurina",
-    "price": 9.99,
+    "price": 6.79,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00068GH6M?tag=trovaintegrat-21",
     "asin": "B00068GH6M",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00068GHL._AC_SL500_.jpg",
-    "rating": 4.6,
-    "reviewCount": 6500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41949-MTUEL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 118,
     "composition": "Taurina 1000mg forma libera",
     "form": "Capsule",
     "quantity": "100 capsule",
@@ -2360,7 +2360,7 @@
     ],
     "pricePerUnit": "€0.10/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vegavero-taurina-1000mg-120-capsule-vegane",
@@ -2368,13 +2368,13 @@
     "brand": "Vegavero",
     "category": "aminoacidi",
     "subcategory": "taurina",
-    "price": 14.9,
+    "price": 14.2,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B074SK3FYZ?tag=trovaintegrat-21",
     "asin": "B074SK3FYZ",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B074SK3FL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41Kk4rsq1NL._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 800,
+    "reviewCount": 311,
     "composition": "Taurina sintetica vegana 1000mg",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -2386,7 +2386,7 @@
     ],
     "pricePerUnit": "€0.12/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vit4ever-taurina-500mg-180-capsule",
@@ -2394,13 +2394,13 @@
     "brand": "Vit4ever",
     "category": "aminoacidi",
     "subcategory": "taurina",
-    "price": 14.99,
+    "price": 4.27,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B082VT7TDZ?tag=trovaintegrat-21",
     "asin": "B082VT7TDZ",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B082VT7TL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 1200,
+    "imageUrl": "https://m.media-amazon.com/images/I/31pYzitUQOL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 2213,
     "composition": "Taurina 500mg",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -2412,7 +2412,7 @@
     ],
     "pricePerUnit": "€0.08/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "l-arginina-vegavero-700mg-270-capsule-vegane",
@@ -2420,13 +2420,13 @@
     "brand": "Vegavero",
     "category": "aminoacidi",
     "subcategory": "arginina",
-    "price": 18.9,
+    "price": 14.97,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B098KKXCCX?tag=trovaintegrat-21",
     "asin": "B098KKXCCX",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B098KKXCL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 950,
+    "imageUrl": "https://m.media-amazon.com/images/I/51K+tbDziML._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 2213,
     "composition": "L-Arginina HCl 700mg",
     "form": "Capsule",
     "quantity": "270 capsule",
@@ -2438,7 +2438,7 @@
     ],
     "pricePerUnit": "€0.07/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "biotechusa-100-creatine-monohydrate-500g",
@@ -2446,13 +2446,13 @@
     "brand": "BioTechUSA",
     "category": "creatina",
     "subcategory": "creatina-monoidrato",
-    "price": 16.99,
+    "price": 17.93,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00BIO4VK2?tag=trovaintegrat-21",
     "asin": "B00BIO4VK2",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00BIO4VL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 8900,
+    "imageUrl": "https://m.media-amazon.com/images/I/41mLjiiCI9L._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 82,
     "composition": "Creatina monoidrato micronizzata 100%",
     "form": "Polvere",
     "quantity": "500g",
@@ -2464,7 +2464,7 @@
     ],
     "pricePerUnit": "€0.03/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "esn-ultrapure-creatine-monohydrate-500g",
@@ -2472,13 +2472,13 @@
     "brand": "ESN",
     "category": "creatina",
     "subcategory": "creatina-monoidrato",
-    "price": 19.9,
+    "price": 14.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00SP2ZKW8?tag=trovaintegrat-21",
     "asin": "B00SP2ZKW8",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00SP2ZKL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41JKGvWTFbL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 5200,
+    "reviewCount": 9443,
     "composition": "Creatina monoidrato Creapure 100%",
     "form": "Polvere",
     "quantity": "500g",
@@ -2490,7 +2490,7 @@
     ],
     "pricePerUnit": "€0.04/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "myprotein-creatine-monohydrate-1kg",
@@ -2498,13 +2498,13 @@
     "brand": "Myprotein",
     "category": "creatina",
     "subcategory": "creatina-monoidrato",
-    "price": 24.99,
+    "price": 23.92,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01MRL741H?tag=trovaintegrat-21",
     "asin": "B01MRL741H",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01MRL74L._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/31vjgbaRQIL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 15000,
+    "reviewCount": 6405,
     "composition": "Creatina monoidrato 100%",
     "form": "Polvere",
     "quantity": "1000g",
@@ -2516,7 +2516,7 @@
     ],
     "pricePerUnit": "€0.02/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "creapure-creatina-in-capsule-240-capsule",
@@ -2524,13 +2524,13 @@
     "brand": "Vit4ever",
     "category": "creatina",
     "subcategory": "creatina-creapure",
-    "price": 22.9,
+    "price": 20.89,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08VJMX5W6?tag=trovaintegrat-21",
     "asin": "B08VJMX5W6",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B08VJMX5L._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 2100,
+    "imageUrl": "https://m.media-amazon.com/images/I/41EnrlVfCnL._AC_SL500_.jpg",
+    "rating": 4.7,
+    "reviewCount": 908,
     "composition": "Creatina Creapure 750mg per capsula",
     "form": "Capsule",
     "quantity": "240 capsule",
@@ -2542,7 +2542,7 @@
     ],
     "pricePerUnit": "€0.10/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "yamamoto-nutrition-creatine-pro-150-compresse",
@@ -2550,13 +2550,13 @@
     "brand": "Yamamoto",
     "category": "creatina",
     "subcategory": "creatina-creapure",
-    "price": 18.99,
+    "price": 44.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B06ZYMFQ6V?tag=trovaintegrat-21",
     "asin": "B06ZYMFQ6V",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B06ZYMFQL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 3400,
+    "imageUrl": "https://m.media-amazon.com/images/I/41OqURoI2HL._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 6405,
     "composition": "Creatina Creapure 3g per dose",
     "form": "Compresse",
     "quantity": "150 compresse",
@@ -2568,7 +2568,7 @@
     ],
     "pricePerUnit": "€0.13/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "collagene-marino-idrolizzato-tipo-i-120-capsule",
@@ -2576,13 +2576,13 @@
     "brand": "Vegavero",
     "category": "collagene",
     "subcategory": "collagene-marino",
-    "price": 21.9,
+    "price": 13.2,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B079C336Y3?tag=trovaintegrat-21",
     "asin": "B079C336Y3",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B079C336L._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1800,
+    "imageUrl": "https://m.media-amazon.com/images/I/41SAkqhVCiL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 13839,
     "composition": "Collagene marino tipo I 1200mg, Vitamina C",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -2594,7 +2594,7 @@
     ],
     "pricePerUnit": "€0.18/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "collagene-marino-acido-ialuronico-180-capsule",
@@ -2602,13 +2602,13 @@
     "brand": "Vit4ever",
     "category": "collagene",
     "subcategory": "collagene-marino",
-    "price": 24.9,
+    "price": 26.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08JVK2N1H?tag=trovaintegrat-21",
     "asin": "B08JVK2N1H",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B08JVK2NL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 2500,
+    "imageUrl": "https://m.media-amazon.com/images/I/412ldMCoBkL._AC_SL500_.jpg",
+    "rating": 4.3,
+    "reviewCount": 12186,
     "composition": "Collagene marino 1000mg, Acido ialuronico 100mg",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -2620,7 +2620,7 @@
     ],
     "pricePerUnit": "€0.14/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "collagene-idrolizzato-bovino-500g-polvere",
@@ -2628,13 +2628,13 @@
     "brand": "Bulk",
     "category": "collagene",
     "subcategory": "collagene-bovino",
-    "price": 19.99,
+    "price": 33.6,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07D9WSWFR?tag=trovaintegrat-21",
     "asin": "B07D9WSWFR",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07D9WSWL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41zVuhfH4WL._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 3100,
+    "reviewCount": 7805,
     "composition": "Collagene idrolizzato bovino tipo I e III",
     "form": "Polvere",
     "quantity": "500g",
@@ -2646,7 +2646,7 @@
     ],
     "pricePerUnit": "€0.04/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "collagene-verisol-con-biotina-e-zinco-240-capsule",
@@ -2654,13 +2654,13 @@
     "brand": "Vit4ever",
     "category": "collagene",
     "subcategory": "collagene-bovino",
-    "price": 24.99,
+    "price": 19.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B09FTMYLQ2?tag=trovaintegrat-21",
     "asin": "B09FTMYLQ2",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B09FTMYLL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 1900,
+    "imageUrl": "https://m.media-amazon.com/images/I/415KnTv-6ZL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 2203,
     "composition": "Collagene Verisol 2500mg, Biotina, Zinco",
     "form": "Capsule",
     "quantity": "240 capsule",
@@ -2672,7 +2672,7 @@
     ],
     "pricePerUnit": "€0.10/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "collagene-tipo-ii-60-capsule-per-articolazioni",
@@ -2680,13 +2680,13 @@
     "brand": "WeightWorld",
     "category": "collagene",
     "subcategory": "collagene-tipo-ii",
-    "price": 18.99,
+    "price": 19.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08S6XJTBZ?tag=trovaintegrat-21",
     "asin": "B08S6XJTBZ",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B08S6XJTL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/31yiAX-hmJL._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 1100,
+    "reviewCount": 8875,
     "composition": "Collagene tipo II non denaturato 40mg",
     "form": "Capsule",
     "quantity": "60 capsule",
@@ -2698,7 +2698,7 @@
     ],
     "pricePerUnit": "€0.32/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "collagene-magnesio-vitamina-c-180-compresse",
@@ -2706,13 +2706,13 @@
     "brand": "Lineavi",
     "category": "collagene",
     "subcategory": "collagene-marino",
-    "price": 22.99,
+    "price": 21.47,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B083LF3J66?tag=trovaintegrat-21",
     "asin": "B083LF3J66",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B083LF3JL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 2800,
+    "imageUrl": "https://m.media-amazon.com/images/I/31U3gImMcEL._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 2111,
     "composition": "Collagene idrolizzato, Magnesio, Vitamina C",
     "form": "Compresse",
     "quantity": "180 compresse",
@@ -2724,7 +2724,7 @@
     ],
     "pricePerUnit": "€0.13/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vegavero-clorella-bio-270-compresse",
@@ -2732,13 +2732,13 @@
     "brand": "Vegavero",
     "category": "superfood",
     "subcategory": "clorella",
-    "price": 16.9,
+    "price": 19.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07CHY9V12?tag=trovaintegrat-21",
     "asin": "B07CHY9V12",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07CHY9VL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41xEQislNML._AC_SL500_.jpg",
+    "rating": 5.0,
+    "reviewCount": 2,
     "composition": "Chlorella vulgaris biologica 500mg",
     "form": "Compresse",
     "quantity": "270 compresse",
@@ -2750,7 +2750,7 @@
     ],
     "pricePerUnit": "€0.06/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "now-foods-clorella-1000mg-120-compresse",
@@ -2758,13 +2758,13 @@
     "brand": "NOW Foods",
     "category": "superfood",
     "subcategory": "clorella",
-    "price": 14.99,
+    "price": 24.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0062VNKMQ?tag=trovaintegrat-21",
     "asin": "B0062VNKMQ",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B0062VNKL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 3200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41sP92mih-L._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 1485,
     "composition": "Chlorella pyrenoidosa 1000mg",
     "form": "Compresse",
     "quantity": "120 compresse",
@@ -2776,7 +2776,7 @@
     ],
     "pricePerUnit": "€0.12/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vegavero-maca-bio-peruviana-120-capsule",
@@ -2784,13 +2784,13 @@
     "brand": "Vegavero",
     "category": "superfood",
     "subcategory": "maca",
-    "price": 14.9,
+    "price": 21.97,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01C370Q1U?tag=trovaintegrat-21",
     "asin": "B01C370Q1U",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01C370QL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1800,
+    "imageUrl": "https://m.media-amazon.com/images/I/41xtspuOcrL._AC_SL500_.jpg",
+    "rating": 4.1,
+    "reviewCount": 16369,
     "composition": "Maca biologica peruviana 3000mg equivalente",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -2802,7 +2802,7 @@
     ],
     "pricePerUnit": "€0.12/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "maca-nera-peruviana-24000mg-180-capsule-vegane",
@@ -2810,13 +2810,13 @@
     "brand": "WeightWorld",
     "category": "superfood",
     "subcategory": "maca",
-    "price": 18.99,
+    "price": 19.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08BXNX4MF?tag=trovaintegrat-21",
     "asin": "B08BXNX4MF",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B08BXNX4L._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 2100,
+    "imageUrl": "https://m.media-amazon.com/images/I/41T0xKfF7IL._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 5110,
     "composition": "Estratto maca nera 24000mg equivalente",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -2828,7 +2828,7 @@
     ],
     "pricePerUnit": "€0.11/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "naturalebio-spirulina-bio-600-compresse",
@@ -2836,13 +2836,13 @@
     "brand": "NaturaleBio",
     "category": "superfood",
     "subcategory": "spirulina",
-    "price": 21.99,
+    "price": 17.95,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B078S8NYCS?tag=trovaintegrat-21",
     "asin": "B078S8NYCS",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B078S8NYL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41djMgTl0ZL._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 5500,
+    "reviewCount": 1390,
     "composition": "Spirulina biologica 500mg per compressa",
     "form": "Compresse",
     "quantity": "600 compresse",
@@ -2854,7 +2854,7 @@
     ],
     "pricePerUnit": "€0.04/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "garcinia-cambogia-1000mg-60-hca-240-capsule",
@@ -2862,13 +2862,13 @@
     "brand": "Vit4ever",
     "category": "dimagranti",
     "subcategory": "garcinia",
-    "price": 18.99,
+    "price": 12.53,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B073GXVPMY?tag=trovaintegrat-21",
     "asin": "B073GXVPMY",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B073GXVPL._AC_SL500_.jpg",
-    "rating": 4.2,
-    "reviewCount": 2800,
+    "imageUrl": "https://m.media-amazon.com/images/I/51EuBpQZwNL._AC_SL500_.jpg",
+    "rating": 3.6,
+    "reviewCount": 6,
     "composition": "Garcinia cambogia estratto 60% HCA 1000mg",
     "form": "Capsule",
     "quantity": "240 capsule",
@@ -2880,7 +2880,7 @@
     ],
     "pricePerUnit": "€0.08/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "garcinia-cambogia-plus-con-cromo-120-capsule",
@@ -2888,13 +2888,13 @@
     "brand": "Vegavero",
     "category": "dimagranti",
     "subcategory": "garcinia",
-    "price": 15.9,
+    "price": 14.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B017KDGJNQ?tag=trovaintegrat-21",
     "asin": "B017KDGJNQ",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B017KDGJL._AC_SL500_.jpg",
-    "rating": 4.1,
-    "reviewCount": 1500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41WJHqq4wmL._AC_SL500_.jpg",
+    "rating": 4.0,
+    "reviewCount": 884,
     "composition": "Garcinia 500mg, Cromo picolinato",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -2906,7 +2906,7 @@
     ],
     "pricePerUnit": "€0.13/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "drenante-forte-dimagrante-500ml-detox",
@@ -2914,13 +2914,13 @@
     "brand": "Equilibra",
     "category": "dimagranti",
     "subcategory": "drenanti",
-    "price": 8.9,
+    "price": 4.93,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B018GHXQYU?tag=trovaintegrat-21",
     "asin": "B018GHXQYU",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B018GHXQL._AC_SL500_.jpg",
-    "rating": 4.1,
-    "reviewCount": 3200,
+    "imageUrl": "https://m.media-amazon.com/images/I/315aXc4WVmL._AC_SL500_.jpg",
+    "rating": 4.0,
+    "reviewCount": 5056,
     "composition": "Betulla, pilosella, tè verde, ananas",
     "form": "Liquido",
     "quantity": "500ml",
@@ -2932,7 +2932,7 @@
     ],
     "pricePerUnit": "€0.02/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "drenante-forte-zuccari-500ml",
@@ -2940,13 +2940,13 @@
     "brand": "Zuccari",
     "category": "dimagranti",
     "subcategory": "drenanti",
-    "price": 14.9,
+    "price": 3.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01BKL8FU4?tag=trovaintegrat-21",
     "asin": "B01BKL8FU4",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01BKL8FL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41tb1Izo3FL._AC_SL500_.jpg",
     "rating": 4.2,
-    "reviewCount": 2500,
+    "reviewCount": 2362,
     "composition": "Linfa di betulla, tè verde, gramigna",
     "form": "Liquido",
     "quantity": "500ml",
@@ -2958,7 +2958,7 @@
     ],
     "pricePerUnit": "€0.03/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "brucia-grassi-potente-termogenico-120-capsule",
@@ -2966,13 +2966,13 @@
     "brand": "WeightWorld",
     "category": "dimagranti",
     "subcategory": "brucia-grassi",
-    "price": 19.99,
+    "price": 11.7,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07XCJH3LJ?tag=trovaintegrat-21",
     "asin": "B07XCJH3LJ",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07XCJH3L._AC_SL500_.jpg",
-    "rating": 4.1,
-    "reviewCount": 4500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41-l1e9t3sL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 2995,
     "composition": "Tè verde, caffeina, pepe di cayenna, garcinia",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -2984,7 +2984,7 @@
     ],
     "pricePerUnit": "€0.17/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "brucia-grassi-kijimea-con-pepe-nero-60-capsule",
@@ -2992,13 +2992,13 @@
     "brand": "Kijimea",
     "category": "dimagranti",
     "subcategory": "brucia-grassi",
-    "price": 24.9,
+    "price": 21.95,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0CPJL7QZG?tag=trovaintegrat-21",
     "asin": "B0CPJL7QZG",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B0CPJL7QL._AC_SL500_.jpg",
-    "rating": 4,
-    "reviewCount": 800,
+    "imageUrl": "https://m.media-amazon.com/images/I/31zpUDMT9CL._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 908,
     "composition": "Curcuma, pepe nero, zenzero",
     "form": "Capsule",
     "quantity": "60 capsule",
@@ -3010,7 +3010,7 @@
     ],
     "pricePerUnit": "€0.41/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "chetoni-di-lampone-1200mg-120-capsule",
@@ -3018,13 +3018,13 @@
     "brand": "Vit4ever",
     "category": "dimagranti",
     "subcategory": "chetoni",
-    "price": 16.99,
+    "price": 11.04,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B015ZZ9LO0?tag=trovaintegrat-21",
     "asin": "B015ZZ9LO0",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B015ZZ9LL._AC_SL500_.jpg",
-    "rating": 4,
-    "reviewCount": 1800,
+    "imageUrl": "https://m.media-amazon.com/images/I/41RfaB+R6-L._AC_SL500_.jpg",
+    "rating": 3.8,
+    "reviewCount": 136,
     "composition": "Chetoni di lampone 1200mg, tè verde, aceto di mele",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -3036,7 +3036,7 @@
     ],
     "pricePerUnit": "€0.14/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "glucomannano-di-konjac-3000mg-180-capsule",
@@ -3044,13 +3044,13 @@
     "brand": "WeightWorld",
     "category": "dimagranti",
     "subcategory": "glucomannano",
-    "price": 15.99,
+    "price": 9.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07889TTDK?tag=trovaintegrat-21",
     "asin": "B07889TTDK",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07889TTL._AC_SL500_.jpg",
-    "rating": 4.2,
-    "reviewCount": 3500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41cKGpMjt-L._AC_SL500_.jpg",
+    "rating": 3.9,
+    "reviewCount": 1402,
     "composition": "Glucomannano di konjac 3000mg",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -3062,7 +3062,7 @@
     ],
     "pricePerUnit": "€0.09/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "optimum-nutrition-gold-standard-pre-workout-330g",
@@ -3070,13 +3070,13 @@
     "brand": "Optimum Nutrition",
     "category": "pre-workout",
     "subcategory": "pre-workout",
-    "price": 24.99,
+    "price": 28.12,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00TFB0YTM?tag=trovaintegrat-21",
     "asin": "B00TFB0YTM",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00TFB0YL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 7800,
+    "imageUrl": "https://m.media-amazon.com/images/I/41xqI7nbLDL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 17782,
     "composition": "Caffeina 175mg, Beta-Alanina, Creatina",
     "form": "Polvere",
     "quantity": "330g",
@@ -3088,7 +3088,7 @@
     ],
     "pricePerUnit": "€0.08/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "c4-original-pre-workout-cellucor-195g",
@@ -3096,13 +3096,13 @@
     "brand": "Cellucor",
     "category": "pre-workout",
     "subcategory": "pre-workout",
-    "price": 22.99,
+    "price": 19.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B071GQZB2W?tag=trovaintegrat-21",
     "asin": "B071GQZB2W",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B071GQZBL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 5500,
+    "imageUrl": "https://m.media-amazon.com/images/I/51w3ejp3GFL._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 44,
     "composition": "CarnoSyn Beta-Alanina, Caffeina 150mg",
     "form": "Polvere",
     "quantity": "195g",
@@ -3114,7 +3114,7 @@
     ],
     "pricePerUnit": "€0.12/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "yamamoto-nutrition-pre-workout-k-pump-300g",
@@ -3122,13 +3122,13 @@
     "brand": "Yamamoto",
     "category": "pre-workout",
     "subcategory": "pre-workout",
-    "price": 29.99,
+    "price": 39.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07888VRMP?tag=trovaintegrat-21",
     "asin": "B07888VRMP",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07888VRL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41L3QzjuIpL._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 1800,
+    "reviewCount": 147,
     "composition": "Citrullina, Beta-Alanina, Caffeina, Arginina",
     "form": "Polvere",
     "quantity": "300g",
@@ -3140,7 +3140,7 @@
     ],
     "pricePerUnit": "€0.10/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "bsn-n-o-xplode-pre-workout-390g",
@@ -3148,13 +3148,13 @@
     "brand": "BSN",
     "category": "pre-workout",
     "subcategory": "pre-workout",
-    "price": 26.99,
+    "price": 19.2,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0BK2BQ8KL?tag=trovaintegrat-21",
     "asin": "B0BK2BQ8KL",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B0BK2BQ8L._AC_SL500_.jpg",
-    "rating": 4.2,
-    "reviewCount": 3200,
+    "imageUrl": "https://m.media-amazon.com/images/I/51tOeXx2U0L._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 67,
     "composition": "Caffeina 200mg, Beta-Alanina, Creatina, Vitamine B",
     "form": "Polvere",
     "quantity": "390g",
@@ -3166,7 +3166,7 @@
     ],
     "pricePerUnit": "€0.07/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "esi-melatonina-pura-1mg-120-microtavolette",
@@ -3174,13 +3174,13 @@
     "brand": "ESI",
     "category": "melatonina",
     "subcategory": "sonno",
-    "price": 7.9,
+    "price": 6.01,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00VXDKL4S?tag=trovaintegrat-21",
     "asin": "B00VXDKL4S",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00VXDKLL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 4500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41oHSiNlTuL._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 11843,
     "composition": "Melatonina 1mg",
     "form": "Microtavolette",
     "quantity": "120 microtavolette",
@@ -3192,7 +3192,7 @@
     ],
     "pricePerUnit": "€0.07/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "esi-melatonina-pura-retard-1mg-90-compresse",
@@ -3200,13 +3200,13 @@
     "brand": "ESI",
     "category": "melatonina",
     "subcategory": "sonno",
-    "price": 9.9,
+    "price": 5.98,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00VXDKNM8?tag=trovaintegrat-21",
     "asin": "B00VXDKNM8",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00VXDKNL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 3200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Uf71cXBML._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 11843,
     "composition": "Melatonina 1mg a rilascio prolungato",
     "form": "Compresse",
     "quantity": "90 compresse",
@@ -3218,7 +3218,7 @@
     ],
     "pricePerUnit": "€0.11/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "esi-melatonina-pura-con-erbe-della-notte-30-compresse",
@@ -3226,13 +3226,13 @@
     "brand": "ESI",
     "category": "melatonina",
     "subcategory": "sonno",
-    "price": 8.5,
+    "price": 12.32,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00VXDZJ4A?tag=trovaintegrat-21",
     "asin": "B00VXDZJ4A",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00VXDZJL._AC_SL500_.jpg",
-    "rating": 4.2,
-    "reviewCount": 2100,
+    "imageUrl": "https://m.media-amazon.com/images/I/31wSYJiAE8L._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 3703,
     "composition": "Melatonina 1mg, Valeriana, Passiflora, Melissa",
     "form": "Compresse",
     "quantity": "30 compresse",
@@ -3244,7 +3244,7 @@
     ],
     "pricePerUnit": "€0.28/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "zzzquil-natura-integratore-sonno-60-pastiglie-gommose",
@@ -3252,13 +3252,13 @@
     "brand": "ZzzQuil",
     "category": "melatonina",
     "subcategory": "sonno",
-    "price": 19.9,
+    "price": 6.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07KJBXDFR?tag=trovaintegrat-21",
     "asin": "B07KJBXDFR",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07KJBXDL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 8900,
+    "imageUrl": "https://m.media-amazon.com/images/I/31H6jqKsFZL._AC_SL500_.jpg",
+    "rating": 4.3,
+    "reviewCount": 2465,
     "composition": "Melatonina 1mg, Lavanda, Valeriana, Camomilla",
     "form": "Pastiglie gommose",
     "quantity": "60 pastiglie",
@@ -3270,7 +3270,7 @@
     ],
     "pricePerUnit": "€0.33/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "griffonia-5-htp-200mg-melatonina-120-capsule",
@@ -3278,13 +3278,13 @@
     "brand": "Vit4ever",
     "category": "melatonina",
     "subcategory": "sonno",
-    "price": 18.99,
+    "price": 9.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07V4MWWPD?tag=trovaintegrat-21",
     "asin": "B07V4MWWPD",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07V4MWWL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 2800,
+    "imageUrl": "https://m.media-amazon.com/images/I/31pkLaa6HFL._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 1206,
     "composition": "Griffonia 5-HTP 200mg, Melatonina 0.5mg",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -3296,7 +3296,7 @@
     ],
     "pricePerUnit": "€0.16/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "melatonina-pura-pierpaoli-1mg-60-compresse",
@@ -3304,13 +3304,13 @@
     "brand": "Pierpaoli",
     "category": "melatonina",
     "subcategory": "sonno",
-    "price": 15.9,
+    "price": 6.5,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01724DBCK?tag=trovaintegrat-21",
     "asin": "B01724DBCK",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01724DBL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41ZZoV7rYaL._AC_SL500_.jpg",
     "rating": 4.2,
-    "reviewCount": 1500,
+    "reviewCount": 1135,
     "composition": "Melatonina 1mg con zinco e selenio",
     "form": "Compresse",
     "quantity": "60 compresse",
@@ -3322,7 +3322,7 @@
     ],
     "pricePerUnit": "€0.27/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "melatonina-complex-notte-1mg-valeriana-30-compresse",
@@ -3330,13 +3330,13 @@
     "brand": "Pierpaoli",
     "category": "melatonina",
     "subcategory": "sonno",
-    "price": 12.5,
+    "price": 5.5,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01724DDSM?tag=trovaintegrat-21",
     "asin": "B01724DDSM",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01724DDL._AC_SL500_.jpg",
-    "rating": 4.1,
-    "reviewCount": 900,
+    "imageUrl": "https://m.media-amazon.com/images/I/4135eVVnQFL._AC_SL500_.jpg",
+    "rating": 4.3,
+    "reviewCount": 1410,
     "composition": "Melatonina 1mg, Valeriana 100mg",
     "form": "Compresse",
     "quantity": "30 compresse",
@@ -3348,7 +3348,7 @@
     ],
     "pricePerUnit": "€0.42/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "melatonina-vegan-1mg-365-compresse-weightworld",
@@ -3356,13 +3356,13 @@
     "brand": "WeightWorld",
     "category": "melatonina",
     "subcategory": "sonno",
-    "price": 14.99,
+    "price": 10.18,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01LKCFPIS?tag=trovaintegrat-21",
     "asin": "B01LKCFPIS",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01LKCFPL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 3500,
+    "imageUrl": "https://m.media-amazon.com/images/I/416hmMrSXOL._AC_SL500_.jpg",
+    "rating": 4.3,
+    "reviewCount": 824,
     "composition": "Melatonina 1mg vegana",
     "form": "Compresse",
     "quantity": "365 compresse",
@@ -3374,7 +3374,7 @@
     ],
     "pricePerUnit": "€0.04/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vegavero-coenzima-q10-200mg-120-capsule",
@@ -3382,13 +3382,13 @@
     "brand": "Vegavero",
     "category": "coenzima-q10",
     "subcategory": "coenzima-q10",
-    "price": 19.9,
+    "price": 28.97,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B075TL67K8?tag=trovaintegrat-21",
     "asin": "B075TL67K8",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B075TL67L._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 2200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41-qWMLkP5L._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 2156,
     "composition": "Ubichinone Q10 200mg",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -3400,7 +3400,7 @@
     ],
     "pricePerUnit": "€0.17/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "coenzima-q10-200mg-120-capsule-vit4ever",
@@ -3408,13 +3408,13 @@
     "brand": "Vit4ever",
     "category": "coenzima-q10",
     "subcategory": "coenzima-q10",
-    "price": 18.99,
+    "price": 19.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07MZY4P1R?tag=trovaintegrat-21",
     "asin": "B07MZY4P1R",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07MZY4PL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 3100,
+    "imageUrl": "https://m.media-amazon.com/images/I/41q1wtQ61tL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 4121,
     "composition": "Ubichinone Q10 200mg da fermentazione",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -3426,7 +3426,7 @@
     ],
     "pricePerUnit": "€0.16/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "now-foods-coq10-100mg-150-softgel",
@@ -3434,13 +3434,13 @@
     "brand": "NOW Foods",
     "category": "coenzima-q10",
     "subcategory": "coenzima-q10",
-    "price": 32.99,
+    "price": 26.49,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00CFITD0S?tag=trovaintegrat-21",
     "asin": "B00CFITD0S",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00CFITDL._AC_SL500_.jpg",
-    "rating": 4.6,
-    "reviewCount": 12000,
+    "imageUrl": "https://m.media-amazon.com/images/I/413JFD1zlRL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 1523,
     "composition": "Coenzima Q10 100mg con Vitamina E",
     "form": "Capsule softgel",
     "quantity": "150 capsule",
@@ -3452,7 +3452,7 @@
     ],
     "pricePerUnit": "€0.22/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "solgar-coq10-200mg-30-capsule-vegetali",
@@ -3460,13 +3460,13 @@
     "brand": "Solgar",
     "category": "coenzima-q10",
     "subcategory": "coenzima-q10",
-    "price": 29.9,
+    "price": 33.95,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01BOVUPZ8?tag=trovaintegrat-21",
     "asin": "B01BOVUPZ8",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01BOVUPL._AC_SL500_.jpg",
-    "rating": 4.6,
-    "reviewCount": 800,
+    "imageUrl": "https://m.media-amazon.com/images/I/41qB9tcaQrL._AC_SL500_.jpg",
+    "rating": 4.3,
+    "reviewCount": 104,
     "composition": "Coenzima Q10 200mg naturale",
     "form": "Capsule",
     "quantity": "30 capsule",
@@ -3478,7 +3478,7 @@
     ],
     "pricePerUnit": "€1.00/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "q10-ubiquinol-100mg-forma-attiva-60-capsule",
@@ -3486,13 +3486,13 @@
     "brand": "Vit4ever",
     "category": "coenzima-q10",
     "subcategory": "coenzima-q10",
-    "price": 24.99,
+    "price": 19.71,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07VY8KHZ2?tag=trovaintegrat-21",
     "asin": "B07VY8KHZ2",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07VY8KHL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/31pgDzJKo+L._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 1500,
+    "reviewCount": 115,
     "composition": "Ubiquinolo (forma attiva Q10) 100mg",
     "form": "Capsule softgel",
     "quantity": "60 capsule",
@@ -3504,7 +3504,7 @@
     ],
     "pricePerUnit": "€0.42/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "nature-s-bounty-coq10-q-sorb-100mg-60-perle",
@@ -3512,13 +3512,13 @@
     "brand": "Nature's Bounty",
     "category": "coenzima-q10",
     "subcategory": "coenzima-q10",
-    "price": 19.99,
+    "price": 23.95,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B075GQ4ZQM?tag=trovaintegrat-21",
     "asin": "B075GQ4ZQM",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B075GQ4ZL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 2800,
+    "imageUrl": "https://m.media-amazon.com/images/I/31ly6Kqo16L._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 2535,
     "composition": "Coenzima Q10 100mg formula Q-Sorb",
     "form": "Capsule softgel",
     "quantity": "60 perle",
@@ -3530,7 +3530,7 @@
     ],
     "pricePerUnit": "€0.33/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "solgar-folato-come-metafolin-400mcg-100-compresse",
@@ -3538,13 +3538,13 @@
     "brand": "Solgar",
     "category": "acido-folico",
     "subcategory": "acido-folico",
-    "price": 12.9,
+    "price": 13.97,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00179E446?tag=trovaintegrat-21",
     "asin": "B00179E446",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00179E4L._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/411BGHbeBkL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 2500,
+    "reviewCount": 502,
     "composition": "Metafolin (L-metilfolato) 400mcg",
     "form": "Compresse",
     "quantity": "100 compresse",
@@ -3556,7 +3556,7 @@
     ],
     "pricePerUnit": "€0.13/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "pierpaoli-acido-folico-400mcg-30-compresse",
@@ -3564,13 +3564,13 @@
     "brand": "Pierpaoli",
     "category": "acido-folico",
     "subcategory": "acido-folico",
-    "price": 8.5,
+    "price": 4.39,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01724CETQ?tag=trovaintegrat-21",
     "asin": "B01724CETQ",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01724CEL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 600,
+    "imageUrl": "https://m.media-amazon.com/images/I/41Jml69mJ3L._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 4826,
     "composition": "Acido folico 400mcg",
     "form": "Compresse",
     "quantity": "30 compresse",
@@ -3582,7 +3582,7 @@
     ],
     "pricePerUnit": "€0.28/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "acido-folico-800mcg-vitamina-b12-180-compresse",
@@ -3590,13 +3590,13 @@
     "brand": "Vit4ever",
     "category": "acido-folico",
     "subcategory": "acido-folico",
-    "price": 14.99,
+    "price": 16.4,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B076BS9HRC?tag=trovaintegrat-21",
     "asin": "B076BS9HRC",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B076BS9HL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41PMCtqdMaL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 3200,
+    "reviewCount": 2398,
     "composition": "Acido folico 800mcg, Vitamina B12 25mcg",
     "form": "Compresse",
     "quantity": "180 compresse",
@@ -3608,7 +3608,7 @@
     ],
     "pricePerUnit": "€0.08/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "5-mthf-folato-attivo-800mcg-180-capsule",
@@ -3616,13 +3616,13 @@
     "brand": "WeightWorld",
     "category": "acido-folico",
     "subcategory": "acido-folico",
-    "price": 16.99,
+    "price": 4.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08L7L46F8?tag=trovaintegrat-21",
     "asin": "B08L7L46F8",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B08L7L46L._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41RvmhvyCbL._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 1800,
+    "reviewCount": 337,
     "composition": "5-Metiltetraidrofolato 800mcg forma attiva",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -3634,7 +3634,7 @@
     ],
     "pricePerUnit": "€0.09/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "acido-folico-400mcg-365-compresse-vegane",
@@ -3642,13 +3642,13 @@
     "brand": "Nu U Nutrition",
     "category": "acido-folico",
     "subcategory": "acido-folico",
-    "price": 11.99,
+    "price": 15.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B094YR97Z2?tag=trovaintegrat-21",
     "asin": "B094YR97Z2",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B094YR97L._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 4100,
+    "imageUrl": "https://m.media-amazon.com/images/I/41cO1HHuyrL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 746,
     "composition": "Acido folico 400mcg",
     "form": "Compresse",
     "quantity": "365 compresse",
@@ -3660,7 +3660,7 @@
     ],
     "pricePerUnit": "€0.03/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "acido-folico-quatrefolic-400mcg-120-capsule",
@@ -3668,13 +3668,13 @@
     "brand": "Nutravita",
     "category": "acido-folico",
     "subcategory": "acido-folico",
-    "price": 13.99,
+    "price": 7.07,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B097Q6GN78?tag=trovaintegrat-21",
     "asin": "B097Q6GN78",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B097Q6GNL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 1200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41GOeYBlQHL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 1043,
     "composition": "Quatrefolic (glucosamina di 5-MTHF) 400mcg",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -3686,7 +3686,7 @@
     ],
     "pricePerUnit": "€0.12/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "resveratrolo-trans-500mg-60-capsule-vegavero",
@@ -3694,13 +3694,13 @@
     "brand": "Vegavero",
     "category": "antiossidanti",
     "subcategory": "resveratrolo",
-    "price": 17.9,
+    "price": 22.0,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B017NSEIFY?tag=trovaintegrat-21",
     "asin": "B017NSEIFY",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B017NSEIL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41cqniede4L._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 377,
     "composition": "Trans-Resveratrolo 500mg da Polygonum cuspidatum",
     "form": "Capsule",
     "quantity": "60 capsule",
@@ -3712,7 +3712,7 @@
     ],
     "pricePerUnit": "€0.30/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "resveratrolo-500mg-con-quercetina-120-capsule",
@@ -3720,13 +3720,13 @@
     "brand": "Vit4ever",
     "category": "antiossidanti",
     "subcategory": "resveratrolo",
-    "price": 21.99,
+    "price": 24.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07W57X3Z5?tag=trovaintegrat-21",
     "asin": "B07W57X3Z5",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07W57X3L._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 2800,
+    "imageUrl": "https://m.media-amazon.com/images/I/51vkvKZIbrL._AC_SL500_.jpg",
+    "rating": 4.1,
+    "reviewCount": 323,
     "composition": "Trans-Resveratrolo 500mg, Quercetina 75mg",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -3738,7 +3738,7 @@
     ],
     "pricePerUnit": "€0.18/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "astaxantina-naturale-12mg-60-softgel",
@@ -3746,13 +3746,13 @@
     "brand": "Nutralie",
     "category": "antiossidanti",
     "subcategory": "astaxantina",
-    "price": 18.99,
+    "price": 19.88,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0851BMNZ5?tag=trovaintegrat-21",
     "asin": "B0851BMNZ5",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B0851BMNL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 2100,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Bcyks20lL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 340,
     "composition": "Astaxantina naturale 12mg da Haematococcus pluvialis",
     "form": "Capsule softgel",
     "quantity": "60 capsule",
@@ -3764,7 +3764,7 @@
     ],
     "pricePerUnit": "€0.32/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "astaxantina-12mg-con-vitamina-e-90-softgel",
@@ -3772,13 +3772,13 @@
     "brand": "Vit4ever",
     "category": "antiossidanti",
     "subcategory": "astaxantina",
-    "price": 21.99,
+    "price": 22.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B096W3WGCN?tag=trovaintegrat-21",
     "asin": "B096W3WGCN",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B096W3WGL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 1800,
+    "imageUrl": "https://m.media-amazon.com/images/I/319FRZ8EvxL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 599,
     "composition": "Astaxantina 12mg, Vitamina E",
     "form": "Capsule softgel",
     "quantity": "90 capsule",
@@ -3790,7 +3790,7 @@
     ],
     "pricePerUnit": "€0.24/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "glutatione-ridotto-500mg-60-capsule-vegane",
@@ -3798,13 +3798,13 @@
     "brand": "WeightWorld",
     "category": "antiossidanti",
     "subcategory": "glutatione",
-    "price": 19.99,
+    "price": 14.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B09PZ6MJL8?tag=trovaintegrat-21",
     "asin": "B09PZ6MJL8",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B09PZ6MJL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1500,
+    "imageUrl": "https://m.media-amazon.com/images/I/71KyBRNBxIL._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 900,
     "composition": "L-Glutatione ridotto 500mg",
     "form": "Capsule",
     "quantity": "60 capsule",
@@ -3816,7 +3816,7 @@
     ],
     "pricePerUnit": "€0.33/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "glutatione-liposomiale-400mg-60-capsule",
@@ -3824,13 +3824,13 @@
     "brand": "Vit4ever",
     "category": "antiossidanti",
     "subcategory": "glutatione",
-    "price": 24.99,
+    "price": 29.87,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B09WYMSRLV?tag=trovaintegrat-21",
     "asin": "B09WYMSRLV",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B09WYMSRL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 900,
+    "imageUrl": "https://m.media-amazon.com/images/I/41iZN+u+eWL._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 277,
     "composition": "Glutatione liposomiale 400mg (Setria)",
     "form": "Capsule",
     "quantity": "60 capsule",
@@ -3842,7 +3842,7 @@
     ],
     "pricePerUnit": "€0.42/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "nac-n-acetil-cisteina-600mg-180-capsule",
@@ -3850,13 +3850,13 @@
     "brand": "Vit4ever",
     "category": "antiossidanti",
     "subcategory": "antiossidanti",
-    "price": 17.99,
+    "price": 16.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0BHTLZMHX?tag=trovaintegrat-21",
     "asin": "B0BHTLZMHX",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B0BHTLZML._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 3200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41lBW-YhJ+L._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 207,
     "composition": "N-Acetil-L-Cisteina 600mg precursore glutatione",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -3868,7 +3868,7 @@
     ],
     "pricePerUnit": "€0.10/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "opc-estratto-di-semi-d-uva-240-capsule-vegane",
@@ -3876,13 +3876,13 @@
     "brand": "Vit4ever",
     "category": "antiossidanti",
     "subcategory": "antiossidanti",
-    "price": 18.99,
+    "price": 22.4,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07W8DVV1N?tag=trovaintegrat-21",
     "asin": "B07W8DVV1N",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07W8DVVL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 2500,
+    "imageUrl": "https://m.media-amazon.com/images/I/31fM5cVhvIL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 182,
     "composition": "OPC proantocianidine 95% da semi d'uva",
     "form": "Capsule",
     "quantity": "240 capsule",
@@ -3894,7 +3894,7 @@
     ],
     "pricePerUnit": "€0.08/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "psyllium-bio-bucce-500g-polvere",
@@ -3902,13 +3902,13 @@
     "brand": "Vegavero",
     "category": "fibre",
     "subcategory": "psillio",
-    "price": 14.9,
+    "price": 42.47,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07CHJ2Z5Y?tag=trovaintegrat-21",
     "asin": "B07CHJ2Z5Y",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07CHJ2ZL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 2100,
+    "imageUrl": "https://m.media-amazon.com/images/I/41wkozxTpCL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 470,
     "composition": "Bucce di psillio biologico 99%",
     "form": "Polvere",
     "quantity": "500g",
@@ -3920,7 +3920,7 @@
     ],
     "pricePerUnit": "€0.03/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "psillio-biondo-500mg-200-capsule",
@@ -3928,13 +3928,13 @@
     "brand": "Pierpaoli",
     "category": "fibre",
     "subcategory": "psillio",
-    "price": 11.5,
+    "price": 6.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01724CQPI?tag=trovaintegrat-21",
     "asin": "B01724CQPI",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01724CQL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 800,
+    "imageUrl": "https://m.media-amazon.com/images/I/51aS6HczinL._AC_SL500_.jpg",
+    "rating": 4.1,
+    "reviewCount": 1463,
     "composition": "Tegumento di psillio biondo 500mg",
     "form": "Capsule",
     "quantity": "200 capsule",
@@ -3946,7 +3946,7 @@
     ],
     "pricePerUnit": "€0.06/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "inulina-bio-polvere-prebiotica-500g",
@@ -3954,13 +3954,13 @@
     "brand": "Vegavero",
     "category": "fibre",
     "subcategory": "inulina",
-    "price": 12.9,
+    "price": 10.27,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07DKWGCLW?tag=trovaintegrat-21",
     "asin": "B07DKWGCLW",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07DKWGCL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1400,
+    "imageUrl": "https://m.media-amazon.com/images/I/31Baw3qcXoL._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 249,
     "composition": "Inulina biologica da cicoria",
     "form": "Polvere",
     "quantity": "500g",
@@ -3972,7 +3972,7 @@
     ],
     "pricePerUnit": "€0.03/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "glucomannano-di-konjac-3000mg-180-capsule",
@@ -3980,13 +3980,13 @@
     "brand": "Vit4ever",
     "category": "fibre",
     "subcategory": "glucomannano",
-    "price": 16.99,
+    "price": 6.79,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07DKVFK4X?tag=trovaintegrat-21",
     "asin": "B07DKVFK4X",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07DKVFKL._AC_SL500_.jpg",
-    "rating": 4.2,
-    "reviewCount": 2800,
+    "imageUrl": "https://m.media-amazon.com/images/I/31RMCoVmRUL._AC_SL500_.jpg",
+    "rating": 3.9,
+    "reviewCount": 291,
     "composition": "Glucomannano di konjac 3000mg per dose",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -3998,7 +3998,7 @@
     ],
     "pricePerUnit": "€0.09/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "fibra-di-acacia-biologica-300g-polvere",
@@ -4006,13 +4006,13 @@
     "brand": "nu3",
     "category": "fibre",
     "subcategory": "fibre-solubili",
-    "price": 13.99,
+    "price": 24.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07DRKNCSQ?tag=trovaintegrat-21",
     "asin": "B07DRKNCSQ",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07DRKNCL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 950,
+    "imageUrl": "https://m.media-amazon.com/images/I/414+9BCKbnL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 4850,
     "composition": "Fibra di acacia biologica 100%",
     "form": "Polvere",
     "quantity": "300g",
@@ -4024,7 +4024,7 @@
     ],
     "pricePerUnit": "€0.05/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "psillio-plantago-bucce-99-750mg-180-capsule",
@@ -4032,13 +4032,13 @@
     "brand": "Vit4ever",
     "category": "fibre",
     "subcategory": "psillio",
-    "price": 15.99,
+    "price": 9.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07L9WJ4P2?tag=trovaintegrat-21",
     "asin": "B07L9WJ4P2",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07L9WJ4L._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 2200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41M0srSrQXL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 10280,
     "composition": "Bucce di psillio 750mg per capsula",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -4050,7 +4050,7 @@
     ],
     "pricePerUnit": "€0.09/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "glucosamina-condroitina-msm-360-compresse",
@@ -4058,13 +4058,13 @@
     "brand": "Vit4ever",
     "category": "articolazioni",
     "subcategory": "glucosamina",
-    "price": 24.99,
+    "price": 22.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07L9C38RD?tag=trovaintegrat-21",
     "asin": "B07L9C38RD",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07L9C38L._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 5200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41VoHzaw1zL._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 6434,
     "composition": "Glucosamina 750mg, Condroitina 100mg, MSM 300mg",
     "form": "Compresse",
     "quantity": "360 compresse",
@@ -4076,7 +4076,7 @@
     ],
     "pricePerUnit": "€0.07/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "glucosamina-1500mg-condroitina-1200mg-180-compresse",
@@ -4084,13 +4084,13 @@
     "brand": "WeightWorld",
     "category": "articolazioni",
     "subcategory": "glucosamina",
-    "price": 21.99,
+    "price": 27.95,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07P731D6D?tag=trovaintegrat-21",
     "asin": "B07P731D6D",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07P731DL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 3800,
+    "imageUrl": "https://m.media-amazon.com/images/I/311vKTtOjAL._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 1679,
     "composition": "Glucosamina solfato 1500mg, Condroitina 1200mg",
     "form": "Compresse",
     "quantity": "180 compresse",
@@ -4102,7 +4102,7 @@
     ],
     "pricePerUnit": "€0.12/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "equilibra-glucosamina-condroitina-complex-90-compresse",
@@ -4110,13 +4110,13 @@
     "brand": "Equilibra",
     "category": "articolazioni",
     "subcategory": "glucosamina",
-    "price": 14.9,
+    "price": 13.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0CKC2DMGF?tag=trovaintegrat-21",
     "asin": "B0CKC2DMGF",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B0CKC2DML._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41rHnYdsGQL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 565,
     "composition": "Glucosamina, Condroitina, MSM, Calcio, Zinco, Vitamina D3",
     "form": "Compresse",
     "quantity": "90 compresse",
@@ -4128,7 +4128,7 @@
     ],
     "pricePerUnit": "€0.17/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "msm-2000mg-vitamina-c-365-compresse",
@@ -4136,13 +4136,13 @@
     "brand": "Vit4ever",
     "category": "articolazioni",
     "subcategory": "msm",
-    "price": 19.99,
+    "price": 28.7,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07TC3PF5N?tag=trovaintegrat-21",
     "asin": "B07TC3PF5N",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07TC3PFL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 4200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41mnBgpjpXL._AC_SL500_.jpg",
+    "rating": 4.3,
+    "reviewCount": 30,
     "composition": "MSM metilsulfonilmetano 2000mg, Vitamina C",
     "form": "Compresse",
     "quantity": "365 compresse",
@@ -4154,7 +4154,7 @@
     ],
     "pricePerUnit": "€0.05/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "acido-ialuronico-500mg-120-capsule-vegane",
@@ -4162,13 +4162,13 @@
     "brand": "Vit4ever",
     "category": "articolazioni",
     "subcategory": "acido-ialuronico",
-    "price": 21.99,
+    "price": 22.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07RKWV54M?tag=trovaintegrat-21",
     "asin": "B07RKWV54M",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07RKWV5L._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 3500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41-gyqVjosL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 10437,
     "composition": "Acido ialuronico 500mg alto peso molecolare",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4180,7 +4180,7 @@
     ],
     "pricePerUnit": "€0.18/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "curcuma-complex-con-boswellia-120-capsule",
@@ -4188,13 +4188,13 @@
     "brand": "Vegavero",
     "category": "articolazioni",
     "subcategory": "antinfiammatori",
-    "price": 17.9,
+    "price": 27.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B081TDP6YF?tag=trovaintegrat-21",
     "asin": "B081TDP6YF",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B081TDP6L._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1800,
+    "imageUrl": "https://m.media-amazon.com/images/I/41pRZ2BFKtL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 645,
     "composition": "Curcumina 95%, Boswellia 65%, Piperina",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4206,7 +4206,7 @@
     ],
     "pricePerUnit": "€0.15/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "articolazioni-collagene-msm-condroitina-120-capsule",
@@ -4214,13 +4214,13 @@
     "brand": "WeightWorld",
     "category": "articolazioni",
     "subcategory": "glucosamina",
-    "price": 19.99,
+    "price": 22.87,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B087CQJFJX?tag=trovaintegrat-21",
     "asin": "B087CQJFJX",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B087CQJFL._AC_SL500_.jpg",
-    "rating": 4.2,
-    "reviewCount": 1500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41kT+MSYj5L._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 2388,
     "composition": "Collagene, MSM, Glucosamina, Condroitina, Acido ialuronico",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4232,7 +4232,7 @@
     ],
     "pricePerUnit": "€0.17/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "collagene-glucosamina-per-articolazioni-180-capsule",
@@ -4240,13 +4240,13 @@
     "brand": "Nutralie",
     "category": "articolazioni",
     "subcategory": "glucosamina",
-    "price": 22.99,
+    "price": 19.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0843HC95Y?tag=trovaintegrat-21",
     "asin": "B0843HC95Y",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B0843HC9L._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/510TVjVNn8L._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 2200,
+    "reviewCount": 1612,
     "composition": "Collagene idrolizzato, Glucosamina, Condroitina, MSM",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -4258,7 +4258,7 @@
     ],
     "pricePerUnit": "€0.13/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "biotina-10000mcg-365-compresse-capelli-pelle-unghie",
@@ -4266,13 +4266,13 @@
     "brand": "Nu U Nutrition",
     "category": "capelli-pelle-unghie",
     "subcategory": "biotina",
-    "price": 16.99,
+    "price": 21.97,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B011LY3S7U?tag=trovaintegrat-21",
     "asin": "B011LY3S7U",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B011LY3SL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 12000,
+    "imageUrl": "https://m.media-amazon.com/images/I/51auM0d-YfL._AC_SL500_.jpg",
+    "rating": 4.3,
+    "reviewCount": 14069,
     "composition": "Biotina 10000mcg (Vitamina B7)",
     "form": "Compresse",
     "quantity": "365 compresse",
@@ -4284,7 +4284,7 @@
     ],
     "pricePerUnit": "€0.05/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "bandini-biotina-per-capelli-unghie-e-pelle-365-compresse",
@@ -4292,13 +4292,13 @@
     "brand": "Bandini",
     "category": "capelli-pelle-unghie",
     "subcategory": "biotina",
-    "price": 14.9,
+    "price": 9.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0CP88FDJ4?tag=trovaintegrat-21",
     "asin": "B0CP88FDJ4",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B0CP88FDL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 2100,
+    "imageUrl": "https://m.media-amazon.com/images/I/41hYEXplErL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 326,
     "composition": "Biotina con Selenio, Zinco e Vitamine",
     "form": "Compresse",
     "quantity": "365 compresse",
@@ -4310,7 +4310,7 @@
     ],
     "pricePerUnit": "€0.04/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "biotina-zinco-selenio-miglio-120-capsule",
@@ -4318,13 +4318,13 @@
     "brand": "Vegavero",
     "category": "capelli-pelle-unghie",
     "subcategory": "biotina",
-    "price": 16.9,
+    "price": 14.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B06XTYHDK6?tag=trovaintegrat-21",
     "asin": "B06XTYHDK6",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B06XTYHDL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41owQd5+j2L._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 2800,
+    "reviewCount": 8529,
     "composition": "Biotina 10000mcg, Zinco, Selenio, Miglio",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4336,7 +4336,7 @@
     ],
     "pricePerUnit": "€0.14/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "acido-ialuronico-250mg-collagene-120-capsule-vegane",
@@ -4344,13 +4344,13 @@
     "brand": "WeightWorld",
     "category": "capelli-pelle-unghie",
     "subcategory": "acido-ialuronico",
-    "price": 19.99,
+    "price": 38.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07PM7B4NK?tag=trovaintegrat-21",
     "asin": "B07PM7B4NK",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07PM7B4L._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/415VCWLyG+L._AC_SL500_.jpg",
     "rating": 4.4,
-    "reviewCount": 5500,
+    "reviewCount": 1863,
     "composition": "Acido ialuronico 250mg, Collagene, Vitamina C",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4362,7 +4362,7 @@
     ],
     "pricePerUnit": "€0.17/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "cheratina-biotina-zinco-capelli-90-capsule",
@@ -4370,13 +4370,13 @@
     "brand": "Nutralie",
     "category": "capelli-pelle-unghie",
     "subcategory": "cheratina",
-    "price": 17.99,
+    "price": 17.95,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07S24WKQP?tag=trovaintegrat-21",
     "asin": "B07S24WKQP",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07S24WKL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/4198qm5jKzL._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 1800,
+    "reviewCount": 2775,
     "composition": "Cheratina, Biotina 10000mcg, Zinco, Vitamina B",
     "form": "Capsule",
     "quantity": "90 capsule",
@@ -4388,7 +4388,7 @@
     ],
     "pricePerUnit": "€0.20/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "acido-ialuronico-400mg-90-capsule-vegane",
@@ -4396,13 +4396,13 @@
     "brand": "Vit4ever",
     "category": "capelli-pelle-unghie",
     "subcategory": "acido-ialuronico",
-    "price": 18.99,
+    "price": 28.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07VK7Y3CK?tag=trovaintegrat-21",
     "asin": "B07VK7Y3CK",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07VK7Y3L._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 3200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41bExHVD6uL._AC_SL500_.jpg",
+    "rating": 4.3,
+    "reviewCount": 3292,
     "composition": "Acido ialuronico 400mg micro-molecolare",
     "form": "Capsule",
     "quantity": "90 capsule",
@@ -4414,7 +4414,7 @@
     ],
     "pricePerUnit": "€0.21/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "hair-skin-nails-multivitaminico-120-capsule",
@@ -4422,13 +4422,13 @@
     "brand": "WeightWorld",
     "category": "capelli-pelle-unghie",
     "subcategory": "multivitaminico-beauty",
-    "price": 18.99,
+    "price": 25.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07XPCY8BG?tag=trovaintegrat-21",
     "asin": "B07XPCY8BG",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07XPCY8L._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41urqwgjINL._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 2500,
+    "reviewCount": 7561,
     "composition": "Biotina, Zinco, Selenio, Ferro, Vitamine A, C, E",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4440,7 +4440,7 @@
     ],
     "pricePerUnit": "€0.16/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "acido-ialuronico-q10-60-capsule-beauty",
@@ -4448,13 +4448,13 @@
     "brand": "Solgar",
     "category": "capelli-pelle-unghie",
     "subcategory": "acido-ialuronico",
-    "price": 28.9,
+    "price": 16.67,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07WD19ZLL?tag=trovaintegrat-21",
     "asin": "B07WD19ZLL",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07WD19ZL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 700,
+    "imageUrl": "https://m.media-amazon.com/images/I/316xQiQeCgL._AC_SL500_.jpg",
+    "rating": 4.7,
+    "reviewCount": 101,
     "composition": "Acido ialuronico 120mg, Coenzima Q10 30mg",
     "form": "Capsule",
     "quantity": "60 capsule",
@@ -4466,7 +4466,7 @@
     ],
     "pricePerUnit": "€0.48/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "guaran-vegavero-500mg-120-capsule-vegane",
@@ -4474,13 +4474,13 @@
     "brand": "Vegavero",
     "category": "energia",
     "subcategory": "guarana",
-    "price": 14.9,
+    "price": 13.95,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01FK5SOWU?tag=trovaintegrat-21",
     "asin": "B01FK5SOWU",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01FK5SOL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41qayT07cqL._AC_SL500_.jpg",
+    "rating": 4.0,
+    "reviewCount": 74,
     "composition": "Guaranà estratto 500mg (22% caffeina)",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4492,7 +4492,7 @@
     ],
     "pricePerUnit": "€0.12/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "guaran-bio-400mg-200-capsule-vegane",
@@ -4500,13 +4500,13 @@
     "brand": "Nutrimea",
     "category": "energia",
     "subcategory": "guarana",
-    "price": 12.9,
+    "price": 8.49,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07DKQ6QV6?tag=trovaintegrat-21",
     "asin": "B07DKQ6QV6",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07DKQ6QL._AC_SL500_.jpg",
-    "rating": 4.2,
-    "reviewCount": 1800,
+    "imageUrl": "https://m.media-amazon.com/images/I/31yYnBT5Q7L._AC_SL500_.jpg",
+    "rating": 4.3,
+    "reviewCount": 215,
     "composition": "Guaranà biologico 400mg",
     "form": "Capsule",
     "quantity": "200 capsule",
@@ -4518,7 +4518,7 @@
     ],
     "pricePerUnit": "€0.06/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "ginseng-coreano-panax-2000mg-120-capsule",
@@ -4526,13 +4526,13 @@
     "brand": "Vegavero",
     "category": "energia",
     "subcategory": "ginseng",
-    "price": 16.9,
+    "price": 14.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B018GHZWCO?tag=trovaintegrat-21",
     "asin": "B018GHZWCO",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B018GHZWL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 2100,
+    "imageUrl": "https://m.media-amazon.com/images/I/51ozbEe9ewL._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 771,
     "composition": "Ginseng coreano Panax 2000mg equivalente",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4544,7 +4544,7 @@
     ],
     "pricePerUnit": "€0.14/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "ginseng-rosso-coreano-4500mg-90-capsule",
@@ -4552,13 +4552,13 @@
     "brand": "WeightWorld",
     "category": "energia",
     "subcategory": "ginseng",
-    "price": 18.99,
+    "price": 21.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B076M64FW6?tag=trovaintegrat-21",
     "asin": "B076M64FW6",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B076M64FL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 2800,
+    "imageUrl": "https://m.media-amazon.com/images/I/41LERHseSvL._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 1796,
     "composition": "Ginseng rosso coreano estratto 10:1 4500mg equivalente",
     "form": "Capsule",
     "quantity": "90 capsule",
@@ -4570,7 +4570,7 @@
     ],
     "pricePerUnit": "€0.21/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "caffeina-200mg-250-compresse-vegane",
@@ -4578,13 +4578,13 @@
     "brand": "Vit4ever",
     "category": "energia",
     "subcategory": "caffeina",
-    "price": 13.99,
+    "price": 21.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07888W44N?tag=trovaintegrat-21",
     "asin": "B07888W44N",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07888W4L._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 3500,
+    "imageUrl": "https://m.media-amazon.com/images/I/4126RIbGjlL._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 864,
     "composition": "Caffeina anidra 200mg",
     "form": "Compresse",
     "quantity": "250 compresse",
@@ -4596,7 +4596,7 @@
     ],
     "pricePerUnit": "€0.06/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "yerba-mate-bio-500mg-120-capsule",
@@ -4604,13 +4604,13 @@
     "brand": "Vegavero",
     "category": "energia",
     "subcategory": "yerba-mate",
-    "price": 14.9,
+    "price": 22.8,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B076X34249?tag=trovaintegrat-21",
     "asin": "B076X34249",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B076X342L._AC_SL500_.jpg",
-    "rating": 4.2,
-    "reviewCount": 900,
+    "imageUrl": "https://m.media-amazon.com/images/I/416-CgqoW1L._AC_SL500_.jpg",
+    "rating": 3.8,
+    "reviewCount": 21,
     "composition": "Yerba mate biologica 500mg",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4622,7 +4622,7 @@
     ],
     "pricePerUnit": "€0.12/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "ginseng-guaran-maca-energy-complex-120-capsule",
@@ -4630,13 +4630,13 @@
     "brand": "WeightWorld",
     "category": "energia",
     "subcategory": "complesso-energetico",
-    "price": 19.99,
+    "price": 8.49,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07X2B8NZG?tag=trovaintegrat-21",
     "asin": "B07X2B8NZG",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07X2B8NL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41mEK4IQ+jL._AC_SL500_.jpg",
+    "rating": 4.8,
+    "reviewCount": 7,
     "composition": "Ginseng, Guaranà, Maca, Caffeina, Vitamine B",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4648,7 +4648,7 @@
     ],
     "pricePerUnit": "€0.17/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "now-foods-energy-caffeina-naturale-200mg-250-capsule",
@@ -4656,13 +4656,13 @@
     "brand": "NOW Foods",
     "category": "energia",
     "subcategory": "caffeina",
-    "price": 15.99,
+    "price": 13.97,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B004WYVD1A?tag=trovaintegrat-21",
     "asin": "B004WYVD1A",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B004WYVDL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 8500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41p2Y8mZPuL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 186,
     "composition": "Caffeina da guaranà e noce di cola 200mg",
     "form": "Capsule",
     "quantity": "250 capsule",
@@ -4674,7 +4674,7 @@
     ],
     "pricePerUnit": "€0.06/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "now-foods-super-enzymes-90-capsule",
@@ -4682,13 +4682,13 @@
     "brand": "NOW Foods",
     "category": "digestione",
     "subcategory": "enzimi-digestivi",
-    "price": 16.99,
+    "price": 23.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00HHYI23O?tag=trovaintegrat-21",
     "asin": "B00HHYI23O",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00HHYI2L._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 7500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41uED9VtR1L._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 610,
     "composition": "Bromelina, Papaina, Betaina HCl, Pancreatina",
     "form": "Capsule",
     "quantity": "90 capsule",
@@ -4700,7 +4700,7 @@
     ],
     "pricePerUnit": "€0.19/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "enzimi-digestivi-vegavero-120-capsule-vegane",
@@ -4708,13 +4708,13 @@
     "brand": "Vegavero",
     "category": "digestione",
     "subcategory": "enzimi-digestivi",
-    "price": 18.9,
+    "price": 23.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01AY7FXGE?tag=trovaintegrat-21",
     "asin": "B01AY7FXGE",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01AY7FXL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 1800,
+    "imageUrl": "https://m.media-amazon.com/images/I/51O8bfmQW8L._AC_SL500_.jpg",
+    "rating": 4.1,
+    "reviewCount": 246,
     "composition": "8 enzimi digestivi vegetali",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4726,7 +4726,7 @@
     ],
     "pricePerUnit": "€0.16/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "carbone-vegetale-attivo-300mg-90-compresse",
@@ -4734,13 +4734,13 @@
     "brand": "ESI",
     "category": "digestione",
     "subcategory": "carbone-attivo",
-    "price": 8.9,
+    "price": 5.48,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B018UFDGP2?tag=trovaintegrat-21",
     "asin": "B018UFDGP2",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B018UFDGL._AC_SL500_.jpg",
-    "rating": 4.3,
-    "reviewCount": 2500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41UJv3uFYLL._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 1291,
     "composition": "Carbone vegetale attivo 300mg",
     "form": "Compresse",
     "quantity": "90 compresse",
@@ -4752,7 +4752,7 @@
     ],
     "pricePerUnit": "€0.10/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "carbone-attivo-2000mg-200-capsule-vegane",
@@ -4760,13 +4760,13 @@
     "brand": "Vit4ever",
     "category": "digestione",
     "subcategory": "carbone-attivo",
-    "price": 16.99,
+    "price": 9.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07T9N6N5D?tag=trovaintegrat-21",
     "asin": "B07T9N6N5D",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07T9N6NL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 3200,
+    "imageUrl": "https://m.media-amazon.com/images/I/415SbJqNp8L._AC_SL500_.jpg",
+    "rating": 4.3,
+    "reviewCount": 1215,
     "composition": "Carbone attivo da gusci di cocco 2000mg/dose",
     "form": "Capsule",
     "quantity": "200 capsule",
@@ -4778,7 +4778,7 @@
     ],
     "pricePerUnit": "€0.08/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "enzimi-digestivi-con-probiotici-120-capsule",
@@ -4786,13 +4786,13 @@
     "brand": "Nutravita",
     "category": "digestione",
     "subcategory": "enzimi-digestivi",
-    "price": 19.99,
+    "price": 27.59,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B084YZB6FH?tag=trovaintegrat-21",
     "asin": "B084YZB6FH",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B084YZB6L._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 2100,
+    "imageUrl": "https://m.media-amazon.com/images/I/4122O5oiJrL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 662,
     "composition": "12 enzimi digestivi + 2 ceppi probiotici",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4804,7 +4804,7 @@
     ],
     "pricePerUnit": "€0.17/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "zenzero-bio-650mg-120-capsule-vegane",
@@ -4812,13 +4812,13 @@
     "brand": "Vegavero",
     "category": "digestione",
     "subcategory": "digestione-naturale",
-    "price": 12.9,
+    "price": 12.66,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07BZ8LSN4?tag=trovaintegrat-21",
     "asin": "B07BZ8LSN4",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07BZ8LSL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/419R9IsMLXL._AC_SL500_.jpg",
     "rating": 4.3,
-    "reviewCount": 1400,
+    "reviewCount": 607,
     "composition": "Zenzero biologico 650mg",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -4830,7 +4830,7 @@
     ],
     "pricePerUnit": "€0.11/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "supradyn-ricarica-completo-95-compresse-rivestite",
@@ -4838,13 +4838,13 @@
     "brand": "Supradyn",
     "category": "multivitaminici",
     "subcategory": "multivitaminici-adulti",
-    "price": 29.9,
+    "price": 28.42,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B0C1T4HM49?tag=trovaintegrat-21",
     "asin": "B0C1T4HM49",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B0C1T4HML._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41JiPtifTDL._AC_SL500_.jpg",
     "rating": 4.5,
-    "reviewCount": 10965,
+    "reviewCount": 10966,
     "composition": "Vitamine A, B, C, D3, E, K, Magnesio, Calcio, Zinco, Selenio, CoQ10",
     "form": "Compresse",
     "quantity": "95 compresse",
@@ -4856,7 +4856,7 @@
     ],
     "pricePerUnit": "€0.31/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "vitamina-b-complex-vegavero-180-capsule-vegane",
@@ -4864,13 +4864,13 @@
     "brand": "Vegavero",
     "category": "vitamine",
     "subcategory": "vitamina-b",
-    "price": 14.9,
+    "price": 17.32,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07VSYCZQ1?tag=trovaintegrat-21",
     "asin": "B07VSYCZQ1",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07VSYCZL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 1800,
+    "imageUrl": "https://m.media-amazon.com/images/I/31ogNzbkdAL._AC_SL500_.jpg",
+    "rating": 4.7,
+    "reviewCount": 1654,
     "composition": "Complesso 8 Vitamine B attive",
     "form": "Capsule",
     "quantity": "180 capsule",
@@ -4882,7 +4882,7 @@
     ],
     "pricePerUnit": "€0.08/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "ferro-bisglicinato-40mg-90-capsule-vegane",
@@ -4890,13 +4890,13 @@
     "brand": "Vegavero",
     "category": "minerali",
     "subcategory": "ferro",
-    "price": 14.9,
+    "price": 14.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08GG9T6SW?tag=trovaintegrat-21",
     "asin": "B08GG9T6SW",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B08GG9T6L._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 2200,
+    "imageUrl": "https://m.media-amazon.com/images/I/41mHS1dWfkL._AC_SL500_.jpg",
+    "rating": 4.5,
+    "reviewCount": 9989,
     "composition": "Ferro bisglicinato 40mg con Vitamina C",
     "form": "Capsule",
     "quantity": "90 capsule",
@@ -4908,7 +4908,7 @@
     ],
     "pricePerUnit": "€0.17/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "ferro-fumarato-vitamina-c-solgar-90-capsule",
@@ -4916,13 +4916,13 @@
     "brand": "Solgar",
     "category": "minerali",
     "subcategory": "ferro",
-    "price": 14.5,
+    "price": 25.0,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00O8SS8CM?tag=trovaintegrat-21",
     "asin": "B00O8SS8CM",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00O8SS8L._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 1800,
+    "imageUrl": "https://m.media-amazon.com/images/I/31ZGMOF0ZuL._AC_SL500_.jpg",
+    "rating": 4.1,
+    "reviewCount": 87,
     "composition": "Ferro fumarato 25mg, Vitamina C 100mg",
     "form": "Capsule",
     "quantity": "90 capsule",
@@ -4934,7 +4934,7 @@
     ],
     "pricePerUnit": "€0.16/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "myprotein-impact-whey-protein-1kg",
@@ -4942,13 +4942,13 @@
     "brand": "Myprotein",
     "category": "proteine",
     "subcategory": "proteine-whey",
-    "price": 23.99,
+    "price": 71.72,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B00JT8470S?tag=trovaintegrat-21",
     "asin": "B00JT8470S",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B00JT847L._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 35000,
+    "imageUrl": "https://m.media-amazon.com/images/I/41UceKR-Z-L._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 3499,
     "composition": "21g proteine per dose, BCAA naturali",
     "form": "Polvere",
     "quantity": "1000g",
@@ -4960,7 +4960,7 @@
     ],
     "pricePerUnit": "€0.02/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "omega-3-nordic-oil-premium-120-capsule",
@@ -4994,13 +4994,13 @@
     "brand": "WeightWorld",
     "category": "superfood",
     "subcategory": "ashwagandha",
-    "price": 17.99,
+    "price": 21.9,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08MY15CZG?tag=trovaintegrat-21",
     "asin": "B08MY15CZG",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B08MY15CL._AC_SL500_.jpg",
-    "rating": 4.4,
-    "reviewCount": 3500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41pgsPkXDNL._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 1958,
     "composition": "Ashwagandha biologica 600mg con 5% witanolidi",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -5012,7 +5012,7 @@
     ],
     "pricePerUnit": "€0.15/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "drenante-forte-plus-naturale-500ml",
@@ -5020,13 +5020,13 @@
     "brand": "LongLife",
     "category": "dimagranti",
     "subcategory": "drenanti",
-    "price": 16.9,
+    "price": 12.95,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B06WRSGKCK?tag=trovaintegrat-21",
     "asin": "B06WRSGKCK",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B06WRSGKL._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51tHS1aMdBL._AC_SL500_.jpg",
     "rating": 4.2,
-    "reviewCount": 1200,
+    "reviewCount": 1425,
     "composition": "Betulla, ortosifon, pilosella, tè verde",
     "form": "Liquido",
     "quantity": "500ml",
@@ -5038,7 +5038,7 @@
     ],
     "pricePerUnit": "€0.03/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "chetoni-esogeni-bhb-1800mg-120-capsule",
@@ -5046,13 +5046,13 @@
     "brand": "Vit4ever",
     "category": "dimagranti",
     "subcategory": "chetoni",
-    "price": 21.99,
+    "price": 7.98,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07GT9TD8K?tag=trovaintegrat-21",
     "asin": "B07GT9TD8K",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07GT9TDL._AC_SL500_.jpg",
-    "rating": 4.1,
-    "reviewCount": 1500,
+    "imageUrl": "https://m.media-amazon.com/images/I/31jEFJ3QQOL._AC_SL500_.jpg",
+    "rating": 4.2,
+    "reviewCount": 812,
     "composition": "Beta-Idrossibutirrato BHB 1800mg",
     "form": "Capsule",
     "quantity": "120 capsule",
@@ -5064,7 +5064,7 @@
     ],
     "pricePerUnit": "€0.18/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "citrullina-malato-3000mg-240-capsule",
@@ -5072,13 +5072,13 @@
     "brand": "Vit4ever",
     "category": "pre-workout",
     "subcategory": "citrullina",
-    "price": 24.99,
+    "price": 22.99,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B07X9SD71F?tag=trovaintegrat-21",
     "asin": "B07X9SD71F",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B07X9SD7L._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 2800,
+    "imageUrl": "https://m.media-amazon.com/images/I/41ItvwqyfYL._AC_SL500_.jpg",
+    "rating": 4.4,
+    "reviewCount": 962,
     "composition": "L-Citrullina Malato 3000mg rapporto 2:1",
     "form": "Capsule",
     "quantity": "240 capsule",
@@ -5090,7 +5090,7 @@
     ],
     "pricePerUnit": "€0.10/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "enterogermina-4-miliardi-20-capsule",
@@ -5098,13 +5098,13 @@
     "brand": "Enterogermina",
     "category": "probiotici",
     "subcategory": "fermenti-lattici",
-    "price": 12.9,
+    "price": 9.94,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B01M7O2RWS?tag=trovaintegrat-21",
     "asin": "B01M7O2RWS",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B01M7O2RL._AC_SL500_.jpg",
-    "rating": 4.5,
-    "reviewCount": 5500,
+    "imageUrl": "https://m.media-amazon.com/images/I/41KUVTYYPjL._AC_SL500_.jpg",
+    "rating": 4.6,
+    "reviewCount": 2818,
     "composition": "Bacillus clausii 4 miliardi spore",
     "form": "Capsule",
     "quantity": "20 capsule",
@@ -5116,7 +5116,7 @@
     ],
     "pricePerUnit": "€0.65/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   },
   {
     "id": "probiotici-bio-con-inulina-120-capsule",
@@ -5150,13 +5150,13 @@
     "brand": "NOW Foods",
     "category": "minerali",
     "subcategory": "magnesio",
-    "price": 16.99,
+    "price": 11.7,
     "currency": "EUR",
     "amazonUrl": "https://www.amazon.it/dp/B08QMS7768?tag=trovaintegrat-21",
     "asin": "B08QMS7768",
-    "imageUrl": "https://m.media-amazon.com/images/I/41B08QMS77L._AC_SL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41YMsCBHksL._AC_SL500_.jpg",
     "rating": 4.6,
-    "reviewCount": 5200,
+    "reviewCount": 1903,
     "composition": "Magnesio citrato 200mg",
     "form": "Compresse",
     "quantity": "250 compresse",
@@ -5168,6 +5168,6 @@
     ],
     "pricePerUnit": "€0.07/unità",
     "inStock": true,
-    "lastUpdated": "2026-02-17"
+    "lastUpdated": "2026-02-18"
   }
 ]

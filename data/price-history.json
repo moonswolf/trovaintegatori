@@ -25,6 +25,10 @@
       {
         "date": "2026-02-17",
         "price": 17.95
+      },
+      {
+        "date": "2026-02-18",
+        "price": 17.95
       }
     ]
   },
@@ -53,6 +57,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 46.63
+      },
+      {
+        "date": "2026-02-18",
         "price": 46.63
       }
     ]
@@ -83,6 +91,10 @@
       {
         "date": "2026-02-17",
         "price": 25.55
+      },
+      {
+        "date": "2026-02-18",
+        "price": 25.55
       }
     ]
   },
@@ -111,6 +123,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 29.9
+      },
+      {
+        "date": "2026-02-18",
         "price": 29.9
       }
     ]
@@ -141,6 +157,10 @@
       {
         "date": "2026-02-17",
         "price": 29.97
+      },
+      {
+        "date": "2026-02-18",
+        "price": 31.97
       }
     ]
   },
@@ -169,6 +189,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 12.99
+      },
+      {
+        "date": "2026-02-18",
         "price": 12.99
       }
     ]
@@ -199,6 +223,10 @@
       {
         "date": "2026-02-17",
         "price": 5.68
+      },
+      {
+        "date": "2026-02-18",
+        "price": 5.68
       }
     ]
   },
@@ -227,6 +255,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 13.9
+      },
+      {
+        "date": "2026-02-18",
         "price": 13.9
       }
     ]
@@ -257,6 +289,10 @@
       {
         "date": "2026-02-17",
         "price": 21.98
+      },
+      {
+        "date": "2026-02-18",
+        "price": 21.98
       }
     ]
   },
@@ -285,6 +321,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 19.9
+      },
+      {
+        "date": "2026-02-18",
         "price": 19.9
       }
     ]
@@ -315,6 +355,10 @@
       {
         "date": "2026-02-17",
         "price": 19.99
+      },
+      {
+        "date": "2026-02-18",
+        "price": 19.99
       }
     ]
   },
@@ -344,6 +388,10 @@
       {
         "date": "2026-02-17",
         "price": 27.97
+      },
+      {
+        "date": "2026-02-18",
+        "price": 19.97
       }
     ]
   },
@@ -372,6 +420,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 19.9
+      },
+      {
+        "date": "2026-02-18",
         "price": 19.9
       }
     ]
@@ -402,6 +454,10 @@
       {
         "date": "2026-02-17",
         "price": 29.97
+      },
+      {
+        "date": "2026-02-18",
+        "price": 29.97
       }
     ]
   },
@@ -430,6 +486,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 25.99
+      },
+      {
+        "date": "2026-02-18",
         "price": 25.99
       }
     ]
@@ -460,6 +520,10 @@
       {
         "date": "2026-02-17",
         "price": 5.41
+      },
+      {
+        "date": "2026-02-18",
+        "price": 5.41
       }
     ]
   },
@@ -488,6 +552,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 25.9
+      },
+      {
+        "date": "2026-02-18",
         "price": 25.9
       }
     ]
@@ -518,6 +586,10 @@
       {
         "date": "2026-02-17",
         "price": 39.9
+      },
+      {
+        "date": "2026-02-18",
+        "price": 30.29
       }
     ]
   },
@@ -546,6 +618,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 14.15
+      },
+      {
+        "date": "2026-02-18",
         "price": 14.15
       }
     ]
@@ -576,6 +652,10 @@
       {
         "date": "2026-02-17",
         "price": 49.9
+      },
+      {
+        "date": "2026-02-18",
+        "price": 49.9
       }
     ]
   },
@@ -604,6 +684,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 54.76
+      },
+      {
+        "date": "2026-02-18",
         "price": 54.76
       }
     ]
@@ -634,6 +718,10 @@
       {
         "date": "2026-02-17",
         "price": 19.99
+      },
+      {
+        "date": "2026-02-18",
+        "price": 19.99
       }
     ]
   },
@@ -662,6 +750,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 10.34
+      },
+      {
+        "date": "2026-02-18",
         "price": 10.34
       }
     ]
@@ -692,6 +784,10 @@
       {
         "date": "2026-02-17",
         "price": 25.42
+      },
+      {
+        "date": "2026-02-18",
+        "price": 25.42
       }
     ]
   },
@@ -720,6 +816,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 17.97
+      },
+      {
+        "date": "2026-02-18",
         "price": 17.97
       }
     ]
@@ -750,6 +850,10 @@
       {
         "date": "2026-02-17",
         "price": 22.99
+      },
+      {
+        "date": "2026-02-18",
+        "price": 22.99
       }
     ]
   },
@@ -779,6 +883,10 @@
       {
         "date": "2026-02-17",
         "price": 23.74
+      },
+      {
+        "date": "2026-02-18",
+        "price": 24.99
       }
     ]
   },
@@ -808,6 +916,10 @@
       {
         "date": "2026-02-17",
         "price": 19.9
+      },
+      {
+        "date": "2026-02-18",
+        "price": 19.9
       }
     ]
   },
@@ -824,6 +936,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 28.4
+      },
+      {
+        "date": "2026-02-18",
         "price": 28.4
       }
     ]
@@ -842,6 +958,10 @@
       {
         "date": "2026-02-17",
         "price": 14.9
+      },
+      {
+        "date": "2026-02-18",
+        "price": 14.9
       }
     ]
   },
@@ -858,6 +978,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 11.9
+      },
+      {
+        "date": "2026-02-18",
         "price": 11.9
       }
     ]
@@ -876,6 +1000,10 @@
       {
         "date": "2026-02-17",
         "price": 88.89
+      },
+      {
+        "date": "2026-02-18",
+        "price": 79.29
       }
     ]
   },
@@ -892,6 +1020,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 17.49
+      },
+      {
+        "date": "2026-02-18",
         "price": 17.49
       }
     ]
@@ -910,6 +1042,10 @@
       {
         "date": "2026-02-17",
         "price": 17.99
+      },
+      {
+        "date": "2026-02-18",
+        "price": 17.99
       }
     ]
   },
@@ -927,6 +1063,10 @@
       {
         "date": "2026-02-17",
         "price": 39.9
+      },
+      {
+        "date": "2026-02-18",
+        "price": 30.29
       }
     ]
   },
@@ -944,6 +1084,10 @@
       {
         "date": "2026-02-17",
         "price": 39.9
+      },
+      {
+        "date": "2026-02-18",
+        "price": 30.29
       }
     ]
   },
@@ -960,6 +1104,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 23.65
+      },
+      {
+        "date": "2026-02-18",
         "price": 23.65
       }
     ]
@@ -978,6 +1126,10 @@
       {
         "date": "2026-02-17",
         "price": 14.15
+      },
+      {
+        "date": "2026-02-18",
+        "price": 14.15
       }
     ]
   },
@@ -994,6 +1146,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 24.9
+      },
+      {
+        "date": "2026-02-18",
         "price": 24.9
       }
     ]
@@ -1012,6 +1168,10 @@
       {
         "date": "2026-02-17",
         "price": 23.99
+      },
+      {
+        "date": "2026-02-18",
+        "price": 23.99
       }
     ]
   },
@@ -1028,6 +1188,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 24.0
+      },
+      {
+        "date": "2026-02-18",
         "price": 24.0
       }
     ]
@@ -1046,6 +1210,10 @@
       {
         "date": "2026-02-17",
         "price": 23.9
+      },
+      {
+        "date": "2026-02-18",
+        "price": 23.9
       }
     ]
   },
@@ -1062,6 +1230,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 21.9
+      },
+      {
+        "date": "2026-02-18",
         "price": 21.9
       }
     ]
@@ -1080,6 +1252,10 @@
       {
         "date": "2026-02-17",
         "price": 27.99
+      },
+      {
+        "date": "2026-02-18",
+        "price": 27.99
       }
     ]
   },
@@ -1096,6 +1272,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 29.99
+      },
+      {
+        "date": "2026-02-18",
         "price": 29.99
       }
     ]
@@ -1114,6 +1294,10 @@
       {
         "date": "2026-02-17",
         "price": 46.74
+      },
+      {
+        "date": "2026-02-18",
+        "price": 46.74
       }
     ]
   },
@@ -1130,6 +1314,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 44.76
+      },
+      {
+        "date": "2026-02-18",
         "price": 44.76
       }
     ]
@@ -1148,6 +1336,10 @@
       {
         "date": "2026-02-17",
         "price": 44.99
+      },
+      {
+        "date": "2026-02-18",
+        "price": 44.99
       }
     ]
   },
@@ -1164,6 +1356,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 24.99
+      },
+      {
+        "date": "2026-02-18",
         "price": 24.99
       }
     ]
@@ -1182,6 +1378,10 @@
       {
         "date": "2026-02-17",
         "price": 22.99
+      },
+      {
+        "date": "2026-02-18",
+        "price": 22.99
       }
     ]
   },
@@ -1198,6 +1398,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 21.99
+      },
+      {
+        "date": "2026-02-18",
         "price": 21.99
       }
     ]
@@ -1216,6 +1420,10 @@
       {
         "date": "2026-02-17",
         "price": 21.9
+      },
+      {
+        "date": "2026-02-18",
+        "price": 21.9
       }
     ]
   },
@@ -1232,6 +1440,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 10.25
+      },
+      {
+        "date": "2026-02-18",
         "price": 10.25
       }
     ]
@@ -1250,6 +1462,10 @@
       {
         "date": "2026-02-17",
         "price": 25.95
+      },
+      {
+        "date": "2026-02-18",
+        "price": 25.95
       }
     ]
   },
@@ -1266,6 +1482,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 19.99
+      },
+      {
+        "date": "2026-02-18",
         "price": 19.99
       }
     ]
@@ -1284,6 +1504,10 @@
       {
         "date": "2026-02-17",
         "price": 19.99
+      },
+      {
+        "date": "2026-02-18",
+        "price": 19.99
       }
     ]
   },
@@ -1300,6 +1524,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 10.25
+      },
+      {
+        "date": "2026-02-18",
         "price": 10.25
       }
     ]
@@ -1318,6 +1546,10 @@
       {
         "date": "2026-02-17",
         "price": 35.92
+      },
+      {
+        "date": "2026-02-18",
+        "price": 35.92
       }
     ]
   },
@@ -1334,6 +1566,10 @@
       },
       {
         "date": "2026-02-17",
+        "price": 19.9
+      },
+      {
+        "date": "2026-02-18",
         "price": 19.9
       }
     ]
@@ -1352,6 +1588,10 @@
       {
         "date": "2026-02-17",
         "price": 15.99
+      },
+      {
+        "date": "2026-02-18",
+        "price": 15.99
       }
     ]
   },
@@ -1369,6 +1609,1234 @@
       {
         "date": "2026-02-17",
         "price": 24.9
+      },
+      {
+        "date": "2026-02-18",
+        "price": 24.9
+      }
+    ]
+  },
+  "B01N7NI8ZV": {
+    "name": "Vitamaze Vitamina K2 MK-7 200 mcg 180 Microcompresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.97
+      }
+    ]
+  },
+  "B075TK5BK9": {
+    "name": "Vitamaze Vitamina K Complesso K1+K2 2200 mcg 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 21.97
+      }
+    ]
+  },
+  "B08PG2ZHMC": {
+    "name": "PiùLife Vitamina K2 MK7 200mcg 360 Mini Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 16.9
+      }
+    ]
+  },
+  "B01CYRNM9M": {
+    "name": "Supradyn Vitamin D3 365 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.99
+      }
+    ]
+  },
+  "B06XSLRX6T": {
+    "name": "Yamamoto Nutrition Vitamin C 1000mg 90 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 12.99
+      }
+    ]
+  },
+  "B00YQS4N6Y": {
+    "name": "ESI Vitamin C Pure 1000mg 30 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 6.22
+      }
+    ]
+  },
+  "B0743CNGPH": {
+    "name": "Vitamaze Vitamina B12 1000mcg 360 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.85
+      }
+    ]
+  },
+  "B07YBXJG5K": {
+    "name": "Vitamina B12 Vegavero 1000mcg 180 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 18.68
+      }
+    ]
+  },
+  "B08BTXFQ4F": {
+    "name": "Magnesio Citrato Tamponato 444mg 240 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 17.99
+      }
+    ]
+  },
+  "B00D3HRXU2": {
+    "name": "Bonecal Calcio Algale con Vitamina K2 e D3 20 Bustine",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.9
+      }
+    ]
+  },
+  "B075NCTSTC": {
+    "name": "Vita Act Calcio + Vitamina D 60 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 9.99
+      }
+    ]
+  },
+  "B077FH7V7F": {
+    "name": "Calcio 800mg + Magnesio 400mg 365 Compresse Vegan",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 21.99
+      }
+    ]
+  },
+  "B014J4OFS0": {
+    "name": "Jamieson Potassio 100 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 11.82
+      }
+    ]
+  },
+  "B07C5Q7T4D": {
+    "name": "Magnesio e Potassio Vegavero 180 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.99
+      }
+    ]
+  },
+  "B084SB7N4V": {
+    "name": "LongLife Potassium 99 100 Tavolette",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 14.34
+      }
+    ]
+  },
+  "B0058WXOYY": {
+    "name": "Warnke Selenio 50mcg 100 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 6.89
+      }
+    ]
+  },
+  "B074N2B5DM": {
+    "name": "Vegavero Selenio 200mcg 180 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 16.97
+      }
+    ]
+  },
+  "B09KNH117C": {
+    "name": "WeightWorld Selenio 200mcg 365 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 20.59
+      }
+    ]
+  },
+  "B003O1Y4C2": {
+    "name": "NOW Foods Neptune Krill Oil 500mg 60 Softgel",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 63.79
+      }
+    ]
+  },
+  "B01GJQUTKO": {
+    "name": "Vegavero Krill Oil Premium 60 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 67.91
+      }
+    ]
+  },
+  "B074QMZQKN": {
+    "name": "Krill Oil 1000mg 60 Softgel con Astaxantina",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 28.15
+      }
+    ]
+  },
+  "B07F1JQZD3": {
+    "name": "Vegavero Omega-3 Vegano da Alghe 90 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.99
+      }
+    ]
+  },
+  "B08YJV78QC": {
+    "name": "Yamamoto Nutrition Iso-FUJI 2kg Proteine Isolate",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 51.98
+      }
+    ]
+  },
+  "B00KPRTB0I": {
+    "name": "Foodspring Vegan Protein 750g Proteine Vegetali",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 32.9
+      }
+    ]
+  },
+  "B01N1MZFER": {
+    "name": "nu3 Vegan Protein 3K 1kg Proteine Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 28.87
+      }
+    ]
+  },
+  "B002DYIZH6": {
+    "name": "Optimum Nutrition Gold Standard Casein 1.82kg",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 45.79
+      }
+    ]
+  },
+  "B07YDSSK87": {
+    "name": "Vegavero Prebiotici + Probiotici Bio 180 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 18.5
+      }
+    ]
+  },
+  "B084C118Y1": {
+    "name": "LongLife Microbioma Donna 30 Capsule Gastroresistenti",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 32.99
+      }
+    ]
+  },
+  "B088RKYG7C": {
+    "name": "Kijimea Colon Irritabile PRO 84 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 14.99
+      }
+    ]
+  },
+  "B00068GH6M": {
+    "name": "NOW Foods Taurine 1000mg 100 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 6.79
+      }
+    ]
+  },
+  "B074SK3FYZ": {
+    "name": "Vegavero Taurina 1000mg 120 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 14.2
+      }
+    ]
+  },
+  "B082VT7TDZ": {
+    "name": "Vit4ever Taurina 500mg 180 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 4.27
+      }
+    ]
+  },
+  "B098KKXCCX": {
+    "name": "L-Arginina Vegavero 700mg 270 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 14.97
+      }
+    ]
+  },
+  "B00BIO4VK2": {
+    "name": "BioTechUSA 100% Creatine Monohydrate 500g",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 17.93
+      }
+    ]
+  },
+  "B00SP2ZKW8": {
+    "name": "ESN Ultrapure Creatine Monohydrate 500g",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 14.99
+      }
+    ]
+  },
+  "B01MRL741H": {
+    "name": "Myprotein Creatine Monohydrate 1kg",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 23.92
+      }
+    ]
+  },
+  "B08VJMX5W6": {
+    "name": "Creapure Creatina in Capsule 240 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 20.89
+      }
+    ]
+  },
+  "B06ZYMFQ6V": {
+    "name": "Yamamoto Nutrition Creatine Pro 150 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 44.99
+      }
+    ]
+  },
+  "B079C336Y3": {
+    "name": "Collagene Marino Idrolizzato Tipo I 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 13.2
+      }
+    ]
+  },
+  "B08JVK2N1H": {
+    "name": "Collagene Marino + Acido Ialuronico 180 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 26.99
+      }
+    ]
+  },
+  "B07D9WSWFR": {
+    "name": "Collagene Idrolizzato Bovino 500g Polvere",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 33.6
+      }
+    ]
+  },
+  "B09FTMYLQ2": {
+    "name": "Collagene Verisol con Biotina e Zinco 240 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.9
+      }
+    ]
+  },
+  "B08S6XJTBZ": {
+    "name": "Collagene Tipo II 60 Capsule per Articolazioni",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.99
+      }
+    ]
+  },
+  "B083LF3J66": {
+    "name": "Collagene + Magnesio + Vitamina C 180 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 21.47
+      }
+    ]
+  },
+  "B07CHY9V12": {
+    "name": "Vegavero Clorella Bio 270 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.99
+      }
+    ]
+  },
+  "B0062VNKMQ": {
+    "name": "Now Foods Clorella 1000mg 120 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 24.99
+      }
+    ]
+  },
+  "B01C370Q1U": {
+    "name": "Vegavero Maca Bio Peruviana 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 21.97
+      }
+    ]
+  },
+  "B08BXNX4MF": {
+    "name": "Maca Nera Peruviana 24000mg 180 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.99
+      }
+    ]
+  },
+  "B078S8NYCS": {
+    "name": "NaturaleBio Spirulina Bio 600 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 17.95
+      }
+    ]
+  },
+  "B073GXVPMY": {
+    "name": "Garcinia Cambogia 1000mg 60% HCA 240 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 12.53
+      }
+    ]
+  },
+  "B017KDGJNQ": {
+    "name": "Garcinia Cambogia Plus con Cromo 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 14.9
+      }
+    ]
+  },
+  "B018GHXQYU": {
+    "name": "Drenante Forte Dimagrante 500ml Detox",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 4.93
+      }
+    ]
+  },
+  "B01BKL8FU4": {
+    "name": "Drenante Forte Zuccari 500ml",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 3.99
+      }
+    ]
+  },
+  "B07XCJH3LJ": {
+    "name": "Brucia Grassi Potente Termogenico 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 11.7
+      }
+    ]
+  },
+  "B0CPJL7QZG": {
+    "name": "Brucia Grassi Kijimea con Pepe Nero 60 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 21.95
+      }
+    ]
+  },
+  "B015ZZ9LO0": {
+    "name": "Chetoni di Lampone 1200mg 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 11.04
+      }
+    ]
+  },
+  "B07889TTDK": {
+    "name": "Glucomannano di Konjac 3000mg 180 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 9.9
+      }
+    ]
+  },
+  "B00TFB0YTM": {
+    "name": "Optimum Nutrition Gold Standard Pre-Workout 330g",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 28.12
+      }
+    ]
+  },
+  "B071GQZB2W": {
+    "name": "C4 Original Pre Workout Cellucor 195g",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.9
+      }
+    ]
+  },
+  "B07888VRMP": {
+    "name": "Yamamoto Nutrition Pre-Workout K-Pump 300g",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 39.9
+      }
+    ]
+  },
+  "B0BK2BQ8KL": {
+    "name": "BSN N.O.-XPLODE Pre-Workout 390g",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.2
+      }
+    ]
+  },
+  "B00VXDKL4S": {
+    "name": "ESI Melatonina Pura 1mg 120 Microtavolette",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 6.01
+      }
+    ]
+  },
+  "B00VXDKNM8": {
+    "name": "ESI Melatonina Pura Retard 1mg 90 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 5.98
+      }
+    ]
+  },
+  "B00VXDZJ4A": {
+    "name": "ESI Melatonina Pura con Erbe della Notte 30 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 12.32
+      }
+    ]
+  },
+  "B07KJBXDFR": {
+    "name": "ZzzQuil Natura Integratore Sonno 60 Pastiglie Gommose",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 6.9
+      }
+    ]
+  },
+  "B07V4MWWPD": {
+    "name": "Griffonia 5-HTP 200mg + Melatonina 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 9.99
+      }
+    ]
+  },
+  "B01724DBCK": {
+    "name": "Melatonina Pura Pierpaoli 1mg 60 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 6.5
+      }
+    ]
+  },
+  "B01724DDSM": {
+    "name": "Melatonina Complex Notte 1mg + Valeriana 30 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 5.5
+      }
+    ]
+  },
+  "B01LKCFPIS": {
+    "name": "Melatonina Vegan 1mg 365 Compresse WeightWorld",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 10.18
+      }
+    ]
+  },
+  "B075TL67K8": {
+    "name": "Vegavero Coenzima Q10 200mg 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 28.97
+      }
+    ]
+  },
+  "B07MZY4P1R": {
+    "name": "Coenzima Q10 200mg 120 Capsule Vit4ever",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.99
+      }
+    ]
+  },
+  "B00CFITD0S": {
+    "name": "NOW Foods CoQ10 100mg 150 Softgel",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 26.49
+      }
+    ]
+  },
+  "B01BOVUPZ8": {
+    "name": "Solgar CoQ10 200mg 30 Capsule Vegetali",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 33.95
+      }
+    ]
+  },
+  "B07VY8KHZ2": {
+    "name": "Q10 Ubiquinol 100mg Forma Attiva 60 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.71
+      }
+    ]
+  },
+  "B075GQ4ZQM": {
+    "name": "Nature's Bounty CoQ10 Q-Sorb 100mg 60 Perle",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 23.95
+      }
+    ]
+  },
+  "B00179E446": {
+    "name": "Solgar Folato come Metafolin 400mcg 100 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 13.97
+      }
+    ]
+  },
+  "B01724CETQ": {
+    "name": "Pierpaoli Acido Folico 400mcg 30 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 4.39
+      }
+    ]
+  },
+  "B076BS9HRC": {
+    "name": "Acido Folico 800mcg + Vitamina B12 180 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 16.4
+      }
+    ]
+  },
+  "B08L7L46F8": {
+    "name": "5-MTHF Folato Attivo 800mcg 180 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 4.99
+      }
+    ]
+  },
+  "B094YR97Z2": {
+    "name": "Acido Folico 400mcg 365 Compresse Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 15.99
+      }
+    ]
+  },
+  "B097Q6GN78": {
+    "name": "Acido Folico Quatrefolic 400mcg 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 7.07
+      }
+    ]
+  },
+  "B017NSEIFY": {
+    "name": "Resveratrolo Trans 500mg 60 Capsule Vegavero",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 22.0
+      }
+    ]
+  },
+  "B07W57X3Z5": {
+    "name": "Resveratrolo 500mg con Quercetina 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 24.99
+      }
+    ]
+  },
+  "B0851BMNZ5": {
+    "name": "Astaxantina Naturale 12mg 60 Softgel",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.88
+      }
+    ]
+  },
+  "B096W3WGCN": {
+    "name": "Astaxantina 12mg con Vitamina E 90 Softgel",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 22.9
+      }
+    ]
+  },
+  "B09PZ6MJL8": {
+    "name": "Glutatione Ridotto 500mg 60 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 14.9
+      }
+    ]
+  },
+  "B09WYMSRLV": {
+    "name": "Glutatione Liposomiale 400mg 60 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 29.87
+      }
+    ]
+  },
+  "B0BHTLZMHX": {
+    "name": "NAC N-Acetil Cisteina 600mg 180 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 16.9
+      }
+    ]
+  },
+  "B07W8DVV1N": {
+    "name": "OPC Estratto di Semi d'Uva 240 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 22.4
+      }
+    ]
+  },
+  "B07CHJ2Z5Y": {
+    "name": "Psyllium Bio Bucce 500g Polvere",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 42.47
+      }
+    ]
+  },
+  "B01724CQPI": {
+    "name": "Psillio Biondo 500mg 200 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 6.9
+      }
+    ]
+  },
+  "B07DKWGCLW": {
+    "name": "Inulina Bio Polvere Prebiotica 500g",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 10.27
+      }
+    ]
+  },
+  "B07DKVFK4X": {
+    "name": "Glucomannano di Konjac 3000mg 180 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 6.79
+      }
+    ]
+  },
+  "B07DRKNCSQ": {
+    "name": "Fibra di Acacia Biologica 300g Polvere",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 24.99
+      }
+    ]
+  },
+  "B07L9WJ4P2": {
+    "name": "Psillio Plantago Bucce 99% 750mg 180 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 9.99
+      }
+    ]
+  },
+  "B07L9C38RD": {
+    "name": "Glucosamina + Condroitina + MSM 360 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 22.99
+      }
+    ]
+  },
+  "B07P731D6D": {
+    "name": "Glucosamina 1500mg + Condroitina 1200mg 180 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 27.95
+      }
+    ]
+  },
+  "B0CKC2DMGF": {
+    "name": "Equilibra Glucosamina Condroitina Complex 90 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 13.9
+      }
+    ]
+  },
+  "B07TC3PF5N": {
+    "name": "MSM 2000mg + Vitamina C 365 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 28.7
+      }
+    ]
+  },
+  "B07RKWV54M": {
+    "name": "Acido Ialuronico 500mg 120 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 22.99
+      }
+    ]
+  },
+  "B081TDP6YF": {
+    "name": "Curcuma Complex con Boswellia 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 27.99
+      }
+    ]
+  },
+  "B087CQJFJX": {
+    "name": "Articolazioni Collagene + MSM + Condroitina 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 22.87
+      }
+    ]
+  },
+  "B0843HC95Y": {
+    "name": "Collagene + Glucosamina per Articolazioni 180 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 19.9
+      }
+    ]
+  },
+  "B011LY3S7U": {
+    "name": "Biotina 10000mcg 365 Compresse Capelli Pelle Unghie",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 21.97
+      }
+    ]
+  },
+  "B0CP88FDJ4": {
+    "name": "Bandini Biotina per Capelli Unghie e Pelle 365 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 9.9
+      }
+    ]
+  },
+  "B06XTYHDK6": {
+    "name": "Biotina + Zinco + Selenio + Miglio 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 14.9
+      }
+    ]
+  },
+  "B07PM7B4NK": {
+    "name": "Acido Ialuronico 250mg + Collagene 120 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 38.99
+      }
+    ]
+  },
+  "B07S24WKQP": {
+    "name": "Cheratina + Biotina + Zinco Capelli 90 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 17.95
+      }
+    ]
+  },
+  "B07VK7Y3CK": {
+    "name": "Acido Ialuronico 400mg 90 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 28.99
+      }
+    ]
+  },
+  "B07XPCY8BG": {
+    "name": "Hair Skin Nails Multivitaminico 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 25.9
+      }
+    ]
+  },
+  "B07WD19ZLL": {
+    "name": "Acido Ialuronico + Q10 60 Capsule Beauty",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 16.67
+      }
+    ]
+  },
+  "B01FK5SOWU": {
+    "name": "Guaranà Vegavero 500mg 120 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 13.95
+      }
+    ]
+  },
+  "B07DKQ6QV6": {
+    "name": "Guaranà Bio 400mg 200 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 8.49
+      }
+    ]
+  },
+  "B018GHZWCO": {
+    "name": "Ginseng Coreano Panax 2000mg 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 14.9
+      }
+    ]
+  },
+  "B076M64FW6": {
+    "name": "Ginseng Rosso Coreano 4500mg 90 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 21.99
+      }
+    ]
+  },
+  "B07888W44N": {
+    "name": "Caffeina 200mg 250 Compresse Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 21.9
+      }
+    ]
+  },
+  "B076X34249": {
+    "name": "Yerba Mate Bio 500mg 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 22.8
+      }
+    ]
+  },
+  "B07X2B8NZG": {
+    "name": "Ginseng + Guaranà + Maca Energy Complex 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 8.49
+      }
+    ]
+  },
+  "B004WYVD1A": {
+    "name": "NOW Foods Energy Caffeina Naturale 200mg 250 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 13.97
+      }
+    ]
+  },
+  "B00HHYI23O": {
+    "name": "NOW Foods Super Enzymes 90 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 23.99
+      }
+    ]
+  },
+  "B01AY7FXGE": {
+    "name": "Enzimi Digestivi Vegavero 120 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 23.99
+      }
+    ]
+  },
+  "B018UFDGP2": {
+    "name": "Carbone Vegetale Attivo 300mg 90 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 5.48
+      }
+    ]
+  },
+  "B07T9N6N5D": {
+    "name": "Carbone Attivo 2000mg 200 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 9.99
+      }
+    ]
+  },
+  "B084YZB6FH": {
+    "name": "Enzimi Digestivi con Probiotici 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 27.59
+      }
+    ]
+  },
+  "B07BZ8LSN4": {
+    "name": "Zenzero Bio 650mg 120 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 12.66
+      }
+    ]
+  },
+  "B0C1T4HM49": {
+    "name": "Supradyn Ricarica Completo 95 Compresse Rivestite",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 28.42
+      }
+    ]
+  },
+  "B07VSYCZQ1": {
+    "name": "Vitamina B Complex Vegavero 180 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 17.32
+      }
+    ]
+  },
+  "B08GG9T6SW": {
+    "name": "Ferro Bisglicinato 40mg 90 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 14.99
+      }
+    ]
+  },
+  "B00O8SS8CM": {
+    "name": "Ferro Fumarato + Vitamina C Solgar 90 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 25.0
+      }
+    ]
+  },
+  "B00JT8470S": {
+    "name": "MyProtein Impact Whey Protein 1kg",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 71.72
+      }
+    ]
+  },
+  "B08MY15CZG": {
+    "name": "Ashwagandha Bio 600mg 120 Capsule Vegane",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 21.9
+      }
+    ]
+  },
+  "B06WRSGKCK": {
+    "name": "Drenante Forte Plus Naturale 500ml",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 12.95
+      }
+    ]
+  },
+  "B07GT9TD8K": {
+    "name": "Chetoni Esogeni BHB 1800mg 120 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 7.98
+      }
+    ]
+  },
+  "B07X9SD71F": {
+    "name": "Citrullina Malato 3000mg 240 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 22.99
+      }
+    ]
+  },
+  "B01M7O2RWS": {
+    "name": "Enterogermina 4 Miliardi 20 Capsule",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 9.94
+      }
+    ]
+  },
+  "B08QMS7768": {
+    "name": "NOW Foods Magnesio Citrato 200mg 250 Compresse",
+    "prices": [
+      {
+        "date": "2026-02-18",
+        "price": 11.7
       }
     ]
   }
