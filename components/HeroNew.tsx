@@ -1,6 +1,9 @@
 import Link from 'next/link';
+import products from '@/data/products.json';
 
 export default function HeroNew() {
+  const productCount = products.length;
+  const categoryCount = new Set(products.map((p: any) => p.category)).size;
   return (
     <div className="bg-gradient-to-b from-slate-50 to-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -89,11 +92,11 @@ export default function HeroNew() {
           <div className="mt-16 border-t border-gray-200 pt-8">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
               <div className="text-center">
-                <div className="text-2xl font-bold text-emerald-600">30+</div>
+                <div className="text-2xl font-bold text-emerald-600">{productCount}+</div>
                 <div className="text-sm text-slate-500">Prodotti disponibili</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold text-emerald-600">6</div>
+                <div className="text-2xl font-bold text-emerald-600">{categoryCount}</div>
                 <div className="text-sm text-slate-500">Categorie principali</div>
               </div>
               <div className="text-center">
