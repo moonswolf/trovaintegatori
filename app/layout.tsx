@@ -92,6 +92,9 @@ export default function RootLayout({
             gtag('config', 'G-FHKSW9LYR1');
           `}
         </Script>
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content="#059669" />
+        <link rel="apple-touch-icon" href="/icons/icon-192x192.png" />
         <link rel="canonical" href={baseUrl} />
         <meta name="geo.region" content="IT" />
         <meta name="geo.placename" content="Italia" />
@@ -107,6 +110,9 @@ export default function RootLayout({
           {children}
           <CompareBar />
         </CompareProvider>
+        <Script id="sw-register" strategy="afterInteractive">
+          {`if('serviceWorker' in navigator){navigator.serviceWorker.register('/sw.js')}`}
+        </Script>
       </body>
     </html>
   );
