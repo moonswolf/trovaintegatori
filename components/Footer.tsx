@@ -85,12 +85,12 @@ export default function Footer() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mt-8 pt-8 border-t border-slate-800">
             {/* Legal & Info */}
-            <div>
+            <div className="md:col-span-4">
               <h4 className="text-white font-semibold mb-4 text-sm uppercase tracking-wider">Informazioni</h4>
-              <ul className="space-y-2 text-sm">
-                <li><Link href="#" className="hover:text-white transition-colors">Privacy Policy</Link></li>
-                <li><Link href="#" className="hover:text-white transition-colors">Termini e Condizioni</Link></li>
-                <li><Link href="#" className="hover:text-white transition-colors">Cookie Policy</Link></li>
+              <ul className="space-y-2 md:space-y-0 md:flex md:flex-row md:gap-6 text-sm">
+                <li><Link href="/privacy-policy" className="hover:text-white transition-colors">Privacy Policy</Link></li>
+                <li><Link href="/termini-e-condizioni" className="hover:text-white transition-colors">Termini e Condizioni</Link></li>
+                <li><Link href="/cookie-policy" className="hover:text-white transition-colors">Cookie Policy</Link></li>
               </ul>
             </div>
           </div>
@@ -105,7 +105,7 @@ export default function Footer() {
             © {currentYear} TrovaIntegratori.it — Tutti i diritti riservati
           </p>
           <p className="mt-1 text-slate-600 text-xs">
-            Made in Italy · Powered by AI
+            Made in Italy — Made by <a href="https://francescopiombo.it" target="_blank" rel="noopener noreferrer" className="hover:text-slate-400 transition-colors">Francesco Piombo</a> and powered by AI
           </p>
         </div>
       </div>
